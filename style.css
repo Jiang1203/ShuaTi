@@ -338,6 +338,13 @@ textarea:focus,
   box-shadow: 0 12px 24px rgba(74, 144, 226, 0.24);
 }
 
+.primary-button.compact {
+  width: auto;
+  min-height: 48px;
+  margin-top: 0;
+  box-shadow: none;
+}
+
 .primary-button:not(:disabled):active,
 .secondary-button:not(:disabled):active,
 .ghost-button:not(:disabled):active,
@@ -612,6 +619,87 @@ textarea:focus,
   font-size: 20px;
 }
 
+.random-practice {
+  display: grid;
+  grid-template-columns: minmax(110px, 1fr) minmax(180px, 1.4fr);
+  align-items: end;
+  gap: 10px;
+}
+
+.random-practice .field {
+  margin-bottom: 0;
+}
+
+.bank-list {
+  display: grid;
+  gap: 10px;
+}
+
+.bank-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: #fbfcfe;
+}
+
+.bank-item-info {
+  min-width: 0;
+}
+
+.bank-item-info strong,
+.bank-item-info span {
+  display: block;
+}
+
+.bank-item-info strong {
+  overflow: hidden;
+  margin-bottom: 4px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.bank-item-info span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.bank-actions {
+  display: flex;
+  gap: 7px;
+}
+
+.bank-actions button {
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  display: grid;
+  place-items: center;
+  color: var(--text);
+  background: #fff;
+}
+
+.bank-actions button[data-bank-action="delete"] {
+  color: var(--danger);
+}
+
+.bank-actions svg {
+  width: 18px;
+  height: 18px;
+}
+
+.empty-list {
+  padding: 20px 12px;
+  color: var(--muted);
+  text-align: center;
+  background: #f5f7fa;
+  border-radius: var(--radius);
+}
+
 .stats-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -677,5 +765,13 @@ textarea:focus,
 
   .practice-grid {
     grid-template-columns: 1fr;
+  }
+
+  .random-practice {
+    grid-template-columns: 1fr;
+  }
+
+  .primary-button.compact {
+    width: 100%;
   }
 }
