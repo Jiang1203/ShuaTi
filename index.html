@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#4a90e2" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="宠物营养刷题" />
+    <title>宠物营养师 AI 刷题助手</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./assets/icon/app-icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="./assets/icon/app-icon-192.png" />
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./assets/lucide.min.js" defer></script>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Pet Nutrition Quiz</p>
+          <h1>宠物营养师 AI 刷题助手</h1>
+          <p class="subtitle">上传学习笔记，自动生成练习题</p>
+        </div>
+        <div class="topbar-actions">
+          <button class="icon-button" id="installAppBtn" type="button" aria-label="安装到手机" title="安装到手机" hidden>
+            <i data-lucide="download"></i>
+          </button>
+          <button class="icon-button" id="clearStorageBtn" type="button" aria-label="清空本地数据" title="清空本地数据">
+            <i data-lucide="trash-2"></i>
+          </button>
+        </div>
+      </header>
+
+      <nav class="bottom-nav" aria-label="功能导航">
+        <button class="nav-item is-active" type="button" data-view="home">
+          <i data-lucide="sparkles"></i>
+          <span>生成</span>
+        </button>
+        <button class="nav-item" type="button" data-view="quiz">
+          <i data-lucide="book-open-check"></i>
+          <span>刷题</span>
+        </button>
+        <button class="nav-item" type="button" data-view="library">
+          <i data-lucide="layers-3"></i>
+          <span>专项</span>
+        </button>
+        <button class="nav-item" type="button" data-view="report">
+          <i data-lucide="chart-no-axes-column"></i>
+          <span>报告</span>
+        </button>
+      </nav>
+
+      <main>
+        <section class="view is-active" id="homeView">
+          <section class="panel">
+            <div class="section-heading">
+              <div>
+                <h2>导入 Markdown 笔记</h2>
+                <p>支持 .md、.markdown、.txt</p>
+              </div>
+              <i data-lucide="file-text"></i>
+            </div>
+
+            <label class="file-drop" for="noteFile">
+              <input id="noteFile" type="file" accept=".md,.markdown,.txt,text/markdown,text/plain" />
+              <i data-lucide="upload-cloud"></i>
+              <strong>选择文件</strong>
+              <span>或直接粘贴 Get 笔记内容</span>
+            </label>
+
+            <textarea id="noteText" placeholder="请粘贴Get笔记导出的Markdown内容..."></textarea>
+
+            <div class="info-grid" id="fileInfo">
+              <div>
+                <span>文件名</span>
+                <strong id="fileName">未选择</strong>
+              </div>
+              <div>
+                <span>总字数</span>
+                <strong id="wordCount">0</strong>
+              </div>
+              <div>
+                <span>预计知识点</span>
+                <strong id="knowledgeEstimate">0</strong>
+              </div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <div>
+                <h2>AI 生成设置</h2>
+                <p>DeepSeek API，本地浏览器直接调用</p>
+              </div>
+              <i data-lucide="bot"></i>
+            </div>
+
+            <label class="field">
+              <span>DeepSeek API Key</span>
+              <input id="apiKey" type="password" placeholder="sk-..." autocomplete="off" />
+            </label>
+
+            <label class="check-row">
+              <input id="rememberKey" type="checkbox" />
+              <span>仅在本机记住 API Key</span>
+            </label>
+
+            <div class="control-group">
+              <span>题目数量</span>
+              <div class="segmented" id="countOptions">
+                <button type="button" data-value="10">10题</button>
+                <button class="is-selected" type="button" data-value="20">20题</button>
+                <button type="button" data-value="30">30题</button>
+                <button type="button" data-value="50">50题</button>
+                <button type="button" data-value="100">100题</button>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <span>题型</span>
+              <div class="segmented" id="typeOptions">
+                <button type="button" data-value="single">单选题</button>
+                <button type="button" data-value="multiple">多选题</button>
+                <button type="button" data-value="trueFalse">判断题</button>
+                <button class="is-selected" type="button" data-value="mixed">混合</button>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <span>难度</span>
+              <div class="segmented" id="difficultyOptions">
+                <button type="button" data-value="easy">基础</button>
+                <button type="button" data-value="medium">中等</button>
+                <button type="button" data-value="hard">困难</button>
+                <button class="is-selected" type="button" data-value="mixed">综合</button>
+              </div>
+            </div>
+
+            <button class="primary-button" id="generateBtn" type="button">
+              <i data-lucide="wand-sparkles"></i>
+              <span>开始生成题目</span>
+            </button>
+            <p class="status-text" id="generateStatus" role="status"></p>
+          </section>
+        </section>
+
+        <section class="view" id="quizView">
+          <div class="quiz-top">
+            <div>
+              <p id="questionProgress">第 0 / 0 题</p>
+              <strong id="accuracyText">正确率：0%</strong>
+            </div>
+            <button class="ghost-button" id="favoriteBtn" type="button">
+              <i data-lucide="star"></i>
+              <span>收藏</span>
+            </button>
+          </div>
+
+          <section class="quiz-card" id="quizCard">
+            <div class="empty-state" id="quizEmpty">
+              <i data-lucide="book-open"></i>
+              <h2>还没有可练习的题目</h2>
+              <p>先导入学习笔记生成题库，或在专项中选择已有题目。</p>
+            </div>
+
+            <div id="questionContent" hidden>
+              <div class="tag-row">
+                <span class="tag" id="typeTag">单选题</span>
+                <span class="tag muted" id="difficultyTag">中等</span>
+                <span class="tag soft" id="knowledgeTag">知识点</span>
+              </div>
+              <h2 id="questionTitle"></h2>
+              <div class="option-list" id="optionList"></div>
+              <button class="primary-button" id="submitAnswerBtn" type="button" disabled>
+                <i data-lucide="check-circle-2"></i>
+                <span>查看答案</span>
+              </button>
+              <div class="answer-panel" id="answerPanel" hidden></div>
+            </div>
+          </section>
+
+          <div class="pager">
+            <button class="secondary-button" id="prevQuestionBtn" type="button">
+              <i data-lucide="arrow-left"></i>
+              <span>上一题</span>
+            </button>
+            <button class="secondary-button" id="nextQuestionBtn" type="button">
+              <span>下一题</span>
+              <i data-lucide="arrow-right"></i>
+            </button>
+          </div>
+        </section>
+
+        <section class="view" id="libraryView">
+          <section class="panel">
+            <div class="section-heading">
+              <div>
+                <h2>专项练习</h2>
+                <p>按题库、错题、收藏和题型快速进入</p>
+              </div>
+              <i data-lucide="list-checks"></i>
+            </div>
+            <div class="practice-grid">
+              <button type="button" data-practice="all"><i data-lucide="library"></i><span>全部题目</span><strong id="allCount">0</strong></button>
+              <button type="button" data-practice="wrong"><i data-lucide="rotate-ccw"></i><span>错题本</span><strong id="wrongCount">0</strong></button>
+              <button type="button" data-practice="favorite"><i data-lucide="star"></i><span>收藏题</span><strong id="favoriteCount">0</strong></button>
+              <button type="button" data-practice="trueFalse"><i data-lucide="circle-help"></i><span>仅判断题</span><strong id="tfCount">0</strong></button>
+              <button type="button" data-practice="single"><i data-lucide="circle-dot"></i><span>仅单选题</span><strong id="singleCount">0</strong></button>
+              <button type="button" data-practice="multiple"><i data-lucide="square-check-big"></i><span>仅多选题</span><strong id="multipleCount">0</strong></button>
+            </div>
+          </section>
+        </section>
+
+        <section class="view" id="reportView">
+          <section class="panel">
+            <div class="section-heading">
+              <div>
+                <h2>完成统计</h2>
+                <p>自动根据答题记录更新</p>
+              </div>
+              <i data-lucide="chart-pie"></i>
+            </div>
+            <div class="stats-grid">
+              <div><span>总题数</span><strong id="reportTotal">0</strong></div>
+              <div><span>正确题数</span><strong id="reportCorrect">0</strong></div>
+              <div><span>错误题数</span><strong id="reportWrong">0</strong></div>
+              <div><span>正确率</span><strong id="reportRate">0%</strong></div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="section-heading">
+              <div>
+                <h2>学习报告</h2>
+                <p>依据错题统计生成复习建议</p>
+              </div>
+              <i data-lucide="notebook-tabs"></i>
+            </div>
+            <div class="report-list" id="learningReport"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
