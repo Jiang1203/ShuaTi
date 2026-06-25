@@ -630,6 +630,23 @@ textarea:focus,
   margin-bottom: 0;
 }
 
+.sync-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.sync-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.sync-actions .primary-button,
+.sync-actions .secondary-button {
+  min-width: 0;
+}
+
 .bank-list {
   display: grid;
   gap: 10px;
@@ -768,6 +785,11 @@ textarea:focus,
   }
 
   .random-practice {
+    grid-template-columns: 1fr;
+  }
+
+  .sync-grid,
+  .sync-actions {
     grid-template-columns: 1fr;
   }
 
