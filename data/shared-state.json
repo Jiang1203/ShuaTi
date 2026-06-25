@@ -1,8 +1,559 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T08:57:26.766Z",
+  "updatedAt": "2026-06-25T08:59:10.821Z",
   "questionBanks": [
+    {
+      "id": "99e1a3b9-730b-4fe7-b43e-5fed43d6bf72",
+      "name": "国产猫粮狗粮卫生安全指标解析：从有毒成分到工厂品控的行业现状-2026年06月25日-来自【Get 笔记】 · 06/25 16:59",
+      "createdAt": "2026-06-25T08:59:08.821Z",
+      "questions": [
+        {
+          "id": "940b9ed2-2aed-4ff7-8891-9d793482ed0d",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品卫生安全指标",
+          "question": "以下哪种有毒有害成分在宠物食品中主要来源于皮革水解蛋白？",
+          "options": [
+            {
+              "id": "A",
+              "text": "铬"
+            },
+            {
+              "id": "B",
+              "text": "砷"
+            },
+            {
+              "id": "C",
+              "text": "铅"
+            },
+            {
+              "id": "D",
+              "text": "汞"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "铬普遍存在于皮革水解蛋白中，当前宠物行业不存在铬超标的问题。"
+        },
+        {
+          "id": "f866e111-9933-496d-948b-f89004ee62b5",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物食品污染分类",
+          "question": "宠物食品污染可分为哪几类？",
+          "options": [
+            {
+              "id": "A",
+              "text": "原料污染"
+            },
+            {
+              "id": "B",
+              "text": "加工过程污染"
+            },
+            {
+              "id": "C",
+              "text": "包装与工艺设计带来的污染"
+            },
+            {
+              "id": "D",
+              "text": "运输污染"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "宠物食品污染分为三类：原料污染、加工过程污染、包装与工艺设计带来的污染。"
+        },
+        {
+          "id": "30c9035f-ee5d-4f28-8b65-830db6c48509",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "黄曲霉毒素危害",
+          "question": "宠物摄入黄曲霉毒素超标的食物后，最快2-4小时就会急性中毒死亡。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "黄曲霉毒素是宠物食品领域最受关注的真菌毒素，摄入超标食品后最快2-4小时就会急性中毒死亡。"
+        },
+        {
+          "id": "b6783181-d329-4db0-86c9-adfc86ad41ba",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "三聚氰胺性质",
+          "question": "三聚氰胺属于以下哪类物质？",
+          "options": [
+            {
+              "id": "A",
+              "text": "饲料原料"
+            },
+            {
+              "id": "B",
+              "text": "饲料添加剂"
+            },
+            {
+              "id": "C",
+              "text": "违规添加的化工原料"
+            },
+            {
+              "id": "D",
+              "text": "食品添加剂"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "三聚氰胺本身不属于饲料原料或饲料添加剂，属于违规添加的化工原料。"
+        },
+        {
+          "id": "f3f5f81e-4af4-43ad-84c9-9173243c38b8",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "真菌毒素种类",
+          "question": "以下哪些真菌毒素会导致宠物呕吐？",
+          "options": [
+            {
+              "id": "A",
+              "text": "呕吐毒素"
+            },
+            {
+              "id": "B",
+              "text": "T2毒素"
+            },
+            {
+              "id": "C",
+              "text": "黄曲霉毒素"
+            },
+            {
+              "id": "D",
+              "text": "玉米赤霉烯酮"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "呕吐毒素和T2毒素都会导致宠物呕吐；黄曲霉毒素主要导致急性中毒死亡；玉米赤霉烯酮主要影响繁殖。"
+        },
+        {
+          "id": "f42a0979-91b8-4544-a3c4-0519811c764e",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "国产宠物食品安全性",
+          "question": "讲解者团队对国内几家销量较大的国产宠物粮食进行暗测，所有送检产品的卫生指标都没有超标。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "讲解者团队曾经对国内几家销量较大的国产宠物粮食做过不提前通知品牌的暗测，所有送检产品的卫生指标都没有超标。"
+        },
+        {
+          "id": "516a4856-ee14-4ce3-9824-0ff7721f1a91",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "亚硝酸盐危害",
+          "question": "亚硝酸盐对哪类猫狗中毒发病速度更快、更严重？",
+          "options": [
+            {
+              "id": "A",
+              "text": "身体健康的猫狗"
+            },
+            {
+              "id": "B",
+              "text": "年老体弱的猫狗"
+            },
+            {
+              "id": "C",
+              "text": "幼年猫狗"
+            },
+            {
+              "id": "D",
+              "text": "所有猫狗都一样"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "亚硝酸盐只攻击身体健壮的猫狗，越是身体健康，中毒发病速度更快、更严重。"
+        },
+        {
+          "id": "ee8ed876-59f2-4ed6-accb-c4e25e19294b",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "高肉含量宠物粮长虫问题",
+          "question": "关于高肉含量宠物粮长虫问题，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "营养价值越高、肉含量越高，长虫概率越高"
+            },
+            {
+              "id": "B",
+              "text": "长虫包括肉中带来的蛆虫和存储过程中出现的飞虫"
+            },
+            {
+              "id": "C",
+              "text": "辐照杀菌可以解决长虫问题且无副作用"
+            },
+            {
+              "id": "D",
+              "text": "在江浙沪等南方地区非常普遍"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "辐照杀菌会破坏脂肪，缩短保质期，副作用大，行业很少采用。其他选项正确。"
+        },
+        {
+          "id": "2eecaf3d-dfbd-48de-92bb-86430609341b",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "铬超标现状",
+          "question": "当前宠物行业存在铬超标的问题。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "当前宠物行业不存在铬超标的问题，曾经药品胶囊行业以更高价格收走相关原料，且经过治理后问题已基本解决。"
+        },
+        {
+          "id": "2613dbbd-efb1-4000-a803-83c88676b15c",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "软包粮爆袋原因",
+          "question": "软包粮爆袋的主要原因是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "原料污染"
+            },
+            {
+              "id": "B",
+              "text": "高温灭菌不彻底"
+            },
+            {
+              "id": "C",
+              "text": "包装材料不合格"
+            },
+            {
+              "id": "D",
+              "text": "存储温度过高"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "软包粮爆袋是典型的工艺问题，原因是高温灭菌不彻底。"
+        },
+        {
+          "id": "7e0bfb96-1959-456c-9699-e340faad817e",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "生产合格宠物食品的条件",
+          "question": "生产持续安全卫生、符合卫生指标的宠物食品需要哪些条件？",
+          "options": [
+            {
+              "id": "A",
+              "text": "优秀的配方"
+            },
+            {
+              "id": "B",
+              "text": "安全的加工工艺"
+            },
+            {
+              "id": "C",
+              "text": "原料验收和存储环节严格管控污染"
+            },
+            {
+              "id": "D",
+              "text": "低成本的原料"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "生产合格宠物食品需要三个条件：优秀的配方、安全的加工工艺、原料验收和存储环节严格管控污染。"
+        },
+        {
+          "id": "8b7ffca7-fd99-4d67-897b-36cdd40b4429",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "砷的来源",
+          "question": "砷常存在于杀虫剂中。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "砷也就是砒霜，常存在于杀虫剂中。"
+        },
+        {
+          "id": "fbd32c33-6dfd-45aa-a8bc-17af04557c29",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "硝酸盐转化",
+          "question": "夏季吃不完的罐头中，细菌会将硝酸盐转化为什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "亚硝酸盐"
+            },
+            {
+              "id": "B",
+              "text": "三聚氰胺"
+            },
+            {
+              "id": "C",
+              "text": "黄曲霉毒素"
+            },
+            {
+              "id": "D",
+              "text": "铬"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "夏季吃不完的罐头中，细菌会将硝酸盐转化为有毒的亚硝酸盐。"
+        },
+        {
+          "id": "7cf7f5ef-e527-41c1-a7ce-9766a95d61a3",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "重金属问题",
+          "question": "以下哪些重金属曾出现在宠物食品原料中并被公众诟病？",
+          "options": [
+            {
+              "id": "A",
+              "text": "铅"
+            },
+            {
+              "id": "B",
+              "text": "汞"
+            },
+            {
+              "id": "C",
+              "text": "铬"
+            },
+            {
+              "id": "D",
+              "text": "砷"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "铅和汞会出现在宠物食品原料中，鱼粉曾因为重金属超标被公众诟病。铬和砷虽有毒，但笔记未提及其在宠物食品原料中被诟病。"
+        },
+        {
+          "id": "5170e676-e005-4282-b59f-1b48d1de96b9",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "玉米赤霉烯酮超标",
+          "question": "曾经有品牌被传玉米赤霉烯酮超标，最终检测结果为超标。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "最终检测仅为检出并未超标。"
+        },
+        {
+          "id": "5e22c24c-6924-487e-a113-5ca397e55020",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "黄曲霉毒素管控",
+          "question": "汉欧工厂使用什么设备来管控黄曲霉毒素？",
+          "options": [
+            {
+              "id": "A",
+              "text": "色选机"
+            },
+            {
+              "id": "B",
+              "text": "辐照设备"
+            },
+            {
+              "id": "C",
+              "text": "高温灭菌设备"
+            },
+            {
+              "id": "D",
+              "text": "烘干机"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "汉欧等工厂都配备色选机，挑出所有潜在霉变玉米。"
+        },
+        {
+          "id": "d9021aa2-c5f8-4cde-a441-07c70dbd4080",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "行业变化",
+          "question": "关于15年前后中国宠物食品行业的变化，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "15年前工厂对黄曲霉毒素管控能力非常弱"
+            },
+            {
+              "id": "B",
+              "text": "15年前每年7月工厂院子里晒满霉变的狗粮"
+            },
+            {
+              "id": "C",
+              "text": "15年前几乎没有猫粮产品"
+            },
+            {
+              "id": "D",
+              "text": "现在的加工工艺和品控能力与15年前相同"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "现在加工工艺、品控能力都发生了巨大变化，与15年前完全不同。"
+        },
+        {
+          "id": "a6a210e9-e208-47a0-84d3-3a11ab387f01",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "辐照杀菌副作用",
+          "question": "辐照杀菌会破坏宠物粮中的脂肪，缩短保质期。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "辐照杀菌会破坏宠物粮中的脂肪，缩短保质期，更容易产生油哈味。"
+        },
+        {
+          "id": "5d4af130-7345-444e-b92f-8619a1abcf23",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "三聚氰胺认知误区",
+          "question": "公众对食品添加剂的恐慌，本质是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "食品添加剂本身有毒"
+            },
+            {
+              "id": "B",
+              "text": "把违规化工添加剂的锅算在了食品添加剂身上"
+            },
+            {
+              "id": "C",
+              "text": "食品添加剂超标"
+            },
+            {
+              "id": "D",
+              "text": "食品添加剂种类太多"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "公众对食品添加剂的恐慌，本质是把违规化工添加剂的锅算在了食品添加剂身上。"
+        },
+        {
+          "id": "91348e27-062a-48b5-971a-72670f14e9d5",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "铬超标危害",
+          "question": "铬超标会导致以下哪些问题？",
+          "options": [
+            {
+              "id": "A",
+              "text": "母猫繁育能力下降"
+            },
+            {
+              "id": "B",
+              "text": "公猫繁育能力下降"
+            },
+            {
+              "id": "C",
+              "text": "慢性中毒"
+            },
+            {
+              "id": "D",
+              "text": "急性中毒案例很多"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "铬超标会导致母猫、公猫繁育能力下降，引发慢性中毒，急性中毒案例非常少。"
+        }
+      ]
+    },
     {
       "id": "a03210a8-69d1-44e8-bc53-6a8a9b2cc53c",
       "name": "宠物食品行业研发创新：从失败案例总结的经验与方法-2026年06月25日-来自【Get 笔记】 (1) · 06/25 16:57",
