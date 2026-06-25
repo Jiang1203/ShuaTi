@@ -1,8 +1,588 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:09:04.952Z",
+  "updatedAt": "2026-06-25T09:10:11.347Z",
   "questionBanks": [
+    {
+      "id": "cf006443-26db-42d7-869a-23a26940dee8",
+      "name": "宠物犬猫营养喂食管理与自制宠物饮食商业落地课程分享-2026年06月25日-来自【Get 笔记】 (2) · 06/25 17:10",
+      "createdAt": "2026-06-25T09:10:08.730Z",
+      "questions": [
+        {
+          "id": "4ce70526-2109-4c3b-b38b-446eca345731",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "成犬能量需求系数",
+          "question": "绝育后成犬的能量需求系数是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1.0倍"
+            },
+            {
+              "id": "B",
+              "text": "1.2倍"
+            },
+            {
+              "id": "C",
+              "text": "1.6倍"
+            },
+            {
+              "id": "D",
+              "text": "1.8倍"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "根据笔记，绝育后成犬能量需求系数为1.6倍。"
+        },
+        {
+          "id": "5f1b86a5-af09-4c1e-9e53-b5931af5fea4",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "成犬能量需求系数",
+          "question": "未绝育成犬的能量需求系数是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1.0倍"
+            },
+            {
+              "id": "B",
+              "text": "1.2倍"
+            },
+            {
+              "id": "C",
+              "text": "1.6倍"
+            },
+            {
+              "id": "D",
+              "text": "1.8倍"
+            }
+          ],
+          "answer": [
+            "D"
+          ],
+          "analysis": "根据笔记，未绝育成犬能量需求系数为1.8倍。"
+        },
+        {
+          "id": "87730709-a3ba-4c30-8109-038d285f5b33",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "成犬能量需求系数",
+          "question": "需要减肥的成犬能量需求系数是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1.0倍"
+            },
+            {
+              "id": "B",
+              "text": "1.2倍"
+            },
+            {
+              "id": "C",
+              "text": "1.4倍"
+            },
+            {
+              "id": "D",
+              "text": "1.6倍"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "根据笔记，需要减肥的成犬能量需求系数为1.0倍。"
+        },
+        {
+          "id": "137ca83a-be8a-42cb-a3f3-6f452cbff79f",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "绝育后犬猫肥胖成因",
+          "question": "科学家通过对照实验发现，雄性犬绝育后肥胖的主要原因是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "代谢率降低"
+            },
+            {
+              "id": "B",
+              "text": "自主运动量大幅降低"
+            },
+            {
+              "id": "C",
+              "text": "食欲增加"
+            },
+            {
+              "id": "D",
+              "text": "激素水平变化导致脂肪堆积"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，科学家测试显示，同等训练和喂食量下，绝育与未绝育雄性工作犬体型无差异，推测绝育后雄性犬自主运动量大幅降低引发肥胖。"
+        },
+        {
+          "id": "3b9676db-8fd2-48ce-bf0a-cf82a1835e79",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "绝育后犬猫肥胖成因",
+          "question": "雌性犬绝育后容易肥胖的原因是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "运动量减少"
+            },
+            {
+              "id": "B",
+              "text": "雌激素抑制食欲，绝育后失去抑制导致食欲上升"
+            },
+            {
+              "id": "C",
+              "text": "代谢率下降"
+            },
+            {
+              "id": "D",
+              "text": "脂肪合成增加"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，雌性激素会抑制犬的食欲，绝育后雌性犬失去雌激素对食欲的控制，食欲上升容易发胖。"
+        },
+        {
+          "id": "72dd183d-9b03-4422-8b8f-08bd470ccb71",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "肥胖犬猫的饮食结构调整",
+          "question": "以下哪些饮食调整有助于肥胖犬猫控制体重？",
+          "options": [
+            {
+              "id": "A",
+              "text": "高蛋白饮食"
+            },
+            {
+              "id": "B",
+              "text": "高脂肪饮食"
+            },
+            {
+              "id": "C",
+              "text": "添加粗纤维"
+            },
+            {
+              "id": "D",
+              "text": "选择能量约3000卡每克的膨化粮"
+            },
+            {
+              "id": "E",
+              "text": "自由采食"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "根据笔记，高蛋白饮食热增耗高、饱腹感强；粗纤维降低能量密度、提高饱腹感；易肥胖犬猫适合选择能量约3000卡每克的膨化粮。高脂肪饮食和高能量膨化粮不利于控制体重，自由采食也不利于控制。"
+        },
+        {
+          "id": "261c6fd8-ce02-438f-8d18-768b328750a6",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "犬猫牙周病预防",
+          "question": "膨化粮可以有效清洁犬猫的牙齿，预防牙结石。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "根据笔记，膨化粮只能摩擦到牙尖，无法清理牙齿根部的牙菌斑，不能起到洁牙作用。"
+        },
+        {
+          "id": "f34b012e-004c-49c1-b98f-0f8438a8db76",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "有效洁牙食材要求",
+          "question": "以下哪种食材的洁牙效果最好？",
+          "options": [
+            {
+              "id": "A",
+              "text": "普通鸡肉"
+            },
+            {
+              "id": "B",
+              "text": "两年生走地鸡"
+            },
+            {
+              "id": "C",
+              "text": "煮烂的牛肉"
+            },
+            {
+              "id": "D",
+              "text": "膨化粮"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，两年生走地鸡的筋膜多，有一定洁牙效果；普通鸡肉筋膜少，洁牙效果较差；煮烂的牛肉失去韧性，洁牙效果差；膨化粮不能洁牙。"
+        },
+        {
+          "id": "8f8a6fc6-40ba-4786-b2ce-d17a98838463",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "有效洁牙食材要求",
+          "question": "有效洁牙的食材需要具备哪些特性？",
+          "options": [
+            {
+              "id": "A",
+              "text": "皮质有韧性"
+            },
+            {
+              "id": "B",
+              "text": "牙齿可以穿透"
+            },
+            {
+              "id": "C",
+              "text": "有一定柔韧性"
+            },
+            {
+              "id": "D",
+              "text": "质地坚硬"
+            },
+            {
+              "id": "E",
+              "text": "含水量高"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "根据笔记，有效洁牙食材需要皮质有韧性、可被牙齿穿透且有柔韧性，才能清理牙齿根部的牙菌斑。"
+        },
+        {
+          "id": "d9f96198-0586-4b5a-b74a-9e1bb42f3399",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "网上自制宠物配方问题",
+          "question": "网上公开的宠物自制配方大多能达到AAFCO营养标准。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "根据笔记，作者验算网上100个配方，99.5个达不到AAFCO标准，绝大部分连中国国标都达不到。"
+        },
+        {
+          "id": "c7903ca8-9608-408e-a6d3-8e0ab6114203",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "网上自制宠物配方问题",
+          "question": "作者验算网上100个宠物自制配方，有多少个达到AAFCO标准？",
+          "options": [
+            {
+              "id": "A",
+              "text": "0个"
+            },
+            {
+              "id": "B",
+              "text": "0.5个"
+            },
+            {
+              "id": "C",
+              "text": "1个"
+            },
+            {
+              "id": "D",
+              "text": "5个"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，100个配方中有99.5个不达标，因此达标的只有0.5个。"
+        },
+        {
+          "id": "6284b150-2669-4b7a-b010-f27edf192d50",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "网上自制宠物配方问题",
+          "question": "网上公开的宠物自制配方存在哪些问题？",
+          "options": [
+            {
+              "id": "A",
+              "text": "格式混乱，部分用百分比、部分用克"
+            },
+            {
+              "id": "B",
+              "text": "肉含量偏低，谷物含量过高"
+            },
+            {
+              "id": "C",
+              "text": "钙磷比和蛋白质不达标"
+            },
+            {
+              "id": "D",
+              "text": "未考虑维生素受热损失"
+            },
+            {
+              "id": "E",
+              "text": "食材种类过多，难以操作"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "根据笔记，网上配方存在格式混乱、肉含量偏低、钙磷比和蛋白质不达标、未考虑维生素受热损失等问题。食材种类多不是问题，但配方本身不达标。"
+        },
+        {
+          "id": "5a51f143-1b56-49f8-aec7-7fe833522806",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "自制宠物配方计算器研发历程",
+          "question": "第一版自制宠物配方计算器是在哪一年推出的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2015年"
+            },
+            {
+              "id": "B",
+              "text": "2016年"
+            },
+            {
+              "id": "C",
+              "text": "2017年"
+            },
+            {
+              "id": "D",
+              "text": "2018年"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，第一版计算器于2016年推出。"
+        },
+        {
+          "id": "28567b92-9e7c-47d6-aa6a-5043fc0523c5",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "自制宠物配方计算器研发历程",
+          "question": "第一版配方计算器仅针对犬，没有猫的计算功能。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "根据笔记，第一版计算器仅针对犬，2017年才新增猫的营养指标。"
+        },
+        {
+          "id": "474aeb0c-6572-4684-954e-45a0215b3dc0",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "配方计算器版权规则",
+          "question": "关于配方计算器的版权，以下说法正确的是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "学员可以分享给朋友"
+            },
+            {
+              "id": "B",
+              "text": "计算器没有溯源标记"
+            },
+            {
+              "id": "C",
+              "text": "外传计算器会被取消更新资格"
+            },
+            {
+              "id": "D",
+              "text": "计算器可以公开售卖"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "根据笔记，计算器仅限付费学员使用，禁止外传，且每个计算器有溯源标记，外传者会被取消更新资格。"
+        },
+        {
+          "id": "e2f88da4-fb90-4795-8ade-ac69e852d129",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "自制宠物饮食创业常见坑点",
+          "question": "自制宠物饮食创业最容易失败的四个坑包括哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "冷链配送"
+            },
+            {
+              "id": "B",
+              "text": "短保质期"
+            },
+            {
+              "id": "C",
+              "text": "现做现送"
+            },
+            {
+              "id": "D",
+              "text": "过度包装"
+            },
+            {
+              "id": "E",
+              "text": "配方创新不足"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "根据笔记，四个核心坑点是冷链配送、短保质期、现做现送、过度包装。配方创新不足不是失败原因，因为课程可以轻松设计大量配方。"
+        },
+        {
+          "id": "0bf0e7b3-e256-41d3-b075-f3798124e875",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "自制宠物饮食创业常见坑点",
+          "question": "HELO袁总认为，中国宠物行业有很多项目是靠给消费者找麻烦而取得成功的。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "根据笔记，袁总说没有一个项目是靠给消费者找麻烦而取得成功的。"
+        },
+        {
+          "id": "7171c499-5321-4f2d-ac31-31b274a2847b",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "自制宠物饮食课程设计目标",
+          "question": "自制宠物饮食课程的核心教学内容是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "如何设计精美包装"
+            },
+            {
+              "id": "B",
+              "text": "如何计算配方使营养达标"
+            },
+            {
+              "id": "C",
+              "text": "如何选择冷链物流"
+            },
+            {
+              "id": "D",
+              "text": "如何提高宠物适口性"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，课程核心是教大家计算配方，将猫狗饮食调整到符合营养标准的合理状态。"
+        },
+        {
+          "id": "582ad07e-3c35-4abc-ad61-d62e405315a7",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "自制宠物饮食课程设计目标",
+          "question": "自制宠物饮食课程除了营养知识外，还提供哪些商业支持？",
+          "options": [
+            {
+              "id": "A",
+              "text": "保存方法"
+            },
+            {
+              "id": "B",
+              "text": "售卖技巧"
+            },
+            {
+              "id": "C",
+              "text": "卖点提炼"
+            },
+            {
+              "id": "D",
+              "text": "冷链建设方案"
+            },
+            {
+              "id": "E",
+              "text": "失败项目经验分享"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "analysis": "根据笔记，课程提供保存、售卖、卖点提炼等支持，并分享失败项目经验。冷链建设方案未提及。"
+        },
+        {
+          "id": "7ee19c67-cb15-47ae-9ecb-7ce97f89d117",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "自制宠物饮食创业创新方向",
+          "question": "自制宠物饮食的创新应该主要放在配方层面。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "根据笔记，创新不应只停留在配方，应更多在用户体验上下功夫，如包装、逻辑设计、单次量大小等。"
+        }
+      ]
+    },
     {
       "id": "2d6ce4af-0c47-496b-8a29-7b2609cc9cdc",
       "name": "犬生长期营养管理：不同体型犬生长规律、肥胖预防与喂食方案指南-2026年06月25日-来自【Get 笔记】 (1) · 06/25 17:09",
