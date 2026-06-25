@@ -1,8 +1,572 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:13:46.841Z",
+  "updatedAt": "2026-06-25T09:15:13.123Z",
   "questionBanks": [
+    {
+      "id": "2e7e466d-7bea-4918-8119-3be975b3b05d",
+      "name": "猫咪初生期（0-5周龄）营养与养护全指南——公益猫护理课程-2026年06月25日-来自【Get 笔记】 · 06/25 17:15",
+      "createdAt": "2026-06-25T09:15:10.878Z",
+      "questions": [
+        {
+          "id": "956b8fd7-df06-4531-955c-03fc320ad6cb",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "猫出生期的定义",
+          "question": "猫的出生期通常定义为从出生到多少周龄？",
+          "options": [
+            {
+              "id": "A",
+              "text": "3周龄"
+            },
+            {
+              "id": "B",
+              "text": "5周龄"
+            },
+            {
+              "id": "C",
+              "text": "7周龄"
+            },
+            {
+              "id": "D",
+              "text": "9周龄"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，猫的出生期定义为从出生到五周龄，约一个月时间。"
+        },
+        {
+          "id": "cef25e72-3e98-431a-8ecd-2a856aedb600",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "初乳的定义",
+          "question": "母猫分娩后多长时间内分泌的乳汁被定义为初乳？",
+          "options": [
+            {
+              "id": "A",
+              "text": "24小时内"
+            },
+            {
+              "id": "B",
+              "text": "48小时内"
+            },
+            {
+              "id": "C",
+              "text": "72小时内"
+            },
+            {
+              "id": "D",
+              "text": "96小时内"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，母猫分娩后72小时内分泌的乳汁被定义为初乳。"
+        },
+        {
+          "id": "74d0e19d-499b-4280-8153-e547ead1c755",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "初乳的作用",
+          "question": "初乳为新生幼猫提供哪些物质？",
+          "options": [
+            {
+              "id": "A",
+              "text": "营养素"
+            },
+            {
+              "id": "B",
+              "text": "水分"
+            },
+            {
+              "id": "C",
+              "text": "生长因子"
+            },
+            {
+              "id": "D",
+              "text": "消化酶"
+            },
+            {
+              "id": "E",
+              "text": "母源免疫球蛋白"
+            },
+            {
+              "id": "F",
+              "text": "抗生素"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "笔记明确列出初乳提供营养素、水分、生长因子、消化酶和母体免疫球蛋白。"
+        },
+        {
+          "id": "e06d4a60-40a5-4f3d-9f77-a5eb78648581",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "肠内渗透性",
+          "question": "幼猫出生最初几小时，消化蛋白酶浓度低，允许免疫球蛋白直接进入血液循环。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记提到幼猫出生最初几小时存在肠内渗透性，消化蛋白酶浓度低，允许免疫球蛋白直接进入血液循环。"
+        },
+        {
+          "id": "f083d610-f263-49ee-9631-b9db2342033f",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "未获得初乳幼猫的应对方案",
+          "question": "对于未获得初乳的幼猫，临床中推荐的提前免疫方案是注射哪种疫苗？",
+          "options": [
+            {
+              "id": "A",
+              "text": "英特威猫三联"
+            },
+            {
+              "id": "B",
+              "text": "硕腾妙三多"
+            },
+            {
+              "id": "C",
+              "text": "辉瑞猫五联"
+            },
+            {
+              "id": "D",
+              "text": "狂犬疫苗"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到推荐使用硕腾的妙三多灭活疫苗，实操性更强。"
+        },
+        {
+          "id": "1b4a175d-c66a-4a6b-9b2a-3c2872d85124",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "孤儿猫的产生场景",
+          "question": "以下哪些场景可能导致孤儿猫的产生？",
+          "options": [
+            {
+              "id": "A",
+              "text": "母猫头胎经验不足拒绝哺育"
+            },
+            {
+              "id": "B",
+              "text": "母猫受到惊吓离开"
+            },
+            {
+              "id": "C",
+              "text": "母猫搬家时遗失幼猫"
+            },
+            {
+              "id": "D",
+              "text": "母猫奶水不足"
+            },
+            {
+              "id": "E",
+              "text": "幼猫先天畸形"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记指出繁育场景中母猫头胎经验不足或受惊吓拒绝哺育，流浪救助中母猫受惊离开或搬家时遗失幼猫。"
+        },
+        {
+          "id": "bc20cced-1c5e-4c2f-b8e3-99407d596330",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "孤儿猫奶粉选择",
+          "question": "笔记推荐的孤儿猫奶粉品牌是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "皇家"
+            },
+            {
+              "id": "B",
+              "text": "贝克（贝库）"
+            },
+            {
+              "id": "C",
+              "text": "冠能"
+            },
+            {
+              "id": "D",
+              "text": "希尔斯"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记推荐贝克（也叫贝库）猫奶粉。"
+        },
+        {
+          "id": "dfc8aac4-22c5-43a4-9df6-b39b5dd64a6b",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "奶粉冲调方法",
+          "question": "冲调奶粉时，应先将水倒入奶粉中。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记强调冲调奶粉需要先准备好水，再将奶粉倒入水中摇晃。"
+        },
+        {
+          "id": "a629c1f1-97c8-48f6-89fb-de139f5dbd34",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "孤儿猫环境温度",
+          "question": "孤儿猫的生活环境温度应接近多少度？",
+          "options": [
+            {
+              "id": "A",
+              "text": "30℃"
+            },
+            {
+              "id": "B",
+              "text": "35℃"
+            },
+            {
+              "id": "C",
+              "text": "40多℃"
+            },
+            {
+              "id": "D",
+              "text": "50℃"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记提到环境温度需要接近母猫腹部的40多度。"
+        },
+        {
+          "id": "373d314b-4f92-480f-a400-8133647e942c",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "孤儿猫排泄护理",
+          "question": "关于孤儿猫排泄护理，以下说法正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "排尿次数约为喂奶次数的2倍"
+            },
+            {
+              "id": "B",
+              "text": "每天排便1-2次为最佳"
+            },
+            {
+              "id": "C",
+              "text": "刺激排泄时需要带力度按压"
+            },
+            {
+              "id": "D",
+              "text": "腹泻多因着凉或消化酶不足"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出排尿次数约为喂奶次数的2倍，每天排便1次最佳，刺激需带力度按压，腹泻多因着凉或消化酶不足。"
+        },
+        {
+          "id": "4b826839-2fc5-4ec8-8d37-9bc0fefbcfaa",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "脐带脱落时间",
+          "question": "有母猫照顾的幼猫，脐带一般在出生后9-14天自然脱落。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记提到脐带一般会在出生后9-14天，也就是第二周自然完好脱落。"
+        },
+        {
+          "id": "30fa2f86-7832-4ddd-a54f-9a4b7f66c903",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "幼猫体重增长标准",
+          "question": "幼猫正常的每周体重增长速度是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "50-75克"
+            },
+            {
+              "id": "B",
+              "text": "100-125克"
+            },
+            {
+              "id": "C",
+              "text": "150-175克"
+            },
+            {
+              "id": "D",
+              "text": "200-225克"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出正常增长速度为每周100-125克。"
+        },
+        {
+          "id": "6e721273-9077-4127-8e1e-993bcff45654",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "幼猫喂食频率",
+          "question": "关于幼猫喂食频率，以下说法正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "出生第一周必须每2-3小时喂食一次"
+            },
+            {
+              "id": "B",
+              "text": "满两周后可以拉长喂食间隔"
+            },
+            {
+              "id": "C",
+              "text": "喂食频率应根据体重增速和排泄状态调整"
+            },
+            {
+              "id": "D",
+              "text": "幼猫应尽量喂胖以增强抵抗力"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记指出第一周需每2-3小时喂食，两周后拉长间隔，频率需根据体重和排泄调整，不建议过度喂养。"
+        },
+        {
+          "id": "0f758f21-8e20-461a-b970-5c6db81e8e87",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "3S综合症",
+          "question": "3S综合症是指低温、低血糖、脱水形成的恶性循环。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确指出3S综合症指低温、低血糖、脱水的恶性循环。"
+        },
+        {
+          "id": "7532df87-6509-4f14-a5c3-477d6ac3d13d",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "初生幼猫水分占比",
+          "question": "初生幼猫身体水分占比约为多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "60%"
+            },
+            {
+              "id": "B",
+              "text": "70%"
+            },
+            {
+              "id": "C",
+              "text": "82%"
+            },
+            {
+              "id": "D",
+              "text": "90%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记提到初生幼猫身体水分占比高达82%。"
+        },
+        {
+          "id": "28defa9a-6a77-402b-8596-a39bdc8fd029",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "成年猫理想体重",
+          "question": "成年公猫和母猫的理想体重分别约为？",
+          "options": [
+            {
+              "id": "A",
+              "text": "公猫4.2kg"
+            },
+            {
+              "id": "B",
+              "text": "公猫3kg"
+            },
+            {
+              "id": "C",
+              "text": "母猫3kg"
+            },
+            {
+              "id": "D",
+              "text": "母猫4.2kg"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "analysis": "笔记指出公猫理想体重约4.2kg（8斤），母猫约3kg（6斤）。"
+        },
+        {
+          "id": "16e2385e-258d-428b-b9bb-06ee25727c61",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "抚触的作用",
+          "question": "人为抚触可以帮助幼猫发育神经和大脑。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记提到频繁的接触可以帮助幼猫发育神经和大脑。"
+        },
+        {
+          "id": "a051ebd3-e72c-4a4e-b003-b926bbde4bfc",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "初乳与常乳成分差异",
+          "question": "与常乳相比，初乳中哪种成分含量更高？",
+          "options": [
+            {
+              "id": "A",
+              "text": "乳糖"
+            },
+            {
+              "id": "B",
+              "text": "粗蛋白"
+            },
+            {
+              "id": "C",
+              "text": "钙"
+            },
+            {
+              "id": "D",
+              "text": "磷"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中表格显示初乳粗蛋白含量高于常乳，但未给出具体数值，根据常识初乳蛋白更高。"
+        },
+        {
+          "id": "0091e642-b2eb-4445-93f5-eb3c1e80dc08",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "脐带脱落异常处理",
+          "question": "以下哪些情况需要额外关注幼猫脐带护理？",
+          "options": [
+            {
+              "id": "A",
+              "text": "脐带完好脱落"
+            },
+            {
+              "id": "B",
+              "text": "脐带过早脱落"
+            },
+            {
+              "id": "C",
+              "text": "脐带被同窝小猫损伤"
+            },
+            {
+              "id": "D",
+              "text": "脐带迟迟不脱落"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出脐带过早脱落、被损伤或迟迟不脱落都需要额外照顾。"
+        },
+        {
+          "id": "f931e37c-7c99-4aad-8ff1-9d135ce2c2ab",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "跨行业采购",
+          "question": "宠物行业的电热毯价格比理疗行业的电热毯价格高。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记提到宠物行业电热毯约30元，理疗行业价格仅为1/4，说明宠物行业更贵。"
+        }
+      ]
+    },
     {
       "id": "0f52c455-38cd-4823-941a-bbc9147a3142",
       "name": "宠物行业门店培训：老龄犬猫营养配方设计与市场机会分析-2026年06月25日-来自【Get 笔记】 · 06/25 17:13",
