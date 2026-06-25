@@ -1,8 +1,1708 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T08:16:48.629Z",
+  "updatedAt": "2026-06-25T08:57:26.766Z",
   "questionBanks": [
+    {
+      "id": "a03210a8-69d1-44e8-bc53-6a8a9b2cc53c",
+      "name": "宠物食品行业研发创新：从失败案例总结的经验与方法-2026年06月25日-来自【Get 笔记】 (1) · 06/25 16:57",
+      "createdAt": "2026-06-25T08:57:25.019Z",
+      "questions": [
+        {
+          "id": "5d6c3a2b-d261-42dc-a9c0-e6a0bd883b61",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "产品设计的核心目的",
+          "question": "根据分享者的观点，所有产品设计的唯一出发点是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "追求技术创新"
+            },
+            {
+              "id": "B",
+              "text": "解决用户的某一个具体问题"
+            },
+            {
+              "id": "C",
+              "text": "模仿竞争对手"
+            },
+            {
+              "id": "D",
+              "text": "降低生产成本"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "分享者明确指出：所有产品设计的唯一出发点，是解决用户的某一个具体问题，必须以解决用户痛点为开始。"
+        },
+        {
+          "id": "9ae8a977-24e1-4b09-8858-40aa9510427f",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "产品的五个分层结构",
+          "question": "以下哪些属于分享者提到的产品五个层次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "核心利益产品"
+            },
+            {
+              "id": "B",
+              "text": "有形产品"
+            },
+            {
+              "id": "C",
+              "text": "期望产品"
+            },
+            {
+              "id": "D",
+              "text": "附加服务产品"
+            },
+            {
+              "id": "E",
+              "text": "潜在诉求产品"
+            },
+            {
+              "id": "F",
+              "text": "品牌产品"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "分享者提到产品分为五个层次：核心利益产品、有形产品、期望产品、附加服务产品、潜在诉求产品。"
+        },
+        {
+          "id": "10231f19-714d-4aee-aa25-8ef2b9d7d938",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "团队开发的爆款率要求",
+          "question": "分享者认为，组织创新团队开发产品时，不需要对爆款率有明确要求。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "分享者明确表示：在组织创新团队开发产品时，是有爆款率要求的，因为产品开发的时间成本和物料成本都很高。"
+        },
+        {
+          "id": "eacf218a-24c5-4e2c-af3b-2608b281ebaf",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物食品用户的五层需求模型",
+          "question": "在宠物食品用户五层需求模型中，第二层需求主要关注什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "猫粮、罐头等客观物品"
+            },
+            {
+              "id": "B",
+              "text": "适口性、口感风味、新鲜食材、安全生产工艺"
+            },
+            {
+              "id": "C",
+              "text": "吃饱吃好加安全"
+            },
+            {
+              "id": "D",
+              "text": "猫狗的健康和长寿"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "分享者指出：第二层需求包括更好的适口性、口感风味、新鲜食材、安全生产工艺等。"
+        },
+        {
+          "id": "bc4b6be4-43b4-4cec-9cf4-4a62a0541729",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "宠物食品用户的五层需求模型",
+          "question": "以下哪些属于宠物食品用户五层需求模型中的层次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "客观物品（猫粮、罐头等）"
+            },
+            {
+              "id": "B",
+              "text": "适口性与安全工艺"
+            },
+            {
+              "id": "C",
+              "text": "吃饱吃好加安全"
+            },
+            {
+              "id": "D",
+              "text": "猫狗的健康和长寿"
+            },
+            {
+              "id": "E",
+              "text": "更长久安心的陪伴"
+            },
+            {
+              "id": "F",
+              "text": "品牌知名度"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "五层需求从低到高为：客观物品、适口性与安全工艺、吃饱吃好加安全、猫狗健康长寿、更长久安心的陪伴。"
+        },
+        {
+          "id": "63a77da0-5597-4838-ad23-9f0f6e22ed72",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "2007年狗粮拌饭失败案例",
+          "question": "2007年狗粮拌饭失败的核心原因之一是产品推出时间过早，当时市场对湿粮接受度很低。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "分享者总结失败原因：一是改变用户行为，操作更麻烦；二是推出时间过早，当时市场对湿粮接受度很低。"
+        },
+        {
+          "id": "00ca567a-682a-4aa5-8366-86e70cfab161",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "对改变用户行为的结论",
+          "question": "根据分享者20年研发经验，以下哪项行为应该大力做？",
+          "options": [
+            {
+              "id": "A",
+              "text": "改变和纠正用户行为"
+            },
+            {
+              "id": "B",
+              "text": "引导用户行为"
+            },
+            {
+              "id": "C",
+              "text": "迎合用户行为"
+            },
+            {
+              "id": "D",
+              "text": "忽略用户行为"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "分享者总结：改变和纠正用户行为的事不要做，引导用户行为的事谨慎做，迎合用户的事情大力做。"
+        },
+        {
+          "id": "b0680280-a321-4ca6-851f-78d18dea3c55",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "创新的定义与补充观点",
+          "question": "关于创新，分享者提出了哪些观点？",
+          "options": [
+            {
+              "id": "A",
+              "text": "创新是成熟元素的重新组合"
+            },
+            {
+              "id": "B",
+              "text": "不建议做发明式创新"
+            },
+            {
+              "id": "C",
+              "text": "有实力的企业应投入基础性研发"
+            },
+            {
+              "id": "D",
+              "text": "创新必须从零开始发明"
+            },
+            {
+              "id": "E",
+              "text": "中国宠物行业基础研发已很充分"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "分享者认为创新是成熟元素的重新组合，不建议做发明式创新；同时补充有实力的企业应投入基础性研发，这是目前中国宠物行业比较缺失的部分。"
+        },
+        {
+          "id": "9fc4d1dd-95f4-4c00-a302-a58c1df99d9b",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品创新的四个落地方向",
+          "question": "冻干是食品工艺对接宠物食品的成功案例之一。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "分享者指出：冻干是一个典型的食品工艺和宠物食品对接的成功案例。"
+        },
+        {
+          "id": "49de5722-3b6c-432d-88d2-4c8fd05ac1c1",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物食品创新的四个落地方向",
+          "question": "以下哪个是分享者提到的宠物食品创新落地方向？",
+          "options": [
+            {
+              "id": "A",
+              "text": "增加产品种类"
+            },
+            {
+              "id": "B",
+              "text": "探索新原料的应用"
+            },
+            {
+              "id": "C",
+              "text": "降低生产成本"
+            },
+            {
+              "id": "D",
+              "text": "扩大销售渠道"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "分享者提到四个方向：原料与工艺、功能创新、包装创新、对抗用户行为（反面案例）。其中原料方向包括探索新原料的应用。"
+        },
+        {
+          "id": "e877be1e-cf2e-4cf5-8f50-3d0a8c9949a6",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "宠物食品创新的四个落地方向",
+          "question": "以下哪些属于分享者提到的宠物食品创新落地方向？",
+          "options": [
+            {
+              "id": "A",
+              "text": "原料创新"
+            },
+            {
+              "id": "B",
+              "text": "工艺对接"
+            },
+            {
+              "id": "C",
+              "text": "功能创新"
+            },
+            {
+              "id": "D",
+              "text": "包装创新"
+            },
+            {
+              "id": "E",
+              "text": "价格创新"
+            },
+            {
+              "id": "F",
+              "text": "渠道创新"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "分享者明确四个方向：原料与工艺、功能创新、包装创新，以及对抗用户行为（反面案例）。"
+        },
+        {
+          "id": "131a964f-ee34-4689-a138-36492bfa4bda",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "早中晚粮失败案例",
+          "question": "分享者开发的早中晚分份宠物粮符合猫的自然采食行为。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "分享者指出猫一天采食10~20次，早中晚分份不符合其行为习惯，属于自嗨型产品。"
+        },
+        {
+          "id": "377f3752-6e18-4bf7-b840-ab733b995ed3",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "火腿肠包装湿粮失败案例",
+          "question": "分享者早年开发的火腿肠包装主食湿粮在宠物店被如何对待？",
+          "options": [
+            {
+              "id": "A",
+              "text": "被放在主食区热销"
+            },
+            {
+              "id": "B",
+              "text": "被放在零食区，没人当主食"
+            },
+            {
+              "id": "C",
+              "text": "被宠物店拒绝上架"
+            },
+            {
+              "id": "D",
+              "text": "被消费者抢购一空"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "分享者提到：推广给宠物店后，所有门店都将这款产品放在零食区，没人把它当成宠物主食。"
+        },
+        {
+          "id": "c2fca934-1ae7-4d12-a7fc-eb948268b252",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "鲜粮与中央厨房项目失败案例",
+          "question": "以下哪些是分享者提到的鲜粮或中央厨房项目失败的原因？",
+          "options": [
+            {
+              "id": "A",
+              "text": "产品形态不被认可"
+            },
+            {
+              "id": "B",
+              "text": "时机过早，市场认知不足"
+            },
+            {
+              "id": "C",
+              "text": "渠道推广动力不足"
+            },
+            {
+              "id": "D",
+              "text": "产品质量问题"
+            },
+            {
+              "id": "E",
+              "text": "资金链断裂"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "火腿肠包装湿粮失败因产品形态不被认可；冷藏湿粮配冰箱项目因时机过早；与重重熊合作鲜粮中央厨房项目因店员推广动力不足且消费者缺乏认知。"
+        },
+        {
+          "id": "e164e3d6-d4e2-43f1-b8b1-1bc03d0e25e0",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "膨化主粮生产投资的资金门槛",
+          "question": "2004年在北京房山建一个宠物粮工厂总投资约20万，五个多月回本。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "分享者提到：2004年北京房山宠物粮工厂总投资20万，靠太阳晾晒，五个多月回本。"
+        },
+        {
+          "id": "38d0069d-4648-47ad-92a6-3bc1f8af1ee7",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "膨化主粮生产投资的资金门槛",
+          "question": "根据分享者，当前建设膨化主粮工厂的保守总预算是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2000万"
+            },
+            {
+              "id": "B",
+              "text": "400万"
+            },
+            {
+              "id": "C",
+              "text": "5000万"
+            },
+            {
+              "id": "D",
+              "text": "1亿"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "分享者指出：现在一套设备就需要1500万到2000万，加上周转资金，保守需要5000万总预算。"
+        },
+        {
+          "id": "1e7fda05-62fe-4269-b565-9fb2164fc8d7",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "当前宠物食品创新的最终建议",
+          "question": "分享者对当前宠物食品创新提出了哪些建议？",
+          "options": [
+            {
+              "id": "A",
+              "text": "利用信息不对称获取利益"
+            },
+            {
+              "id": "B",
+              "text": "产品走垂直路线，明确目标群体"
+            },
+            {
+              "id": "C",
+              "text": "聚焦单一目标、精准人群和具体问题"
+            },
+            {
+              "id": "D",
+              "text": "开发包治百病的全卖点产品"
+            },
+            {
+              "id": "E",
+              "text": "坦诚面对用户"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "E"
+          ],
+          "analysis": "分享者建议：信息透明，不能靠信息不对称；产品走垂直路线；全卖点产品失去优势，应聚焦单一目标、精准人群和具体问题。"
+        },
+        {
+          "id": "29a76a5f-7728-4a21-9fb1-b55c3afdfee0",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "产品研发的时机判断原则",
+          "question": "分享者认为，产品创新的时机比创新本身更重要。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "分享者多个失败案例表明，方向正确但时机过早导致失败，时机判断是产品创新的核心能力。"
+        },
+        {
+          "id": "1aa1f99e-84f3-496e-a68d-cc6daa036ade",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "产品研发的时机判断原则",
+          "question": "根据分享者，判断产品研发时机需要考虑哪些因素？",
+          "options": [
+            {
+              "id": "A",
+              "text": "仅凭个人偏好"
+            },
+            {
+              "id": "B",
+              "text": "产品趋势、市场认知和渠道特性"
+            },
+            {
+              "id": "C",
+              "text": "竞争对手数量"
+            },
+            {
+              "id": "D",
+              "text": "资金预算"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "分享者指出：研发产品需要结合当下的产品趋势、市场认知和渠道特性判断，不能只凭自己的偏好推进。"
+        },
+        {
+          "id": "3c512f6f-b95a-4d33-809e-5482ea2771b1",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "宠物食品创新的四个落地方向",
+          "question": "以下哪些是分享者提到的功能创新案例或观点？",
+          "options": [
+            {
+              "id": "A",
+              "text": "洁牙棒满足潜在需求"
+            },
+            {
+              "id": "B",
+              "text": "功能创新要制造新需求"
+            },
+            {
+              "id": "C",
+              "text": "功能创新要解决具体问题"
+            },
+            {
+              "id": "D",
+              "text": "漱口水类产品是功能创新"
+            },
+            {
+              "id": "E",
+              "text": "功能创新应聚焦垂直功能"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "分享者以洁牙棒为例，说明功能创新要解决具体问题，满足潜在需求而非制造需求；漱口水类产品也是功能创新。"
+        }
+      ]
+    },
+    {
+      "id": "d06765ce-504f-4af0-b44f-1348de4fbc33",
+      "name": "宠物食品行业发展趋势与创新方向讲座：面向研发人员的行业洞察-2026年06月17日-来自【Get 笔记】 · 06/25 16:17",
+      "createdAt": "2026-06-25T08:17:44.587Z",
+      "questions": [
+        {
+          "id": "3925da95-b5de-47ff-a3f9-a9767c5b6a89",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品原料天然化趋势",
+          "question": "宠物食品原料天然化趋势中，以下哪种做法属于天然方案？",
+          "options": [
+            {
+              "id": "A",
+              "text": "使用合成EPA/DHA"
+            },
+            {
+              "id": "B",
+              "text": "使用鱼油替代合成EPA/DHA"
+            },
+            {
+              "id": "C",
+              "text": "使用VE+VC复配抗氧化"
+            },
+            {
+              "id": "D",
+              "text": "使用人工抗氧化剂"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，使用鱼油替代合成EPA/DHA属于天然方案，虽然成本更高，但技术上可行。"
+        },
+        {
+          "id": "b9817205-43e5-48db-9f1d-339d3bd509a3",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "疫情后经济环境对宠物食品行业的影响",
+          "question": "疫情后全球经济呈现什么发展趋势？",
+          "options": [
+            {
+              "id": "A",
+              "text": "线性增长"
+            },
+            {
+              "id": "B",
+              "text": "U型复苏"
+            },
+            {
+              "id": "C",
+              "text": "K字型分化"
+            },
+            {
+              "id": "D",
+              "text": "L型衰退"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记中提到，疫情后经济呈现K字型发展趋势，头部企业拿走大部分利润。"
+        },
+        {
+          "id": "1c2c4eaf-abcb-4981-8bbb-8311d05c56ce",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品行业创新特性",
+          "question": "宠物食品属于革命式创新产品。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记明确指出宠物食品是快消品，属于连续式微创新产品，不适合革命式创新。"
+        },
+        {
+          "id": "fb15fe3c-e7cb-42ec-a9be-bcfdb655feb5",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "宠物食品原料结构变化趋势",
+          "question": "以下哪些属于宠物食品原料结构变化的趋势？",
+          "options": [
+            {
+              "id": "A",
+              "text": "单一肉源产品增多"
+            },
+            {
+              "id": "B",
+              "text": "植物蛋白替代动物蛋白"
+            },
+            {
+              "id": "C",
+              "text": "特殊肉源如袋鼠肉、鳄鱼肉被探索"
+            },
+            {
+              "id": "D",
+              "text": "低碳水化合物是猫粮发展方向"
+            },
+            {
+              "id": "E",
+              "text": "人造肉有广阔发展前景"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记提到单一肉源产品增多、特殊肉源被探索、低碳水是猫粮趋势，而植物蛋白被动物蛋白替代，人造肉没有发展前景。"
+        },
+        {
+          "id": "19f74147-cc5d-4121-8a6d-8778ac7ea43d",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "低温烘焙粮的增长逻辑",
+          "question": "低温烘焙粮近期增长较快的主要原因是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "价格低廉"
+            },
+            {
+              "id": "B",
+              "text": "肉含量高且保留干粮便利性"
+            },
+            {
+              "id": "C",
+              "text": "生产工艺简单"
+            },
+            {
+              "id": "D",
+              "text": "适合所有宠物"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出低温烘焙粮肉含量可以做到90%甚至更高，同时保留了干粮的便利性。"
+        },
+        {
+          "id": "1ed157b0-b446-4d44-9dad-e0b1b174f2b3",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品生产模式变革趋势",
+          "question": "传统完整的工业化大生产形式在宠物食品行业不会被打破。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记明确说传统完整的工业化大生产形式会被打破，越来越多烹饪工艺会进入宠物食品生产。"
+        },
+        {
+          "id": "26a7837e-3546-474e-816d-78e05e5115e5",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "定制化宠物食品的难点",
+          "question": "关于定制化宠物食品，以下哪些说法正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "定制化是宠物食品的明确发展方向"
+            },
+            {
+              "id": "B",
+              "text": "国内已有成熟的定制化生产方案"
+            },
+            {
+              "id": "C",
+              "text": "定制化需要解决用户的真实需求"
+            },
+            {
+              "id": "D",
+              "text": "人类糖尿病定制饮食已经实现"
+            },
+            {
+              "id": "E",
+              "text": "采食行为复杂增加了定制难度"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "E"
+          ],
+          "analysis": "笔记提到定制化是发展方向但无成熟方案，人类糖尿病定制尚未实现，采食行为复杂。"
+        },
+        {
+          "id": "7df049f0-6a2c-431b-a963-3d4c8b801844",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品品类细分趋势",
+          "question": "20年前宠物食品行业存在什么现象？",
+          "options": [
+            {
+              "id": "A",
+              "text": "猫粮狗粮严格区分"
+            },
+            {
+              "id": "B",
+              "text": "常用狗粮喂猫"
+            },
+            {
+              "id": "C",
+              "text": "已有专宠专用概念"
+            },
+            {
+              "id": "D",
+              "text": "品类细分已完成"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到20年前宠物食品不分猫粮狗粮，常常用狗粮喂猫。"
+        },
+        {
+          "id": "8197902c-c5c4-4c58-9ddb-55449fc2e1ee",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物营养基因组学",
+          "question": "基于营养基因组学的个体营养需求研究已有成熟的落地方案。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出美国的研究停留在文献阶段，没有成熟的落地方案。"
+        },
+        {
+          "id": "eee1a32b-8592-4daa-bda6-c72bfac4f763",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "产品设计感性化趋势",
+          "question": "关于宠物食品产品设计感性化趋势，以下哪些描述正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "很多成功品牌的创始人是设计师出身"
+            },
+            {
+              "id": "B",
+              "text": "研发团队仅由兽医和食品专业人员组成"
+            },
+            {
+              "id": "C",
+              "text": "产品设计需要满足新消费群体的情感需求"
+            },
+            {
+              "id": "D",
+              "text": "未来研发岗位对专业背景要求会降低"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "analysis": "笔记提到创始人设计师出身、满足情感需求，研发团队多元化，未来专业要求提高。"
+        },
+        {
+          "id": "be44b701-a81f-4bca-b605-f9e201b2e8ff",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "湿粮挤占干粮份额的趋势",
+          "question": "美国成熟市场近5年湿粮增长比例是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "10%"
+            },
+            {
+              "id": "B",
+              "text": "20%"
+            },
+            {
+              "id": "C",
+              "text": "30%"
+            },
+            {
+              "id": "D",
+              "text": "40%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记明确说美国市场近5年湿粮增长比例达到30%。"
+        },
+        {
+          "id": "86b4c750-d26c-43f5-9e88-c47a2d65fb76",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "湿粮与干粮的对比",
+          "question": "湿粮的饲喂便利性优于干粮。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出干粮的饲喂便利性是湿粮无法替代的。"
+        },
+        {
+          "id": "027eaba0-7693-4150-8263-7dc730874d5b",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "功能性原料应用趋势",
+          "question": "国外两家头部功能性原料企业在中国片区的销售额年增长率约为多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "10%-20%"
+            },
+            {
+              "id": "B",
+              "text": "20%-30%"
+            },
+            {
+              "id": "C",
+              "text": "30%-40%"
+            },
+            {
+              "id": "D",
+              "text": "40%-50%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记提到这两家企业中国片区销售额每年增长30%-40%。"
+        },
+        {
+          "id": "2d168c67-4f48-4017-ae45-0de509179ff8",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "跨界宠物食品发展趋势",
+          "question": "以下哪些属于跨界宠物食品或跨界进入宠物行业的例子？",
+          "options": [
+            {
+              "id": "A",
+              "text": "可食用部分结合玩具模具的产品"
+            },
+            {
+              "id": "B",
+              "text": "智能猫砂盆"
+            },
+            {
+              "id": "C",
+              "text": "其他领域成功企业跨界进入宠物行业"
+            },
+            {
+              "id": "D",
+              "text": "传统宠物食品企业转型做智能设备"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记提到可食用与玩具结合、智能猫砂盆、其他领域企业跨界，未提传统企业转型。"
+        },
+        {
+          "id": "4567e21e-2d88-40f1-8596-0ef85af68c93",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物食品行业的核心不变要素",
+          "question": "宠物食品行业的核心不变要素包括宠物是否愿意吃、排便是否正常，以及真材实料和食品安全。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记总结核心不变要素包括吃不吃、拉不拉、真材实料和食品安全。"
+        },
+        {
+          "id": "4d450185-2990-45f1-b6f8-3dcd2ae4ddc3",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品原料天然化趋势",
+          "question": "美国Whole Food超市的有机天然宠物食品价格是常规产品的多少倍？",
+          "options": [
+            {
+              "id": "A",
+              "text": "两倍"
+            },
+            {
+              "id": "B",
+              "text": "三倍"
+            },
+            {
+              "id": "C",
+              "text": "四倍"
+            },
+            {
+              "id": "D",
+              "text": "五倍"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记明确说Whole Food产品价格是常规产品的三倍左右。"
+        },
+        {
+          "id": "4ea7d881-cc7d-4e96-a902-045e516cc6db",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "宠物食品行业创新特性",
+          "question": "以下哪些属于宠物食品行业的特点？",
+          "options": [
+            {
+              "id": "A",
+              "text": "属于快消品"
+            },
+            {
+              "id": "B",
+              "text": "适合革命式创新"
+            },
+            {
+              "id": "C",
+              "text": "属于连续式微创新"
+            },
+            {
+              "id": "D",
+              "text": "产品形态长期变化不大"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出宠物食品是快消品、连续式微创新，狗粮颗粒50年来变化不大。"
+        },
+        {
+          "id": "3e8897e7-1a7f-4572-9517-90f7cc06cdfd",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物食品原料结构变化趋势",
+          "question": "猫粮碳水化合物含量超过30%属于高碳水。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确说超过30%叫高碳水化合物。"
+        },
+        {
+          "id": "189fd8e1-b9cf-421f-8ea8-0784f1768343",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物食品生产模式变革趋势",
+          "question": "以下哪种烹饪工艺已经在宠物食品中得到应用？",
+          "options": [
+            {
+              "id": "A",
+              "text": "油炸"
+            },
+            {
+              "id": "B",
+              "text": "蒸煮"
+            },
+            {
+              "id": "C",
+              "text": "烧烤"
+            },
+            {
+              "id": "D",
+              "text": "烟熏"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到蒸煮鸡胸肉是已经应用的烹饪工艺。"
+        },
+        {
+          "id": "776b9157-7372-41eb-afbf-727d349f7067",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物食品行业的核心不变要素",
+          "question": "以下哪些是宠物食品行业二三十年不变的核心要素？",
+          "options": [
+            {
+              "id": "A",
+              "text": "宠物是否愿意吃"
+            },
+            {
+              "id": "B",
+              "text": "排便是否正常"
+            },
+            {
+              "id": "C",
+              "text": "产品包装设计"
+            },
+            {
+              "id": "D",
+              "text": "真材实料和食品安全"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记总结核心不变要素包括吃不吃、拉不拉、真材实料和食品安全。"
+        }
+      ]
+    },
+    {
+      "id": "d8bef8a1-9ab8-43aa-a117-0e4a2ada1097",
+      "name": "中国宠物食品市场现状与行业观察分享（汉欧厂内分享）-2026年06月17日-来自【Get 笔记】 · 06/25 16:17",
+      "createdAt": "2026-06-25T08:17:15.337Z",
+      "questions": [
+        {
+          "id": "465d7857-62a3-47a4-a163-a1852d897c7e",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "中国宠物食品行业整体增速",
+          "question": "根据分享，中国宠物食品行业目前保持的增速区间是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "5%-10%"
+            },
+            {
+              "id": "B",
+              "text": "15%-30%"
+            },
+            {
+              "id": "C",
+              "text": "30%-50%"
+            },
+            {
+              "id": "D",
+              "text": "10%-15%"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "分享中提到，市场统计增速区间为15%-30%，行业整体保持两位数增长。"
+        },
+        {
+          "id": "b8f52d10-199c-4ad5-b613-8520b89cadd7",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "官方产值数据",
+          "question": "根据农业部、全国饲料工业协会2021年官方数据，宠物饲料产值约为700亿元。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "官方数据显示，2021年宠物饲料产值约113亿元，远低于市场流传的700亿元。"
+        },
+        {
+          "id": "135cbe01-b575-40d0-9048-e93f1981a394",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "猫狗市场结构",
+          "question": "关于国内猫狗市场结构，以下哪些说法是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "猫粮线上消费占比为54%"
+            },
+            {
+              "id": "B",
+              "text": "狗粮线上消费占比为46%"
+            },
+            {
+              "id": "C",
+              "text": "国内养狗数量已经超过养猫数量"
+            },
+            {
+              "id": "D",
+              "text": "居住结构决定了国内养猫更方便"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "分享中提到，猫粮线上消费占比54%，狗粮46%；国内居民多住公寓楼，养猫更方便，白皮书显示猫的数量已超过狗。"
+        },
+        {
+          "id": "356e066b-0c57-4bc4-bb4a-fdda335fd3d4",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "消费者主粮类型偏好",
+          "question": "消费者选择宠物主粮的类型偏好中，排名第一的是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "有机粮"
+            },
+            {
+              "id": "B",
+              "text": "天然粮"
+            },
+            {
+              "id": "C",
+              "text": "无谷粮"
+            },
+            {
+              "id": "D",
+              "text": "冻干粮"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "分享中明确，消费者对主粮类型偏好排名第一的是天然粮，第二是有机粮。"
+        },
+        {
+          "id": "f1afb38f-3a60-4e84-83c8-961f034d2ab3",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "有机宠物粮认证",
+          "question": "国内目前有完善的有机宠物粮官方认证体系。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "分享指出，国内没有有机宠物粮的官方认证，无法明确界定有机粮。"
+        },
+        {
+          "id": "699b0b38-5cd6-4e0b-91c4-4b56239f2922",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "消费者主粮功能偏好",
+          "question": "消费者对宠物主粮的功能偏好排序中，以下哪些选项是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "第一名是强化免疫"
+            },
+            {
+              "id": "B",
+              "text": "第二名是肠胃调理"
+            },
+            {
+              "id": "C",
+              "text": "第三名是补钙"
+            },
+            {
+              "id": "D",
+              "text": "第一名是美毛"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "分享中功能偏好排序为：强化免疫第一，肠胃调理第二，补钙第三。"
+        },
+        {
+          "id": "4ac2ac29-66dc-46a5-9e4a-e0f3683fcb48",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "专业认知与消费者认知偏差",
+          "question": "分享者调研普通养猫主人最担心的问题，得出的结论是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "猫生病"
+            },
+            {
+              "id": "B",
+              "text": "猫咬人"
+            },
+            {
+              "id": "C",
+              "text": "猫跑丢"
+            },
+            {
+              "id": "D",
+              "text": "宠物食品安全"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "分享者调研发现，普通消费者最担心的是猫跑丢，而非业内人士常认为的生病或咬人。"
+        },
+        {
+          "id": "2c915eea-9cc3-4826-b4bc-f5aacae2d51d",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "活体销售调研",
+          "question": "根据豆柴公司猫馆的反馈，布偶猫等高端品种比便宜的猫更好卖。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "店员反馈，便宜的猫更好卖，而非业内默认的高端品种。"
+        },
+        {
+          "id": "d4dd354c-8573-4f54-a58d-e110ed5977ce",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "普通消费者决策逻辑",
+          "question": "普通消费者选择宠物食品时，主要关注哪些因素？",
+          "options": [
+            {
+              "id": "A",
+              "text": "网上销量"
+            },
+            {
+              "id": "B",
+              "text": "用户评价"
+            },
+            {
+              "id": "C",
+              "text": "促销活动"
+            },
+            {
+              "id": "D",
+              "text": "产品配方专业内容"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "分享指出，普通消费者核心关注销量、评价、促销和不吃包退售后，很少研究配方。"
+        },
+        {
+          "id": "52e59240-d5dd-46e0-b938-4c6a2ed0ec72",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "产品定位观点",
+          "question": "分享者提到年销售额8亿元的单品牌宠物食品，其创始人如何回应负面评价？",
+          "options": [
+            {
+              "id": "A",
+              "text": "承认产品存在问题并改进"
+            },
+            {
+              "id": "B",
+              "text": "认为负面评价是竞争对手恶意攻击"
+            },
+            {
+              "id": "C",
+              "text": "表示看到负面评价的人不是目标用户"
+            },
+            {
+              "id": "D",
+              "text": "忽略所有负面评价"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "创始人表示，能看到负面文章的人不是品牌的目标用户，目标用户看不到这些内容。"
+        },
+        {
+          "id": "167a5540-ce61-4ed7-af76-c94cb7a2072a",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "产品定位观",
+          "question": "分享者认为，宠物食品只有价格定位的区别，没有是非高低贵贱的区别。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "分享者明确表示，只有不同价格的产品，没有是非高低贵贱的产品。"
+        },
+        {
+          "id": "31d6a8a8-fbb8-4a9d-a9c2-a388fc051024",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "原料地域优势",
+          "question": "宠物食品工厂向山东等华东地区聚集的原因包括哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "该区域有丰富的畜禽原料资源"
+            },
+            {
+              "id": "B",
+              "text": "该区域劳动力成本低"
+            },
+            {
+              "id": "C",
+              "text": "周边有大量杀鸡场、杀鸭厂"
+            },
+            {
+              "id": "D",
+              "text": "该区域气候适宜宠物食品储存"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "analysis": "分享指出，山东等地拥有丰富的原料配套资源，如杀鸡场、杀鸭厂，是聚集的主要原因。"
+        },
+        {
+          "id": "f638144c-a385-4009-91f4-321e8f15bf32",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "工厂选址逻辑",
+          "question": "分享者认为，在贵州开设狗粮厂可能不如开设什么厂？",
+          "options": [
+            {
+              "id": "A",
+              "text": "酒厂"
+            },
+            {
+              "id": "B",
+              "text": "服装厂"
+            },
+            {
+              "id": "C",
+              "text": "电子厂"
+            },
+            {
+              "id": "D",
+              "text": "家具厂"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "分享者举例，在贵州开狗粮厂不如开酒厂，因为原料配套资源更匹配。"
+        },
+        {
+          "id": "a49ac883-8bed-4b29-b32c-684c666f6d34",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "行业周期变化",
+          "question": "分享者认为，宠物行业已经穿越第一周期，进入第二周期，对从业者综合能力要求降低。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "分享者指出，第二周期对从业者综合能力要求比第一周期明显提高。"
+        },
+        {
+          "id": "6d15f6cc-c7fc-4165-aa26-8303a6e04e7e",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "行业增长要求",
+          "question": "根据分享，关于行业增长要求，以下哪些说法是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "企业年增长应达到17.3%"
+            },
+            {
+              "id": "B",
+              "text": "个人年收入增长应达到17.3%"
+            },
+            {
+              "id": "C",
+              "text": "企业增长低于17.3%说明经营存在问题"
+            },
+            {
+              "id": "D",
+              "text": "个人收入增长低于17.3%说明个人不够努力"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "分享者明确要求企业增长和个人收入增长都应达到17.3%，否则说明存在问题或不够努力。"
+        },
+        {
+          "id": "390854a6-0f0a-42cc-a62b-f20de1608e33",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "消费者认知偏差",
+          "question": "分享者用口红和汽车的例子说明了什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "男性比女性更懂化妆品"
+            },
+            {
+              "id": "B",
+              "text": "女性比男性更懂汽车"
+            },
+            {
+              "id": "C",
+              "text": "专业视角会导致认知偏差"
+            },
+            {
+              "id": "D",
+              "text": "消费者需要掌握专业知识"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "分享者用这些例子说明专业人士的视角与普通消费者不同，需要忘掉专业才能做好产品。"
+        },
+        {
+          "id": "179b3707-e226-47ec-b72f-29abd4d6869e",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "消费者对宠物食品的认知",
+          "question": "普通宠物主人需要掌握专业的宠物食品知识才能做出正确选择。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "分享者认为，普通宠物主人不需要掌握专业知识，就像消费者不需要懂服装面料也能买衣服。"
+        },
+        {
+          "id": "ecd4682c-bda2-4cef-89e9-6a716304729f",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "行业数据差异",
+          "question": "关于宠物食品行业数据，以下哪些说法是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "官方2021年宠物饲料产量为113万吨"
+            },
+            {
+              "id": "B",
+              "text": "官方产值约113亿元"
+            },
+            {
+              "id": "C",
+              "text": "市场流传产值约700亿元"
+            },
+            {
+              "id": "D",
+              "text": "官方数据与市场数据一致"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "分享中官方数据产量113万吨，产值113亿元，市场流传700亿元，两者差异大。"
+        },
+        {
+          "id": "02a176dc-fac2-45b5-8630-530f207d9dd5",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "汉欧工厂的地利优势",
+          "question": "汉欧工厂位于哪个省份？",
+          "options": [
+            {
+              "id": "A",
+              "text": "山东"
+            },
+            {
+              "id": "B",
+              "text": "江苏"
+            },
+            {
+              "id": "C",
+              "text": "浙江"
+            },
+            {
+              "id": "D",
+              "text": "广东"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "分享中明确汉欧工厂位于山东，周边有丰富的原料配套资源。"
+        },
+        {
+          "id": "3f536a22-20db-48be-ac07-c558c18cf253",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "消费者决策因素",
+          "question": "大多数普通消费者在选择宠物食品时，会深入研究产品配方等专业内容。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "分享指出，绝大多数普通消费者很少研究产品专业内容，专业用户只占很小一部分。"
+        }
+      ]
+    },
     {
       "id": "fed5fbbc-490e-4c5e-b92e-fc7ae8617f0a",
       "name": "农业部宠物饲料标签规范解读：合规标注要求与行业实操案例分享-2026年06月16日-来自【Get 笔记】 · 06/25 16:16",
