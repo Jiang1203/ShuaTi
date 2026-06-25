@@ -1,8 +1,576 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:11:24.639Z",
+  "updatedAt": "2026-06-25T09:13:46.841Z",
   "questionBanks": [
+    {
+      "id": "0f52c455-38cd-4823-941a-bbc9147a3142",
+      "name": "宠物行业门店培训：老龄犬猫营养配方设计与市场机会分析-2026年06月25日-来自【Get 笔记】 · 06/25 17:13",
+      "createdAt": "2026-06-25T09:13:44.981Z",
+      "questions": [
+        {
+          "id": "96dc3a67-bb01-43f7-9fd1-0aec09d0e6f0",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "老龄犬蛋白质摄入观念更新",
+          "question": "关于老龄犬猫蛋白质摄入，以下哪种说法是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "限制蛋白质可以保护老龄犬肾脏"
+            },
+            {
+              "id": "B",
+              "text": "健康老龄犬猫不需要限制蛋白质摄入"
+            },
+            {
+              "id": "C",
+              "text": "老龄犬蛋白质含量应低于18%"
+            },
+            {
+              "id": "D",
+              "text": "老龄猫蛋白质含量应低于30%"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出旧观念认为限制蛋白质可保护肾脏，但该观点源自人类营养学，猫狗与人类生理差异大，健康老龄犬猫不需要限制蛋白质，过早限制反而会加剧肾病。"
+        },
+        {
+          "id": "c442ee5a-e37f-417c-a6c3-5708fbcb4a7f",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物主消费心理变化",
+          "question": "宠物主在哪个阶段最舍得花钱？",
+          "options": [
+            {
+              "id": "A",
+              "text": "幼犬刚买回来时"
+            },
+            {
+              "id": "B",
+              "text": "幼犬一岁左右"
+            },
+            {
+              "id": "C",
+              "text": "犬只进入老龄后"
+            },
+            {
+              "id": "D",
+              "text": "犬只生病时"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "笔记提到宠物主在猫狗刚买回来时最舍得花钱，新猫新狗离店套餐包含20多种商品通常都能销售出去。"
+        },
+        {
+          "id": "dec76b52-b111-4b25-86b3-00e6f085488a",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "城市宠物行业发展水平判断",
+          "question": "以下哪种情况代表城市宠物行业发展水平较好？",
+          "options": [
+            {
+              "id": "A",
+              "text": "宠物医院大量接诊犬瘟、细小、冠状等传染病"
+            },
+            {
+              "id": "B",
+              "text": "宠物医院大量接诊糖尿病、心脏病等老龄慢性病"
+            },
+            {
+              "id": "C",
+              "text": "宠物医院接诊量以幼犬疫苗为主"
+            },
+            {
+              "id": "D",
+              "text": "宠物医院接诊量以外伤为主"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出如果城市宠物医院大量接诊糖尿病、心脏病这类老龄慢性病，代表该城市宠物行业发展得比较好。"
+        },
+        {
+          "id": "56b30d47-d3a4-4bef-8a1d-e67e5e788e87",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "老龄犬粮脂肪配方设计",
+          "question": "对于消瘦的老龄犬，应使用什么脂肪配方？",
+          "options": [
+            {
+              "id": "A",
+              "text": "低脂肪配方"
+            },
+            {
+              "id": "B",
+              "text": "中等脂肪配方"
+            },
+            {
+              "id": "C",
+              "text": "高脂肪配方"
+            },
+            {
+              "id": "D",
+              "text": "无脂肪配方"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到老龄犬有肥胖和消瘦两种方向，消瘦的老龄犬需要给到中等脂肪配方。"
+        },
+        {
+          "id": "1628c109-bcea-4632-a543-3ffa0b3229a7",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "老龄犬粮纤维配方设计",
+          "question": "纤维在老龄犬粮中的作用不包括以下哪项？",
+          "options": [
+            {
+              "id": "A",
+              "text": "提高肠道动力，缓解便秘"
+            },
+            {
+              "id": "B",
+              "text": "降低配方热量密度，帮助控制体重"
+            },
+            {
+              "id": "C",
+              "text": "增加蛋白质含量"
+            },
+            {
+              "id": "D",
+              "text": "降低血脂和血清胆固醇"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记提到纤维可以提高肠道动力、降低热量密度、降低血脂和血清胆固醇，但未提及增加蛋白质含量。"
+        },
+        {
+          "id": "23114abc-83d4-4100-a480-0d8f39c0d08f",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "老龄犬钙磷摄入设计",
+          "question": "关于老龄犬钙磷摄入，以下哪项是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "老龄犬需要额外补钙以预防骨质疏松"
+            },
+            {
+              "id": "B",
+              "text": "钙磷比应控制在2:1以上"
+            },
+            {
+              "id": "C",
+              "text": "磷摄入需要控制，钙磷比约1.2:1为宜"
+            },
+            {
+              "id": "D",
+              "text": "钙含量需低于0.5%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出老龄犬不需要额外补钙，钙磷比不要超过2:1，控制在1.2:1左右合适，钙需0.5以上，磷需0.4以上。"
+        },
+        {
+          "id": "8c0b0cd2-c67c-48a9-a010-3a086409f7c7",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "老龄犬粮抗氧化剂添加",
+          "question": "以下哪种物质不是笔记中推荐的抗氧化剂？",
+          "options": [
+            {
+              "id": "A",
+              "text": "维A"
+            },
+            {
+              "id": "B",
+              "text": "维C"
+            },
+            {
+              "id": "C",
+              "text": "维生素B12"
+            },
+            {
+              "id": "D",
+              "text": "绿茶茶多酚"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记推荐维A、维C、维E、硒、绿茶茶多酚、三文鱼虾青素等天然抗氧化剂，未提及维生素B12。"
+        },
+        {
+          "id": "8f7cee14-d81e-4810-97ef-350077b8104d",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "老龄犬粮食物质地选择",
+          "question": "对于老龄犬，以下哪种食物质地最推荐？",
+          "options": [
+            {
+              "id": "A",
+              "text": "常规膨化粮"
+            },
+            {
+              "id": "B",
+              "text": "半湿粮"
+            },
+            {
+              "id": "C",
+              "text": "大颗粒膨化粮"
+            },
+            {
+              "id": "D",
+              "text": "冻干不復水"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出半湿粮颗粒软，适合老龄犬，是最好选择。"
+        },
+        {
+          "id": "a54549a1-34cd-4769-82d1-26e10e119412",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "老龄犬粮市场机会",
+          "question": "目前老龄犬粮市场的主要问题是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "产品过多，竞争激烈"
+            },
+            {
+              "id": "B",
+              "text": "现有产品大多采用工厂思维，未匹配实际需求"
+            },
+            {
+              "id": "C",
+              "text": "价格过高，消费者不认可"
+            },
+            {
+              "id": "D",
+              "text": "所有厂家都已推出优质老龄犬粮"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出现有产品大多采用工厂思维，没有匹配老龄犬的实际需求，也没有满足宠物主的情感需求。"
+        },
+        {
+          "id": "3ccda245-f6a6-478a-89ae-2118cd52e460",
+          "type": "multiple",
+          "difficulty": "easy",
+          "knowledgePoint": "老龄犬蛋白质摄入标准",
+          "question": "健康老龄犬猫的蛋白质推荐摄入量是多少？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "老龄犬18%-23%"
+            },
+            {
+              "id": "B",
+              "text": "老龄猫30%-45%"
+            },
+            {
+              "id": "C",
+              "text": "老龄犬低于18%"
+            },
+            {
+              "id": "D",
+              "text": "老龄猫低于30%"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "笔记明确无肾病老龄犬蛋白质含量需达到18%-23%，老龄猫需达到30%-45%。"
+        },
+        {
+          "id": "43e8d3be-87d2-405e-bb2a-ce3b1f181129",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "鱼油在老龄犬粮中的应用",
+          "question": "鱼油对老龄犬猫有哪些益处？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "降低心血管疾病风险"
+            },
+            {
+              "id": "B",
+              "text": "改善记忆力下降"
+            },
+            {
+              "id": "C",
+              "text": "增加体重"
+            },
+            {
+              "id": "D",
+              "text": "改善适口性"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "笔记提到鱼油可以同时降低老龄犬猫心血管疾病风险、改善记忆力下降问题。"
+        },
+        {
+          "id": "1f52122f-2df0-47c3-b5bc-095a9fcb78da",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "老龄犬粮纤维配方设计",
+          "question": "纤维在老龄犬粮中的作用包括？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "提高肠道动力"
+            },
+            {
+              "id": "B",
+              "text": "降低热量密度"
+            },
+            {
+              "id": "C",
+              "text": "降低血脂"
+            },
+            {
+              "id": "D",
+              "text": "增加蛋白质吸收"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记提到纤维可以提高肠道动力、降低热量密度、降低血脂和血清胆固醇，未提及增加蛋白质吸收。"
+        },
+        {
+          "id": "5caf7236-1897-44be-b0a3-d4aeab8f5772",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "老龄犬钙磷摄入设计",
+          "question": "关于老龄犬钙磷摄入，以下哪些说法正确？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "老龄犬不需要额外补钙"
+            },
+            {
+              "id": "B",
+              "text": "磷摄入需要控制"
+            },
+            {
+              "id": "C",
+              "text": "钙磷比应控制在1.2:1左右"
+            },
+            {
+              "id": "D",
+              "text": "钙磷比可以超过2:1"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记指出老龄犬不需要额外补钙，磷需要控制，钙磷比控制在1.2:1左右，不要超过2:1。"
+        },
+        {
+          "id": "e930b486-764c-4b74-b9a8-ade2e67cffab",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "老龄犬粮抗氧化剂添加",
+          "question": "以下哪些是笔记中推荐的抗氧化剂？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "维A"
+            },
+            {
+              "id": "B",
+              "text": "维C"
+            },
+            {
+              "id": "C",
+              "text": "维E"
+            },
+            {
+              "id": "D",
+              "text": "硒"
+            },
+            {
+              "id": "E",
+              "text": "绿茶茶多酚"
+            },
+            {
+              "id": "F",
+              "text": "三文鱼虾青素"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "analysis": "笔记明确推荐维A、维C、维E、硒、绿茶茶多酚、三文鱼虾青素等天然抗氧化剂。"
+        },
+        {
+          "id": "c9f64c09-e1ef-49ed-a432-826268d6910e",
+          "type": "multiple",
+          "difficulty": "easy",
+          "knowledgePoint": "半湿粮的应用场景",
+          "question": "半湿粮适合哪些宠物场景？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "老龄犬"
+            },
+            {
+              "id": "B",
+              "text": "洁牙术后牙齿松动的犬猫"
+            },
+            {
+              "id": "C",
+              "text": "需要泡粮的幼犬"
+            },
+            {
+              "id": "D",
+              "text": "所有成年犬"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记提到半湿粮适合老龄犬、洁牙术后牙齿松动的犬猫、需要泡粮的幼犬。"
+        },
+        {
+          "id": "82c0b7e5-cd64-473a-9a2d-70281c090868",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "老龄犬蛋白质摄入观念更新",
+          "question": "健康老龄犬猫需要限制蛋白质摄入以保护肾脏。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出旧观念错误，健康老龄犬猫不需要限制蛋白质，过早限制反而会加剧肾病。"
+        },
+        {
+          "id": "7e068486-0a58-4c87-b9a7-df6bed0d1386",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物主消费心理变化",
+          "question": "狗在一岁之前行为难以忍受，很大一部分宠物主会在八九个月到一岁左右弃养。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确提到狗在一岁之前行为难以忍受，很大一部分宠物主会在八九个月到一岁左右弃养。"
+        },
+        {
+          "id": "e6a06634-f463-408c-83a0-81256487c825",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "老龄犬钙磷摄入设计",
+          "question": "老龄犬猫容易患骨质疏松，因此需要额外补钙。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出老龄犬猫不会得骨质疏松，长期食用全价宠物食品且偶尔啃骨头，钙摄入充足，不需要额外补钙。"
+        },
+        {
+          "id": "1b91f6a5-a413-49a3-8cf9-46b679321f41",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "老龄犬粮脂肪配方设计",
+          "question": "鱼油适口性好，老龄犬嗅觉下降不影响其采食。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出鱼油适口性不好，老龄犬嗅觉下降，需要将鱼油与其他油脂混合做成复合香型以改善适口性。"
+        },
+        {
+          "id": "1788dba5-c030-4b64-b0fd-5557fa2be73b",
+          "type": "trueFalse",
+          "difficulty": "hard",
+          "knowledgePoint": "老龄犬粮市场机会",
+          "question": "目前多数厂家已经关注老龄犬粮赛道，市场竞争激烈。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出目前多数厂家没有关注老龄犬粮赛道，只有雀巢等少数厂家推出了老龄犬粮，且产品不符合需求，存在市场空白。"
+        }
+      ]
+    },
     {
       "id": "32a49fe0-bfd1-482d-92f3-f814580993d0",
       "name": "孕产期犬分阶段营养管理方案与实用喂养技巧分享-2026年06月25日-来自【Get 笔记】 · 06/25 17:11",
