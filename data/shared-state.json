@@ -1,8 +1,569 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:04:12.179Z",
+  "updatedAt": "2026-06-25T09:09:04.952Z",
   "questionBanks": [
+    {
+      "id": "2d6ce4af-0c47-496b-8a29-7b2609cc9cdc",
+      "name": "犬生长期营养管理：不同体型犬生长规律、肥胖预防与喂食方案指南-2026年06月25日-来自【Get 笔记】 (1) · 06/25 17:09",
+      "createdAt": "2026-06-25T09:09:03.228Z",
+      "questions": [
+        {
+          "id": "f8895137-e84c-4775-a9fa-80266285ae2e",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "犬生长期定义",
+          "question": "犬生长期相当于人类哪个阶段？",
+          "options": [
+            {
+              "id": "A",
+              "text": "婴儿期"
+            },
+            {
+              "id": "B",
+              "text": "青春期"
+            },
+            {
+              "id": "C",
+              "text": "成年期"
+            },
+            {
+              "id": "D",
+              "text": "老年期"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "犬生长期指断奶后到成年体成熟前，相当于人类的青春期，即从上小学到上大学之前的阶段。"
+        },
+        {
+          "id": "6302a3b2-9fd6-495e-b275-ae5aa7c64d3e",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "幼犬能量分配规律",
+          "question": "幼犬生长初期，用于维持生命的能量占RER的比例是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1.0倍RER"
+            },
+            {
+              "id": "B",
+              "text": "1.5倍RER"
+            },
+            {
+              "id": "C",
+              "text": "2.0倍RER"
+            },
+            {
+              "id": "D",
+              "text": "2.5倍RER"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "生长初期幼犬用50%能量维持生命，对应1.5倍RER；另外50%用于生长，也是1.5倍RER，合计3倍RER。"
+        },
+        {
+          "id": "144a9c23-bc2b-4bca-9f27-aaaf55760b9d",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "接近成年体重时的能量分配",
+          "question": "当犬只体重达到成年体重的80%时，用于生长的能量约占多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "50%"
+            },
+            {
+              "id": "B",
+              "text": "30%"
+            },
+            {
+              "id": "C",
+              "text": "8%-10%"
+            },
+            {
+              "id": "D",
+              "text": "1.5倍RER"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "当犬只体重达到或接近成年体重的80%时，仅需8%-10%的能量用于生长，其余能量用于维持生命。"
+        },
+        {
+          "id": "4f9d39de-bc31-455c-a61b-2f4e8261adcb",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "不同体型犬的生长周期",
+          "question": "哪种体型犬的生长周期最长？",
+          "options": [
+            {
+              "id": "A",
+              "text": "小型犬"
+            },
+            {
+              "id": "B",
+              "text": "中型犬"
+            },
+            {
+              "id": "C",
+              "text": "大型犬"
+            },
+            {
+              "id": "D",
+              "text": "巨型犬"
+            }
+          ],
+          "answer": [
+            "D"
+          ],
+          "analysis": "体型越小的犬生长时间越短，体成熟越早；巨型犬如高加索犬，两岁多仍可能继续生长，生长周期最长。"
+        },
+        {
+          "id": "b727177e-2c4e-4021-bbe6-1e773927c830",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "体型与寿命关系",
+          "question": "关于犬的体型与寿命，以下哪项正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "体型越大，寿命越长"
+            },
+            {
+              "id": "B",
+              "text": "体成熟越早，寿命越长"
+            },
+            {
+              "id": "C",
+              "text": "体成熟越晚，寿命越长"
+            },
+            {
+              "id": "D",
+              "text": "寿命与体型无关"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "体成熟越早的小型犬寿命越长，体成熟很晚的大型犬寿命相对较短。"
+        },
+        {
+          "id": "8e29dd0d-0df5-4ed8-8e8e-c39358d8955f",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "大型犬寿命管理",
+          "question": "大型犬的预期寿命通常为12~14岁，但通过合理营养管理可以延长。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "大型犬预期寿命通常在12~14岁，但经过合理的营养管理和饲养管理，寿命可以被拉长。"
+        },
+        {
+          "id": "11b25da7-f2bd-4455-b258-292763ef1fff",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "过度喂食的常见方式",
+          "question": "以下哪些属于常见的过度喂食方式？",
+          "options": [
+            {
+              "id": "A",
+              "text": "自由采食"
+            },
+            {
+              "id": "B",
+              "text": "将一天总量一顿喂完"
+            },
+            {
+              "id": "C",
+              "text": "每天喂食次数过多"
+            },
+            {
+              "id": "D",
+              "text": "定时定量喂食"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "常见的过度喂食方式包括自由采食、将一天总量一顿喂完、全天喂食次数过多，这些容易导致过度喂食。"
+        },
+        {
+          "id": "ae96d1f9-ef1c-4f39-bdd2-b8d8fc37a049",
+          "type": "trueFalse",
+          "difficulty": "hard",
+          "knowledgePoint": "脂肪细胞数量与肥胖",
+          "question": "犬生长期过度进食主要增加脂肪细胞体积，而不是数量。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "犬生长期过度进食会增加脂肪细胞数量，成年后脂肪细胞体积增大导致肥胖，且后期很难减肥。"
+        },
+        {
+          "id": "f6bd233b-947f-4a61-8238-db6d93672d40",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "过度进食的危害",
+          "question": "犬生长期过度进食可能导致哪些问题？",
+          "options": [
+            {
+              "id": "A",
+              "text": "生长速度过快"
+            },
+            {
+              "id": "B",
+              "text": "骨质疏松"
+            },
+            {
+              "id": "C",
+              "text": "高血压"
+            },
+            {
+              "id": "D",
+              "text": "免疫力下降"
+            },
+            {
+              "id": "E",
+              "text": "运动不耐受"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "过度进食会导致生长速度过快、骨质疏松，肥胖还会引发高血压、心脏病、糖尿病、高血脂、关节炎、运动不耐受、免疫力下降等。"
+        },
+        {
+          "id": "a11056a8-b66e-41e0-b110-865e9c85f36d",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "能量需求动态调整",
+          "question": "以成年体重60斤的拉布拉多为例，体重达到25-30斤时，RER应调整为多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "3倍RER"
+            },
+            {
+              "id": "B",
+              "text": "2.5倍RER"
+            },
+            {
+              "id": "C",
+              "text": "2倍RER"
+            },
+            {
+              "id": "D",
+              "text": "1.8倍RER"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "当体重达到成年体重50%（25-30斤）时，需要从三倍RER降到2.5倍RER。"
+        },
+        {
+          "id": "2778f9f0-5e90-42d9-9f33-54dac09ce6b4",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "能量需求动态调整",
+          "question": "当拉布拉多体重达到成年体重的80%（约50斤）时，适宜的RER是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "3倍RER"
+            },
+            {
+              "id": "B",
+              "text": "2.5倍RER"
+            },
+            {
+              "id": "C",
+              "text": "2倍RER"
+            },
+            {
+              "id": "D",
+              "text": "1.8-2倍RER"
+            }
+          ],
+          "answer": [
+            "D"
+          ],
+          "analysis": "达到成年体重80%时，只需喂食1.8倍-2倍RER即可。"
+        },
+        {
+          "id": "8ca65ecb-3e65-4a2c-8cc0-ab1737687243",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "BCS体态评估",
+          "question": "所有计算得到的能量数值都是理论参考值，最终调整需结合犬只实际体态。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "所有计算数值都是理论值，最终调整需要结合犬只实际体态效果判断。"
+        },
+        {
+          "id": "25504af3-c351-47db-9da5-c92d2b14e3a8",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "生长期正常生理现象",
+          "question": "犬生长期哪些现象属于正常，无需过度紧张？",
+          "options": [
+            {
+              "id": "A",
+              "text": "比标准体重稍瘦"
+            },
+            {
+              "id": "B",
+              "text": "血钙稍低"
+            },
+            {
+              "id": "C",
+              "text": "轻微贫血"
+            },
+            {
+              "id": "D",
+              "text": "严重肥胖"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "生长期犬只比标准体重稍瘦、血钙稍低、轻微贫血都属于正常情况，无需过度紧张。"
+        },
+        {
+          "id": "a6389c2d-f7c9-488f-8406-c08c8a6f4bd7",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "体态超标时的调整",
+          "question": "如果犬只体态已超过标准，即使计算数值符合要求，应如何调整？",
+          "options": [
+            {
+              "id": "A",
+              "text": "维持原喂食量"
+            },
+            {
+              "id": "B",
+              "text": "增加喂食量"
+            },
+            {
+              "id": "C",
+              "text": "提前减少喂食量"
+            },
+            {
+              "id": "D",
+              "text": "停止喂食"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "如果体态已超标，即使计算数值符合要求，也需要提前减少喂食量，因为犬只实际成年体重可能低于估算标准。"
+        },
+        {
+          "id": "8bdb96ad-a4a1-4478-a73a-e15bc4eedebd",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "分龄喂食次数",
+          "question": "3~4月龄的幼犬，每天建议喂食几次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "五次及以上"
+            },
+            {
+              "id": "B",
+              "text": "四次"
+            },
+            {
+              "id": "C",
+              "text": "三次"
+            },
+            {
+              "id": "D",
+              "text": "两次"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "3~4月龄的幼犬，每天喂食四次即可，时间尽量均匀分布。"
+        },
+        {
+          "id": "d43971ab-bd07-4432-88ee-5744a6d81365",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "分龄喂食次数",
+          "question": "5~6月龄的幼犬，每天建议喂食几次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "五次"
+            },
+            {
+              "id": "B",
+              "text": "四次"
+            },
+            {
+              "id": "C",
+              "text": "三次"
+            },
+            {
+              "id": "D",
+              "text": "两次"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "5~6月龄时减少为一天三顿，7~8月龄维持一天三顿。"
+        },
+        {
+          "id": "864d8dcb-8e01-4571-8a13-3368050afba8",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "分龄喂食次数",
+          "question": "八个月以后的犬，每天喂食一到两次即可。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "八个月以后，每天喂食一到两次即可，犬的身体可以适应一天只吃一顿饭。"
+        },
+        {
+          "id": "03ecd85b-a7a6-4787-8195-7e7117f77d50",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "分次喂食原因",
+          "question": "为什么幼犬需要分次喂食？",
+          "options": [
+            {
+              "id": "A",
+              "text": "消化系统发育不完善"
+            },
+            {
+              "id": "B",
+              "text": "一次喂太多会呕吐"
+            },
+            {
+              "id": "C",
+              "text": "一次喂太多会导致严重腹泻"
+            },
+            {
+              "id": "D",
+              "text": "为了增加进食量"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "幼犬消化系统发育不完善，一次喂入一天总量会无法消化，轻者呕吐，重者严重腹泻。"
+        },
+        {
+          "id": "97d5cd2f-ba65-4f5d-89c9-61bf250368bc",
+          "type": "trueFalse",
+          "difficulty": "hard",
+          "knowledgePoint": "分次喂食应用",
+          "question": "如果猫狗经常排出未完全消化的粪便，可以采用少食多餐的方式调整。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "日常管理猫狗营养时，如果猫狗经常排出未完全消化的粪便，可以采用减少单次喂食量、少食多餐的方式调整。"
+        },
+        {
+          "id": "c492327f-fa1a-45a8-baf6-07cba6e1cb77",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "喂食核心注意事项",
+          "question": "关于分顿喂食，以下哪项正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "每顿喂食量等于一天总喂养量"
+            },
+            {
+              "id": "B",
+              "text": "将一天总喂养量拆分到各顿"
+            },
+            {
+              "id": "C",
+              "text": "幼犬可以自由采食"
+            },
+            {
+              "id": "D",
+              "text": "一天只喂一顿即可"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "所有分顿喂食都是将一天总喂养量拆分，绝对不能将一天计算好的总喂养量一顿全部喂给犬只。"
+        }
+      ]
+    },
     {
       "id": "b8409587-d419-4d52-9630-7de72fe4b7a5",
       "name": "幼犬离乳期喂养方法、不同体型犬钙需求与幼犬行为周期全讲解-2026年06月25日-来自【Get 笔记】 · 06/25 17:04",
