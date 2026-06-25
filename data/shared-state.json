@@ -1,8 +1,541 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T02:03:36.292Z",
+  "updatedAt": "2026-06-25T02:23:56.048Z",
   "questionBanks": [
+    {
+      "id": "13211ebe-a654-41ba-a6ad-9eaa3e31f258",
+      "name": "犬猫营养基础讲解：能量单位计算与每日能量需求测算方法-2026年06月10日-来自【Get 笔记】 · 06/25 10:23",
+      "createdAt": "2026-06-25T02:23:54.315Z",
+      "questions": [
+        {
+          "id": "33809501-8a6a-4056-879d-602c664c2965",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "营养素的作用",
+          "question": "营养素在动物体内的三大作用中，哪一项类比为汽车的车体？",
+          "options": [
+            {
+              "id": "A",
+              "text": "产生能量"
+            },
+            {
+              "id": "B",
+              "text": "构成身体结构"
+            },
+            {
+              "id": "C",
+              "text": "调节生理功能"
+            },
+            {
+              "id": "D",
+              "text": "促进消化吸收"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中提到，营养素三大作用中，构成身体结构类比为汽车的车体。"
+        },
+        {
+          "id": "4078081f-afad-4c65-99a3-a88817f95d8b",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "消化分类",
+          "question": "下列哪种消化方式在犬猫中占比较小，而在食草动物中占比较大？",
+          "options": [
+            {
+              "id": "A",
+              "text": "物理消化"
+            },
+            {
+              "id": "B",
+              "text": "化学消化"
+            },
+            {
+              "id": "C",
+              "text": "生物学消化"
+            },
+            {
+              "id": "D",
+              "text": "机械消化"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，生物学消化在犬猫中占比例小，在食草动物中占比例大。"
+        },
+        {
+          "id": "ca1bd679-2616-41d7-8702-2a0ead00b3f1",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "能量单位换算",
+          "question": "1千卡（大卡）等于多少卡路里？",
+          "options": [
+            {
+              "id": "A",
+              "text": "10卡路里"
+            },
+            {
+              "id": "B",
+              "text": "100卡路里"
+            },
+            {
+              "id": "C",
+              "text": "1000卡路里"
+            },
+            {
+              "id": "D",
+              "text": "10000卡路里"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记明确说明1千卡等于1000卡路里。"
+        },
+        {
+          "id": "7ed62a02-5935-4b70-8b77-77556903d7f7",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "阿特伍德通用系数",
+          "question": "根据阿特伍德通用系数，每克脂肪提供的代谢能是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "4000卡"
+            },
+            {
+              "id": "B",
+              "text": "9000卡"
+            },
+            {
+              "id": "C",
+              "text": "4000千卡"
+            },
+            {
+              "id": "D",
+              "text": "9000千卡"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中阿特伍德系数：每克脂肪提供9000卡代谢能。"
+        },
+        {
+          "id": "df12669b-118d-4394-b1fc-15ca065f9be4",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "静息能量需求（RER）计算",
+          "question": "一只体重15kg的狗，使用简化公式RER=30×体重+70，其RER约为多少千卡/天？",
+          "options": [
+            {
+              "id": "A",
+              "text": "450"
+            },
+            {
+              "id": "B",
+              "text": "520"
+            },
+            {
+              "id": "C",
+              "text": "534"
+            },
+            {
+              "id": "D",
+              "text": "600"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中示例：15kg狗简化公式RER=30×15+70=520千卡/天。"
+        },
+        {
+          "id": "9ab5fbec-3c10-48b8-a95c-004ad3522538",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "能量需求调整系数",
+          "question": "一只未绝育的成年犬，其每日能量需求（DER）通常为RER的多少倍？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1.6倍"
+            },
+            {
+              "id": "B",
+              "text": "1.8倍"
+            },
+            {
+              "id": "C",
+              "text": "2.0倍"
+            },
+            {
+              "id": "D",
+              "text": "1.4倍"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中明确：未绝育成犬系数为1.8倍RER。"
+        },
+        {
+          "id": "b14d29aa-6133-4a16-84a7-26237032d27c",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "能量计算应用",
+          "question": "一只狗每日需要1456千卡能量，若狗粮代谢能为3800千卡/kg，每日应喂食多少克？",
+          "options": [
+            {
+              "id": "A",
+              "text": "约300克"
+            },
+            {
+              "id": "B",
+              "text": "约383克"
+            },
+            {
+              "id": "C",
+              "text": "约400克"
+            },
+            {
+              "id": "D",
+              "text": "约500克"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中计算：1456÷3800≈0.383kg=383克。"
+        },
+        {
+          "id": "dea792b8-1829-47bf-8a1a-cec584bb694e",
+          "type": "multiple",
+          "difficulty": "easy",
+          "knowledgePoint": "营养素供能",
+          "question": "下列哪些营养素可以提供能量？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "蛋白质"
+            },
+            {
+              "id": "B",
+              "text": "碳水化合物"
+            },
+            {
+              "id": "C",
+              "text": "脂肪"
+            },
+            {
+              "id": "D",
+              "text": "维生素"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记指出蛋白质、碳水化合物、脂肪供能，水、维生素、矿物质、纤维不供能。"
+        },
+        {
+          "id": "0cccef1a-c69f-4782-92f7-80b27d542d91",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "能量分级",
+          "question": "关于食物能量分级，下列哪些说法正确？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "总能减去粪便能量得到消化能"
+            },
+            {
+              "id": "B",
+              "text": "消化能减去尿液和屁中的能量得到代谢能"
+            },
+            {
+              "id": "C",
+              "text": "代谢能减去体增热得到净能"
+            },
+            {
+              "id": "D",
+              "text": "净能是宠物营养最常用的指标"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记中：总能-粪便能量=消化能；消化能-尿液屁能量=代谢能；代谢能-体增热=净能；代谢能是宠物营养最常用指标。"
+        },
+        {
+          "id": "2303bd01-f1f9-46ee-ad6f-3b19d6d2c565",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "RER计算公式",
+          "question": "关于静息能量需求（RER）的计算，下列哪些说法正确？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "精确公式为RER=70×体重^0.75"
+            },
+            {
+              "id": "B",
+              "text": "简化公式为RER=30×体重+70"
+            },
+            {
+              "id": "C",
+              "text": "简化公式适用于体重2-45kg的动物"
+            },
+            {
+              "id": "D",
+              "text": "体重小于2kg的动物也可用简化公式"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记中：精确公式70×体重^0.75；简化公式30×体重+70，适用于2-45kg；小于2kg必须用精确公式。"
+        },
+        {
+          "id": "2b550e23-df52-400c-bfe1-410b7d592406",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "能量需求调整系数",
+          "question": "下列哪些情况需要增加犬猫的能量需求？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "妊娠后期"
+            },
+            {
+              "id": "B",
+              "text": "哺乳期"
+            },
+            {
+              "id": "C",
+              "text": "肥胖倾向"
+            },
+            {
+              "id": "D",
+              "text": "重度工作"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记中：妊娠后期需求大幅提升；哺乳期需求随幼崽数量增加；重度工作犬系数4-8倍；肥胖倾向系数1.2-1.4倍，属于较低需求。"
+        },
+        {
+          "id": "b62cc5fc-6303-4bd5-b10f-917d7f54079c",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "能量计算注意事项",
+          "question": "关于犬猫每日能量需求的计算，下列哪些说法正确？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "计算结果只是参考值，不是标准值"
+            },
+            {
+              "id": "B",
+              "text": "需要根据体重变化调整喂食量"
+            },
+            {
+              "id": "C",
+              "text": "环境温度会影响能量需求"
+            },
+            {
+              "id": "D",
+              "text": "可以叠加多个系数进行计算"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记中：计算结果为参考值；需每周测体重调整；环境温度影响需求；做题原则只选一个最匹配系数，不叠加。"
+        },
+        {
+          "id": "688177a6-11dd-429f-ba7b-079f423f9b5a",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "消化与吸收的区别",
+          "question": "消化和吸收是同一个过程，不需要分开判断。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记明确：消化和吸收是两件事，需要分开判断。"
+        },
+        {
+          "id": "b82e235a-28d5-47ea-a875-62a526900ad6",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "能量单位",
+          "question": "1焦耳约等于0.239卡路里，粗略换算可将焦耳数除以4得到卡路里数。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记中：1焦耳≈0.239卡路里，粗略换算除以4。"
+        },
+        {
+          "id": "d60c9e97-40e2-4faa-8690-9b2caa38597e",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物食品热量估算",
+          "question": "普通干犬猫粮的代谢能大约在4000千卡每千克左右。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记中：普通干宠粮代谢能约4000千卡/kg。"
+        },
+        {
+          "id": "be316e92-9d5b-4249-805c-ce6900ed8997",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "能量需求调整系数",
+          "question": "厂家标注的建议喂食量通常采用狗2倍RER、猫1.4倍RER的标准，该标准适用于国内所有猫狗。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出该标准来自欧美，国内猫狗运动量小，不能直接照搬。"
+        },
+        {
+          "id": "c30643ac-61a7-426b-ae91-51519c276b86",
+          "type": "trueFalse",
+          "difficulty": "hard",
+          "knowledgePoint": "能量计算练习题",
+          "question": "一只9kg的暹罗猫，根据体重判断属于肥胖，应选择系数0.8倍RER。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记中：9kg暹罗猫是肥胖，应选0.8倍RER。"
+        },
+        {
+          "id": "bc4ade61-b5cd-4f42-b8df-61408cc21e16",
+          "type": "trueFalse",
+          "difficulty": "hard",
+          "knowledgePoint": "多猫家庭管理",
+          "question": "多猫家庭中，如果所有猫都不肥胖，可以自由采食。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记中：多猫家庭若没有肥胖问题，自由采食即可。"
+        },
+        {
+          "id": "32bdc30f-2c5c-4e64-ae74-d2d4903e1e6f",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "宠主沟通",
+          "question": "宠主说“我家狗不胖”时，这只狗大概率不胖。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出：宠主说“我家狗不胖”时，大概率肥胖。"
+        },
+        {
+          "id": "d8f588d7-5759-4e77-a57f-47edcd54b5c4",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "自动喂食器",
+          "question": "自动喂食器单次下量越少，精度越高，对猫更友好。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记中：选购自动喂食器优先选单次下量更少的款式，精度高，对猫友好。"
+        }
+      ]
+    },
     {
       "id": "958a3879-e346-49d0-b945-1698daabfdaa",
       "name": "犬猫营养基础：热量单位、能量计算方法与喂养管理技巧讲解-2026年05月29日-来自【Get 笔记】 · 06/23 10:50",
