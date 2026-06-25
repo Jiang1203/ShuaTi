@@ -1,8 +1,588 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:18:13.832Z",
+  "updatedAt": "2026-06-25T09:21:25.097Z",
   "questionBanks": [
+    {
+      "id": "8aedf98e-b533-4ed1-9866-1b7a5726aea8",
+      "name": "成年猫营养管理与健康养护全指南：饮食、体重、泌尿道及口腔护理-2026年06月25日-来自【Get 笔记】 · 06/25 17:18",
+      "createdAt": "2026-06-25T09:18:57.154Z",
+      "questions": [
+        {
+          "id": "95e1e7c3-b372-498b-b546-d4182256b62c",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的年龄阶段划分",
+          "question": "猫的成年期是哪个年龄段？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1-7岁"
+            },
+            {
+              "id": "B",
+              "text": "7-10岁"
+            },
+            {
+              "id": "C",
+              "text": "0-1岁"
+            },
+            {
+              "id": "D",
+              "text": "10-13岁"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "根据笔记，猫的成年期为1-7岁，7岁后进入初老期。"
+        },
+        {
+          "id": "b57f6883-c4a1-4159-9fac-3af7ec685218",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的年龄阶段划分",
+          "question": "猫的老年期比成年期更漫长。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记指出猫的老年期可能长达13年（若活到20岁），而成年期仅1-7岁，因此老年期更漫长。"
+        },
+        {
+          "id": "359e2a1f-aed7-4ab5-8e57-2dca77a9ce26",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "自由采食的优缺点",
+          "question": "以下哪些是自由采食的缺点？",
+          "options": [
+            {
+              "id": "A",
+              "text": "易导致肥胖"
+            },
+            {
+              "id": "B",
+              "text": "符合猫科动物饮食习惯"
+            },
+            {
+              "id": "C",
+              "text": "多猫家庭无法监控食量"
+            },
+            {
+              "id": "D",
+              "text": "仅适用于干粮"
+            },
+            {
+              "id": "E",
+              "text": "可观察食欲变化"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记中自由采食的缺点包括易肥胖、多猫无法监控食量、仅适用于干粮；优点包括符合习性，可观察食欲变化是定时定量的优点。"
+        },
+        {
+          "id": "9d1cded7-16e8-4507-a237-2ffb96a09dbc",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "混合喂养策略",
+          "question": "混合喂养中，干粮的推荐量应如何控制？",
+          "options": [
+            {
+              "id": "A",
+              "text": "无限量供应"
+            },
+            {
+              "id": "B",
+              "text": "以回家时剩余几粒为宜"
+            },
+            {
+              "id": "C",
+              "text": "每天固定100克"
+            },
+            {
+              "id": "D",
+              "text": "与湿粮等量"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记建议干粮量以回家时剩余几粒为宜，这样可观察食量变化。"
+        },
+        {
+          "id": "dade2743-b4fd-443c-b47a-e4f1bcd42c9c",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的体重评估",
+          "question": "理想体重的猫应该摸不到肋骨。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出理想体重猫能摸到肋骨（稍用力），摸不到肋骨是肥胖的表现。"
+        },
+        {
+          "id": "faff627e-d3dc-493b-b2f8-dd8d34c36295",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "猫的减肥方法",
+          "question": "猫减肥主要依赖什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "增加家庭运动"
+            },
+            {
+              "id": "B",
+              "text": "饮食控制"
+            },
+            {
+              "id": "C",
+              "text": "使用漏食器"
+            },
+            {
+              "id": "D",
+              "text": "减少睡眠时间"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记强调猫减肥主要依赖饮食控制（高蛋白低碳水罐头），家庭运动无法达到燃脂心率。"
+        },
+        {
+          "id": "4043bc67-312c-4491-9d0e-abfaf9c8c207",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "猫的泌尿道护理",
+          "question": "以下哪些方法可以促进猫喝水？",
+          "options": [
+            {
+              "id": "A",
+              "text": "每天至少换一次水"
+            },
+            {
+              "id": "B",
+              "text": "使用大尺寸水碗"
+            },
+            {
+              "id": "C",
+              "text": "沿猫动线多点放置水碗"
+            },
+            {
+              "id": "D",
+              "text": "针管强迫喂食"
+            },
+            {
+              "id": "E",
+              "text": "罐头中加水"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "analysis": "笔记推荐水的新鲜度、大尺寸水碗、多点供水、罐头加水；禁止针管强迫喂食。"
+        },
+        {
+          "id": "5095b0fc-6717-465e-b3b4-9ad66b49ed3d",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的口腔问题发展",
+          "question": "猫口腔问题的正确发展顺序是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "牙菌斑→牙结石→牙龈炎→牙周炎"
+            },
+            {
+              "id": "B",
+              "text": "牙结石→牙菌斑→牙龈炎→牙周炎"
+            },
+            {
+              "id": "C",
+              "text": "牙龈炎→牙菌斑→牙结石→牙周炎"
+            },
+            {
+              "id": "D",
+              "text": "牙周炎→牙龈炎→牙结石→牙菌斑"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "笔记明确顺序：食物残渣→牙菌斑→牙结石→牙龈炎→牙周炎。"
+        },
+        {
+          "id": "6f8b0885-70c7-4548-80d5-f1c20661ef18",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的口腔护理",
+          "question": "猫容易患蛀牙。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出猫无蛀牙，口腔问题主要是牙菌斑、牙结石等。"
+        },
+        {
+          "id": "42ce86af-e6c7-405b-8720-a38f78f18708",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "猫的原始袋",
+          "question": "关于猫的原始袋，以下哪项正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "是肥胖的标志"
+            },
+            {
+              "id": "B",
+              "text": "减肥后皮会回缩"
+            },
+            {
+              "id": "C",
+              "text": "是能量储存和自我保护结构"
+            },
+            {
+              "id": "D",
+              "text": "幼年期不会出现"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记说明原始袋是能量储存和自我保护结构，减肥后皮无法回缩，幼年期即可出现。"
+        },
+        {
+          "id": "9ace614d-e8b0-4b74-b833-c26760f558ec",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "猫粮与尿液酸化",
+          "question": "关于猫粮酸化，以下哪些说法正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "酸化可减少磷酸氨镁结石"
+            },
+            {
+              "id": "B",
+              "text": "过度酸化易导致草酸钙结石"
+            },
+            {
+              "id": "C",
+              "text": "酸化是预防泌尿道问题的最佳方式"
+            },
+            {
+              "id": "D",
+              "text": "商业猫粮已做酸化调整"
+            },
+            {
+              "id": "E",
+              "text": "多喝水比酸化更重要"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D",
+            "E"
+          ],
+          "analysis": "笔记指出酸化可减少磷酸氨镁结石，但过度酸化易致草酸钙结石；最佳预防是多喝水；商业猫粮已做调整。"
+        },
+        {
+          "id": "361b2104-b9fd-438c-8578-cf8e945d6aef",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的饮水特点",
+          "question": "猫的汗腺主要分布在？",
+          "options": [
+            {
+              "id": "A",
+              "text": "舌头"
+            },
+            {
+              "id": "B",
+              "text": "脚垫"
+            },
+            {
+              "id": "C",
+              "text": "背部"
+            },
+            {
+              "id": "D",
+              "text": "耳朵"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到猫的汗腺在脚垫，紧张时脚垫会出汗。"
+        },
+        {
+          "id": "d42d25da-d10e-4afe-addf-12c4ef578374",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "猫的饮水机使用",
+          "question": "饮水机是促进猫喝水的最佳选择，无需频繁清洁。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出饮水机需频繁清洁，否则易产生生物膜导致猫腹泻，并非最佳选择。"
+        },
+        {
+          "id": "3aa64a6b-cf14-4f3f-a7b8-1ffbb76fee3e",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "猫的减肥注意事项",
+          "question": "猫减肥时，热量应如何调整？",
+          "options": [
+            {
+              "id": "A",
+              "text": "立即大幅减少"
+            },
+            {
+              "id": "B",
+              "text": "逐渐减少"
+            },
+            {
+              "id": "C",
+              "text": "保持不变"
+            },
+            {
+              "id": "D",
+              "text": "增加热量"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记强调需逐渐减少热量，不能骤减，否则会出问题。"
+        },
+        {
+          "id": "df55b3e7-d2bd-4168-bce5-ab20f4eabdea",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "猫的口腔护理方法",
+          "question": "以下哪些是有效的猫口腔护理方法？",
+          "options": [
+            {
+              "id": "A",
+              "text": "刷牙"
+            },
+            {
+              "id": "B",
+              "text": "使用洁齿湿巾/指套"
+            },
+            {
+              "id": "C",
+              "text": "喂食洁齿零食"
+            },
+            {
+              "id": "D",
+              "text": "使用褐藻粉"
+            },
+            {
+              "id": "E",
+              "text": "使用洁齿玩具"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出刷牙最有效，洁齿湿巾/指套、洁齿零食、褐藻粉可辅助；洁齿玩具未被证明有效。"
+        },
+        {
+          "id": "c8f7dc89-5c34-49c9-aa4a-710dc5d28219",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的年龄阶段划分",
+          "question": "猫在哪个年龄段需要更换更老年配方粮？",
+          "options": [
+            {
+              "id": "A",
+              "text": "7岁"
+            },
+            {
+              "id": "B",
+              "text": "10-11岁"
+            },
+            {
+              "id": "C",
+              "text": "13-14岁"
+            },
+            {
+              "id": "D",
+              "text": "1岁"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记提到13-14岁需使用更老年配方粮。"
+        },
+        {
+          "id": "2414bf07-1dd8-4246-9c82-201845b7cd3f",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "猫的肥胖危害",
+          "question": "猫的肥胖本身就是一种低炎症的健康状况。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记金句提到“猫的肥胖本身就是一种低炎症的健康状况”。"
+        },
+        {
+          "id": "35699df9-8548-47e3-be0b-fa2dc53b2426",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "猫的蛋白质与毛发健康",
+          "question": "健康猫的毛发遇水不湿，主要依赖什么保护？",
+          "options": [
+            {
+              "id": "A",
+              "text": "水分"
+            },
+            {
+              "id": "B",
+              "text": "油脂"
+            },
+            {
+              "id": "C",
+              "text": "灰尘"
+            },
+            {
+              "id": "D",
+              "text": "蛋白质"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出健康猫毛发遇水不湿，依赖油脂保护。"
+        },
+        {
+          "id": "0694a9e2-01a9-439e-a7ec-88d0aed49bac",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "定时定量喂养的优缺点",
+          "question": "以下哪些是定时定量喂养的优点？",
+          "options": [
+            {
+              "id": "A",
+              "text": "可控制体重"
+            },
+            {
+              "id": "B",
+              "text": "可观察食欲变化"
+            },
+            {
+              "id": "C",
+              "text": "猫可自由采食"
+            },
+            {
+              "id": "D",
+              "text": "可作为行为训练工具"
+            },
+            {
+              "id": "E",
+              "text": "多猫家庭操作简单"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记中定时定量喂养的优点包括控制体重、观察食欲、作为训练工具；缺点包括猫失去自由感、多猫家庭操作复杂。"
+        },
+        {
+          "id": "5ffa15d8-b64c-4f72-8fc9-ef225bab9bfd",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "猫的泌尿道问题预防",
+          "question": "预防猫泌尿道问题的最佳方式是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "喂食酸化猫粮"
+            },
+            {
+              "id": "B",
+              "text": "多喝水"
+            },
+            {
+              "id": "C",
+              "text": "减少蛋白质摄入"
+            },
+            {
+              "id": "D",
+              "text": "使用处方粮"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记强调最佳预防方式是多喝水，而非仅依赖猫粮。"
+        }
+      ]
+    },
     {
       "id": "e324b947-ab6a-4e59-9d62-6584709d7010",
       "name": "4月龄到1岁幼龄猫喂养指南：营养需求、食物多样化训练与常见误区解析-2026年06月25日-来自【Get 笔记】 · 06/25 17:18",
