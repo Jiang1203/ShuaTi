@@ -1,8 +1,585 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T02:23:56.048Z",
+  "updatedAt": "2026-06-25T08:15:46.766Z",
   "questionBanks": [
+    {
+      "id": "5ee9fd9b-2ad4-4a27-ab00-60a9fbe84974",
+      "name": "宠物营养学：猫狗蛋白质基础知识全解析——从发现历史到摄入需求、行业乱象全梳理-2026年06月10日-来自【Get 笔记】 · 06/25 16:15",
+      "createdAt": "2026-06-25T08:15:45.053Z",
+      "questions": [
+        {
+          "id": "89eecc32-6e8e-485d-b04b-3e57c2967a83",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "蛋白质的发现历史",
+          "question": "哪位科学家在1816年通过狗实验证实了蛋白质对动物生存的必要性？",
+          "options": [
+            {
+              "id": "A",
+              "text": "莫德尔"
+            },
+            {
+              "id": "B",
+              "text": "马良梨"
+            },
+            {
+              "id": "C",
+              "text": "王天飞"
+            },
+            {
+              "id": "D",
+              "text": "姜姜"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "法国生理学家马良梨在1816年通过狗实验证实，只给糖和脂肪狗无法存活，添加蛋白质后狗存活状态更好，明确了蛋白质对动物的重要性。"
+        },
+        {
+          "id": "d478a37b-fe5a-469e-a68d-30f1b20c28ed",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "蛋白质的检测原理",
+          "question": "蛋白质的平均含氮量约为多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "10%"
+            },
+            {
+              "id": "B",
+              "text": "16%"
+            },
+            {
+              "id": "C",
+              "text": "20%"
+            },
+            {
+              "id": "D",
+              "text": "25%"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "天然蛋白质平均含氮量约为16%，因此检测时通过测量氮含量乘以折算系数（如6.25）得到粗蛋白含量。"
+        },
+        {
+          "id": "cf1bc5e5-2329-4991-94fe-477820793f16",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "蛋白质的生理作用",
+          "question": "以下哪些是蛋白质在动物体内的生理作用？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "构成器官和组织"
+            },
+            {
+              "id": "B",
+              "text": "作为能量来源"
+            },
+            {
+              "id": "C",
+              "text": "催化生化反应"
+            },
+            {
+              "id": "D",
+              "text": "转运营养物质"
+            },
+            {
+              "id": "E",
+              "text": "参与免疫活动"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "蛋白质是动物所有器官、组织的组成成分，也可作为能量来源，同时参与催化、激素调节、免疫、营养转运等生理过程。"
+        },
+        {
+          "id": "59090f3e-fdc2-49cc-9973-268bf545a79d",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "蛋白质掺假鉴别",
+          "question": "燃烧牛皮咬胶时，如果有烧头发的味道，说明是真牛皮。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "燃烧后有烧头发的味道是真牛皮的特征，因为毛发皮肤含有角蛋白，燃烧会产生类似气味；若有塑料或烧纸味则为假货。"
+        },
+        {
+          "id": "d7427ff3-b45b-4869-8658-d3f7b6661c73",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "蛋白质来源",
+          "question": "以下哪种蛋白质来源的赖氨酸含量较低，导致其质量相对较差？",
+          "options": [
+            {
+              "id": "A",
+              "text": "动物蛋白"
+            },
+            {
+              "id": "B",
+              "text": "植物蛋白"
+            },
+            {
+              "id": "C",
+              "text": "微生物蛋白"
+            },
+            {
+              "id": "D",
+              "text": "血液蛋白"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "植物蛋白中赖氨酸含量较低，而猫狗需要大量赖氨酸，因此植物蛋白质量低于动物蛋白。"
+        },
+        {
+          "id": "d1ea845d-b568-49a3-ba55-e90f58f58e78",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "必需氨基酸与非必需氨基酸",
+          "question": "关于必需氨基酸和非必需氨基酸，以下说法正确的有哪些？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "必需氨基酸是动物自身不能合成的"
+            },
+            {
+              "id": "B",
+              "text": "非必需氨基酸是动物不需要的"
+            },
+            {
+              "id": "C",
+              "text": "两者对动物都必不可少"
+            },
+            {
+              "id": "D",
+              "text": "非必需氨基酸可以通过转化其他氨基酸得到"
+            },
+            {
+              "id": "E",
+              "text": "精氨酸对狗和猫是必需氨基酸"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "必需氨基酸是动物自身无法合成、必须从食物获取的；非必需氨基酸不是不需要，而是可以通过转化其他氨基酸得到；两者都必不可少。精氨酸不是人的必需氨基酸，但对狗和猫是必需的。"
+        },
+        {
+          "id": "993dbbf0-277c-42f1-83ac-835baa4e1518",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "蛋白质摄入误区",
+          "question": "高蛋白饮食会导致猫狗胰腺炎。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "胰腺炎与高脂肪饮食相关，与高蛋白无直接关系。高蛋白饮食对健康猫狗没有不良反应。"
+        },
+        {
+          "id": "6603b825-e453-4ea4-9308-fb4e236bb4f3",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "蛋白质缺乏的危害",
+          "question": "蛋白质缺乏不会导致以下哪种情况？",
+          "options": [
+            {
+              "id": "A",
+              "text": "生长缓慢"
+            },
+            {
+              "id": "B",
+              "text": "背毛皮肤脆弱"
+            },
+            {
+              "id": "C",
+              "text": "肥胖"
+            },
+            {
+              "id": "D",
+              "text": "贫血"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "蛋白质缺乏会导致生长缓慢、背毛皮肤脆弱、掉毛、贫血、繁殖力下降、乳汁分泌减少、肌肉萎缩，但不会导致肥胖。"
+        },
+        {
+          "id": "974581bd-2b64-4db9-be88-83888ee0bf15",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "蛋白质腐败产物",
+          "question": "以下哪些是蛋白质腐败过程中产生的物质？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "组胺"
+            },
+            {
+              "id": "B",
+              "text": "尸胺"
+            },
+            {
+              "id": "C",
+              "text": "氨气"
+            },
+            {
+              "id": "D",
+              "text": "吲哚"
+            },
+            {
+              "id": "E",
+              "text": "硫化氢"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "组氨酸分解产生组胺，赖氨酸分解产生尸胺，未被吸收的氨基酸产生氨气，吲哚、甲基吲哚、硫化氢产生臭味。"
+        },
+        {
+          "id": "87b19768-d5c3-44a6-b411-d6a4a5731026",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "生骨肉食品安全",
+          "question": "市售冻干生骨肉通常经过杀菌步骤，微生物含量符合国标。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "冻干生骨肉加工通常没有杀菌步骤，原材料带多少微生物成品就带多少，市售散装生骨肉基本都超标。"
+        },
+        {
+          "id": "785572a5-e21f-46a6-87bc-9671a65bfaa1",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "蛋白质消化吸收",
+          "question": "蛋白质在哪个器官开始被初步消化？",
+          "options": [
+            {
+              "id": "A",
+              "text": "口腔"
+            },
+            {
+              "id": "B",
+              "text": "胃"
+            },
+            {
+              "id": "C",
+              "text": "小肠"
+            },
+            {
+              "id": "D",
+              "text": "大肠"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "唾液不含蛋白酶，胃中胃蛋白酶初步变性打散蛋白质空间结构，便于后续酶作用。"
+        },
+        {
+          "id": "edf58df9-56c7-44ab-8a80-51db86a511c7",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "熟食对蛋白质的影响",
+          "question": "以下关于熟食对蛋白质影响的说法，正确的有哪些？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "熟食可以提高蛋白质消化率"
+            },
+            {
+              "id": "B",
+              "text": "加热会破坏部分氨基酸"
+            },
+            {
+              "id": "C",
+              "text": "熟食可以灭活抗营养因子"
+            },
+            {
+              "id": "D",
+              "text": "生鸡蛋消化率高于熟鸡蛋"
+            },
+            {
+              "id": "E",
+              "text": "熟食能破坏豆角中的蛋白质毒素"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "analysis": "熟食可提高蛋白质消化率（如生鸡蛋消化率约50%，熟后超98%），加热会破坏部分氨基酸，但动物蛋白足够可抵消；熟食可灭活硫胺素酶、卵白素等抗营养因子，破坏豆角中的蛋白质毒素。生鸡蛋消化率低于熟鸡蛋。"
+        },
+        {
+          "id": "3f36ab0c-6fc1-4d25-ac6b-bb337df31bdc",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "素食喂猫",
+          "question": "猫可以通过素食获得足够的蛋白质和必需氨基酸。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "猫是严格的肉食动物，必须从动物来源获取足够的蛋白质和必需氨基酸，素食无法满足需求。"
+        },
+        {
+          "id": "38c7a721-da4e-457f-9bf9-3f5578b53331",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "AAFCO蛋白质标准",
+          "question": "根据AAFCO标准，成年猫的蛋白质最低需求量是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "18%"
+            },
+            {
+              "id": "B",
+              "text": "22.5%"
+            },
+            {
+              "id": "C",
+              "text": "26%"
+            },
+            {
+              "id": "D",
+              "text": "30%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "AAFCO规定成年猫蛋白质最低需求是26%，幼猫是30%，这些是最低值而非适宜值。"
+        },
+        {
+          "id": "bb7c353a-123c-4eee-8f0d-2930dff780a3",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "蛋白质食物热效应",
+          "question": "蛋白质的食物热效应约为30%，摄入后身体会发热。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "蛋白质的食物热效应约为30%，摄入后身体会发热，高蛋白饮食会让人产生干渴、体温升高的感受。"
+        },
+        {
+          "id": "b0dbf19c-151b-4cd6-ae95-e4c36b03b8ad",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "微生物蛋白",
+          "question": "关于一氧化碳合成蛋白质技术，以下说法正确的是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "技术已经非常成熟"
+            },
+            {
+              "id": "B",
+              "text": "添加量超过5%会导致喂鱼死亡"
+            },
+            {
+              "id": "C",
+              "text": "该技术比二氧化碳变淀粉技术含量高"
+            },
+            {
+              "id": "D",
+              "text": "目前已在宠物食品中广泛使用"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "一氧化碳合成蛋白质技术目前还不成熟，添加量超过5%会导致喂鱼死亡；技术含量低于二氧化碳变淀粉；尚未广泛使用。"
+        },
+        {
+          "id": "70bab8d7-ad0d-4fd7-96a4-a608f0135617",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "蛋白质摄入不足与过剩",
+          "question": "以下哪些是蛋白质摄入不足可能导致的后果？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "生长缓慢"
+            },
+            {
+              "id": "B",
+              "text": "掉毛"
+            },
+            {
+              "id": "C",
+              "text": "贫血"
+            },
+            {
+              "id": "D",
+              "text": "繁殖力下降"
+            },
+            {
+              "id": "E",
+              "text": "肌肉萎缩"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "蛋白质缺乏会导致生长缓慢、背毛皮肤脆弱、掉毛、贫血、繁殖力下降、乳汁分泌减少、肌肉萎缩。"
+        },
+        {
+          "id": "7332e376-6bbb-4515-befc-4e3391a2a352",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "狗爱吃屎的原因",
+          "question": "狗爱吃猫屎是因为猫屎中含有大量未消化的蛋白质，尸胺对狗有吸引力。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "猫屎含大量未消化的蛋白质，尸胺的腐败味道对狗有吸引力，狗的祖先长期吃腐肉，进化出了对这种味道的偏好。"
+        },
+        {
+          "id": "015e3d9e-3697-487d-a8dc-f27814b1935d",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "猫胺产品",
+          "question": "关于猫胺（赖氨酸补充剂）治疗猫疱疹病毒，以下说法正确的是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "有充分研究支持其效果"
+            },
+            {
+              "id": "B",
+              "text": "额外补充可能导致精氨酸缺乏"
+            },
+            {
+              "id": "C",
+              "text": "可以安全长期使用"
+            },
+            {
+              "id": "D",
+              "text": "是治疗疱疹病毒的首选药物"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "猫胺治疗猫疱疹病毒没有实际研究支持，只是理论推测；额外补充赖氨酸可能导致精氨酸缺乏，不建议使用。"
+        },
+        {
+          "id": "84372de4-466c-4d13-b013-d02e9153587a",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "蛋白质的检测原理与行业乱象",
+          "question": "为什么商家会在宠物食品中添加三聚氰胺或羽毛粉？",
+          "options": [
+            {
+              "id": "A",
+              "text": "为了增加宠物食品的适口性"
+            },
+            {
+              "id": "B",
+              "text": "为了提高检测出的粗蛋白含量，欺骗检测仪器"
+            },
+            {
+              "id": "C",
+              "text": "为了提供宠物所需的必需氨基酸"
+            },
+            {
+              "id": "D",
+              "text": "为了延长宠物食品的保质期"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "三聚氰胺含大量氮，羽毛粉含角蛋白，两者都能提高氮含量，从而通过测氮乘以折算系数得到虚高的粗蛋白值，但实际没有营养价值。"
+        }
+      ]
+    },
     {
       "id": "13211ebe-a654-41ba-a6ad-9eaa3e31f258",
       "name": "犬猫营养基础讲解：能量单位计算与每日能量需求测算方法-2026年06月10日-来自【Get 笔记】 · 06/25 10:23",
