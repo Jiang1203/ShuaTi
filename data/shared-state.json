@@ -1,8 +1,583 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:10:11.347Z",
+  "updatedAt": "2026-06-25T09:11:24.639Z",
   "questionBanks": [
+    {
+      "id": "32a49fe0-bfd1-482d-92f3-f814580993d0",
+      "name": "孕产期犬分阶段营养管理方案与实用喂养技巧分享-2026年06月25日-来自【Get 笔记】 · 06/25 17:11",
+      "createdAt": "2026-06-25T09:11:22.603Z",
+      "questions": [
+        {
+          "id": "f6c7c081-c731-4159-9b88-7a4e00b24a19",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "孕期犬体重变化规律",
+          "question": "孕期犬从受孕到第35天，体重变化特征是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "体重直线上升"
+            },
+            {
+              "id": "B",
+              "text": "体重基本不增长"
+            },
+            {
+              "id": "C",
+              "text": "体重持续下降"
+            },
+            {
+              "id": "D",
+              "text": "体重先升后降"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，从受孕到第35天，孕期犬的体重基本上不增长，即便增长也微乎其微。"
+        },
+        {
+          "id": "a7721820-8349-43b2-bd25-3117191f2d17",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "犬妊娠期时长",
+          "question": "犬的妊娠期一般约为多少天？",
+          "options": [
+            {
+              "id": "A",
+              "text": "50~55天"
+            },
+            {
+              "id": "B",
+              "text": "58~63天"
+            },
+            {
+              "id": "C",
+              "text": "65~70天"
+            },
+            {
+              "id": "D",
+              "text": "70~75天"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，犬妊娠期从卵子受精开始计算，大概在60天左右，一般是58~63天。"
+        },
+        {
+          "id": "3b823586-c897-4cc4-b894-06834e3c2d2a",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "妊娠期阶段划分与专业服务技巧",
+          "question": "为孕期犬定制营养配方时，将妊娠期分为几个时期可以提升专业感？",
+          "options": [
+            {
+              "id": "A",
+              "text": "三个时期"
+            },
+            {
+              "id": "B",
+              "text": "四个时期"
+            },
+            {
+              "id": "C",
+              "text": "五个时期"
+            },
+            {
+              "id": "D",
+              "text": "六个时期"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到，专业营养方案一般将妊娠期分为四个时期，按四个时期配餐并标注对应时期可以大幅提升专业感。"
+        },
+        {
+          "id": "404b6734-5d7f-4ee6-acde-bf4bc6370d5e",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "第一阶段：受精卵期营养方案",
+          "question": "妊娠前三周（受精卵期）应该给母犬喂食什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "幼犬粮"
+            },
+            {
+              "id": "B",
+              "text": "幼猫粮"
+            },
+            {
+              "id": "C",
+              "text": "正常成犬粮"
+            },
+            {
+              "id": "D",
+              "text": "高蛋白处方粮"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，受精卵期不需要特殊营养，喂食正常成犬粮即可满足所有营养需求。"
+        },
+        {
+          "id": "6d37846a-f373-4f07-9e90-3e2e8a2e7841",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "第二阶段：胚胎期营养方案",
+          "question": "妊娠4~5周（胚胎期），最简单的营养调整方案是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "喂食成犬粮"
+            },
+            {
+              "id": "B",
+              "text": "喂食幼犬粮"
+            },
+            {
+              "id": "C",
+              "text": "喂食老年犬粮"
+            },
+            {
+              "id": "D",
+              "text": "喂食低脂粮"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，最简单的调整方案是将母犬的口粮从成犬粮换成幼犬粮，因为幼犬粮含有更高的蛋白质以及钙磷。"
+        },
+        {
+          "id": "b94204d4-a204-43c8-a531-755ffa1e82fa",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "第二阶段：胚胎期进阶营养方案",
+          "question": "胚胎期想要更好的喂养效果，可以换成什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "成猫粮"
+            },
+            {
+              "id": "B",
+              "text": "幼猫粮"
+            },
+            {
+              "id": "C",
+              "text": "全价主食罐头"
+            },
+            {
+              "id": "D",
+              "text": "低敏处方粮"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，想要更好的喂养效果，可以换成幼猫粮，因为幼猫粮蛋白质含量远高于狗粮，且钙磷比例接近。"
+        },
+        {
+          "id": "63b69c29-b719-4ff2-8b97-a05789f96908",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "第三阶段：胎儿期营养方案",
+          "question": "妊娠6~7周（胎儿期），营养需求相比胚胎期如何？",
+          "options": [
+            {
+              "id": "A",
+              "text": "需要更低的蛋白质和钙磷"
+            },
+            {
+              "id": "B",
+              "text": "需要更高的蛋白质和钙磷"
+            },
+            {
+              "id": "C",
+              "text": "需要更低的脂肪"
+            },
+            {
+              "id": "D",
+              "text": "需要更低的碳水化合物"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，胎儿期胎儿快速生长，需要比胚胎期更高的蛋白质和钙磷。"
+        },
+        {
+          "id": "f288df81-ba28-42fc-8742-b7547483167c",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "第四阶段：分娩前期营养方案",
+          "question": "妊娠8周左右（分娩前期），调整营养的核心目的是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "促进胎儿生长"
+            },
+            {
+              "id": "B",
+              "text": "预防难产"
+            },
+            {
+              "id": "C",
+              "text": "增加母犬体重"
+            },
+            {
+              "id": "D",
+              "text": "提高乳汁产量"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，分娩前期调整营养的核心目的是预防难产，需要降低脂肪和碳水化合物含量，避免胎儿过大。"
+        },
+        {
+          "id": "53f135d2-7031-4f74-8f23-42b0725b3405",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "难产风险案例",
+          "question": "以下哪种犬由于头部过大，基本无法顺产，所有繁殖都必须进行剖腹产？",
+          "options": [
+            {
+              "id": "A",
+              "text": "金毛寻回犬"
+            },
+            {
+              "id": "B",
+              "text": "斗牛犬"
+            },
+            {
+              "id": "C",
+              "text": "拉布拉多犬"
+            },
+            {
+              "id": "D",
+              "text": "德国牧羊犬"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，斗牛犬头部过大，基本无法顺产，所有斗牛犬繁殖都必须进行剖腹产。"
+        },
+        {
+          "id": "1852efd7-a84b-4c62-8a76-941532f41b08",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "哺乳期母犬体重与进食量变化规律",
+          "question": "母犬分娩后，体重和进食量如何变化？",
+          "options": [
+            {
+              "id": "A",
+              "text": "体重上升，进食量下降"
+            },
+            {
+              "id": "B",
+              "text": "体重下降，进食量上升"
+            },
+            {
+              "id": "C",
+              "text": "体重和进食量都上升"
+            },
+            {
+              "id": "D",
+              "text": "体重和进食量都下降"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，母犬分娩后体重立刻下降并持续降低，同时进食量持续升高。"
+        },
+        {
+          "id": "b12908b1-f0ac-4e17-9fe0-1a7d181b46cf",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "哺乳期母犬能量需求标准",
+          "question": "哺乳期母犬怀有5~6只幼犬时，总能量需求为多少倍RER？",
+          "options": [
+            {
+              "id": "A",
+              "text": "4倍RER"
+            },
+            {
+              "id": "B",
+              "text": "4.5倍RER"
+            },
+            {
+              "id": "C",
+              "text": "5倍RER"
+            },
+            {
+              "id": "D",
+              "text": "5.5倍RER"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，怀5~6只幼犬时，总能量需求达到5倍RER。"
+        },
+        {
+          "id": "c3298da3-23d9-4f88-927c-50369ff5a2aa",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "产后初期母犬喂养技巧",
+          "question": "母犬刚分娩后，食欲下降，应如何喂养？",
+          "options": [
+            {
+              "id": "A",
+              "text": "喂食干粮并冷藏"
+            },
+            {
+              "id": "B",
+              "text": "喂食湿粮并加热"
+            },
+            {
+              "id": "C",
+              "text": "喂食干粮并加热"
+            },
+            {
+              "id": "D",
+              "text": "喂食湿粮并冷藏"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，需要给母犬提供适口性高的湿粮，并且加热后再喂食。"
+        },
+        {
+          "id": "493a9763-d1a9-44cc-be19-eaaf79076297",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "产后初期喂养技巧",
+          "question": "推荐使用什么包装的湿粮以便于微波炉加热？",
+          "options": [
+            {
+              "id": "A",
+              "text": "铝箔包装"
+            },
+            {
+              "id": "B",
+              "text": "透明包装"
+            },
+            {
+              "id": "C",
+              "text": "纸质包装"
+            },
+            {
+              "id": "D",
+              "text": "塑料瓶装"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，推荐使用透明包装的湿粮，因为透明包装可以直接放入微波炉加热。"
+        },
+        {
+          "id": "0c540c71-d68e-4e16-92cd-fd340588e32c",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "孕产期犬营养素需求标准",
+          "question": "孕产期犬口粮的蛋白质含量至少需要达到多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "15%~20%"
+            },
+            {
+              "id": "B",
+              "text": "20%~25%"
+            },
+            {
+              "id": "C",
+              "text": "25%~35%"
+            },
+            {
+              "id": "D",
+              "text": "35%~40%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，孕产期犬口粮的蛋白质含量至少要达到25%~35%。"
+        },
+        {
+          "id": "eedabe4c-57f3-48a3-94fe-832975f2546a",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "孕产期犬营养素需求标准",
+          "question": "孕产期犬口粮的脂肪含量需要达到多少以上？",
+          "options": [
+            {
+              "id": "A",
+              "text": "10%"
+            },
+            {
+              "id": "B",
+              "text": "15%"
+            },
+            {
+              "id": "C",
+              "text": "20%"
+            },
+            {
+              "id": "D",
+              "text": "25%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，孕产期犬口粮的脂肪含量需要达到20%以上。"
+        },
+        {
+          "id": "05e36f6d-a3a9-4ddb-a73e-28833ebedd18",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "孕产期犬营养素需求标准",
+          "question": "孕产期犬口粮的钙磷比例应控制在什么范围？",
+          "options": [
+            {
+              "id": "A",
+              "text": "0.8~1.0"
+            },
+            {
+              "id": "B",
+              "text": "1.0~1.1"
+            },
+            {
+              "id": "C",
+              "text": "1.1~1.6"
+            },
+            {
+              "id": "D",
+              "text": "1.6~2.0"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，钙磷比例需要控制在1.1~1.6之间。"
+        },
+        {
+          "id": "88366c7b-f745-4d02-882b-d60d619a8c05",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "孕产期犬推荐方案",
+          "question": "以下哪些食物适合孕产期母犬？",
+          "options": [
+            {
+              "id": "A",
+              "text": "幼猫粮"
+            },
+            {
+              "id": "B",
+              "text": "幼犬粮搭配全价主食罐头"
+            },
+            {
+              "id": "C",
+              "text": "普通成犬粮"
+            },
+            {
+              "id": "D",
+              "text": "低脂处方粮"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "笔记推荐喂食幼猫粮，或幼犬粮搭配全价主食罐头，因为普通犬粮脂肪含量通常不足20%。"
+        },
+        {
+          "id": "1e962908-3706-45ed-93a5-e6375319e412",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "哺乳期母犬能量需求标准",
+          "question": "以下关于哺乳期母犬能量需求的说法，正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "每多怀1只幼犬增加0.5倍RER"
+            },
+            {
+              "id": "B",
+              "text": "怀1只幼犬总需求为3倍RER"
+            },
+            {
+              "id": "C",
+              "text": "怀3~4只幼犬总需求为4倍RER"
+            },
+            {
+              "id": "D",
+              "text": "怀9只及以上总需求为6倍RER"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出，每多1只幼犬增加0.5倍RER；怀1只3倍，2只3.5倍，3~4只4倍，5~6只5倍，7~8只5.5倍，9只及以上6倍。"
+        },
+        {
+          "id": "bc6a1334-676d-47ba-aebf-2b17f179f80d",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "猫狗食物认知纠正",
+          "question": "猫粮不能喂给狗吃。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出，可以用更客观的观点看待犬猫食物，合适的情况下可以直接将猫的食物喂给孕产期母犬。"
+        },
+        {
+          "id": "2e570f15-a083-40fb-b3b1-aedc8fa95982",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "孕晚期母犬特殊情况",
+          "question": "怀孕后期，母犬的饭量会变大，因为需要更多营养。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出，怀孕后期多个幼犬会挤压母犬的胃部，导致母犬饭量变小，无法进食太多食物。"
+        }
+      ]
+    },
     {
       "id": "cf006443-26db-42d7-869a-23a26940dee8",
       "name": "宠物犬猫营养喂食管理与自制宠物饮食商业落地课程分享-2026年06月25日-来自【Get 笔记】 (2) · 06/25 17:10",
