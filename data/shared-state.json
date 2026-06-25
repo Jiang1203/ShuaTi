@@ -1,8 +1,562 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:15:13.123Z",
+  "updatedAt": "2026-06-25T09:16:44.131Z",
   "questionBanks": [
+    {
+      "id": "9a537431-59b7-44cd-a00c-938a8081ebea",
+      "name": "幼猫离乳期全指南：阶段划分、喂养管理、行为问题与注意事项-2026年06月25日-来自【Get 笔记】 · 06/25 17:16",
+      "createdAt": "2026-06-25T09:16:42.016Z",
+      "questions": [
+        {
+          "id": "327efc30-2298-4d77-bd13-d63b7030c87c",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "离乳期时间范围",
+          "question": "行业通常将幼猫的离乳期定义为出生后的哪个时间段？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1~4周"
+            },
+            {
+              "id": "B",
+              "text": "5~8周"
+            },
+            {
+              "id": "C",
+              "text": "8~12周"
+            },
+            {
+              "id": "D",
+              "text": "4~6周"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，离乳期通常被定义为幼猫出生后的5~8周。"
+        },
+        {
+          "id": "dc7b61da-957c-40b2-b87c-16d874283be7",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "幼年期截止时间",
+          "question": "幼猫的幼年期一般截止到出生后多久？",
+          "options": [
+            {
+              "id": "A",
+              "text": "6个月"
+            },
+            {
+              "id": "B",
+              "text": "8个月"
+            },
+            {
+              "id": "C",
+              "text": "12个月"
+            },
+            {
+              "id": "D",
+              "text": "5个月"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到幼猫的幼年期一般截止到出生后8个月。"
+        },
+        {
+          "id": "ac027dfc-1520-4ac6-8f6d-a25f3b51dac1",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "离乳期食物多样化训练",
+          "question": "离乳期除满足能量需求外，核心任务是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "增加体重"
+            },
+            {
+              "id": "B",
+              "text": "食物多样化训练"
+            },
+            {
+              "id": "C",
+              "text": "断奶"
+            },
+            {
+              "id": "D",
+              "text": "学习使用猫砂"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出离乳期核心任务是完成食物多样化训练。"
+        },
+        {
+          "id": "5596c103-df36-414e-9866-5a3581f172d1",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "离乳期食物选择",
+          "question": "以下哪些食物适合作为离乳期幼猫的第一口食物？",
+          "options": [
+            {
+              "id": "A",
+              "text": "奶猫慕斯罐"
+            },
+            {
+              "id": "B",
+              "text": "干猫粮"
+            },
+            {
+              "id": "C",
+              "text": "幼猫粮打成粉末泡水做的软糊"
+            },
+            {
+              "id": "D",
+              "text": "生肉"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "analysis": "笔记推荐奶猫慕斯罐或幼猫粮打成粉末泡水做成软糊作为第一口食物。"
+        },
+        {
+          "id": "b86124c8-052c-4664-91d1-fc242adace46",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "幼猫长牙规律",
+          "question": "幼猫出生时就有牙齿。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记明确幼猫出生时没有牙齿，乳牙逐渐生长。"
+        },
+        {
+          "id": "650677bb-9b35-4d1b-bd67-2e1212860594",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "母猫泌乳变化",
+          "question": "母猫泌乳量明显减少通常在幼猫出生后多久？",
+          "options": [
+            {
+              "id": "A",
+              "text": "3~4周"
+            },
+            {
+              "id": "B",
+              "text": "5~6周"
+            },
+            {
+              "id": "C",
+              "text": "7~8周"
+            },
+            {
+              "id": "D",
+              "text": "2~3周"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到5~6周母猫泌乳量明显减少。"
+        },
+        {
+          "id": "3627e665-7990-4822-8f52-cfb8cf1b60b4",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "过早断奶与行为问题",
+          "question": "关于过早断奶与幼猫行为问题的关系，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "过早断奶必然导致行为问题"
+            },
+            {
+              "id": "B",
+              "text": "行为问题的核心来源是安全感缺失"
+            },
+            {
+              "id": "C",
+              "text": "人工喂养并充分互动抚触的幼猫，即使5~8周断奶，行为问题比例也很低"
+            },
+            {
+              "id": "D",
+              "text": "过早断奶的幼猫成年后一定出现攻击行为"
+            }
+          ],
+          "answer": [
+            "B",
+            "C"
+          ],
+          "analysis": "笔记修正了传统认知，指出过早断奶不一定必然导致行为问题，核心是安全感缺失，人工喂养且互动充分的幼猫行为问题比例低。"
+        },
+        {
+          "id": "157a8af2-3878-4c08-a3d4-a199818bff83",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "幼猫换牙时间",
+          "question": "幼猫通常在出生后多久开始换牙？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2~3个月"
+            },
+            {
+              "id": "B",
+              "text": "4~5个月"
+            },
+            {
+              "id": "C",
+              "text": "6~7个月"
+            },
+            {
+              "id": "D",
+              "text": "8~9个月"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出幼猫在出生后4~5个月会换牙。"
+        },
+        {
+          "id": "bf403c08-2963-43c3-8e46-25f86690df1b",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "猫喝牛奶",
+          "question": "所有猫都对乳糖不耐受，不能喝牛奶。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记说明并非所有猫都对乳糖不耐受，从小逐步接触可建立耐受。"
+        },
+        {
+          "id": "65e6e4b6-ebf6-4267-9d78-6a93817f3a57",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "消化酶的作用",
+          "question": "根据笔记，消化酶和益生菌相比，哪个更直接参与食物分解吸收？",
+          "options": [
+            {
+              "id": "A",
+              "text": "益生菌"
+            },
+            {
+              "id": "B",
+              "text": "消化酶"
+            },
+            {
+              "id": "C",
+              "text": "两者同等重要"
+            },
+            {
+              "id": "D",
+              "text": "两者都不直接参与"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记强调消化酶直接参与食物分解吸收，比益生菌更重要。"
+        },
+        {
+          "id": "4db7d54a-c69d-4575-9e00-53f96ea39b2a",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "离乳期喂养技巧",
+          "question": "以下关于离乳期喂养技巧的说法，正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "最有效的开食方法是直接把食物塞到幼猫嘴里"
+            },
+            {
+              "id": "B",
+              "text": "半固体食物可以足量供应，让幼猫自由采食"
+            },
+            {
+              "id": "C",
+              "text": "喂食后应及时撤掉剩余食物，避免腹泻或腐败"
+            },
+            {
+              "id": "D",
+              "text": "泡水的猫粮糊在室温下不易腐败，可以长时间放置"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "analysis": "笔记指出直接塞食物有效，喂食后需及时撤掉剩余食物，泡水猫粮糊易腐败。"
+        },
+        {
+          "id": "290be526-97be-4459-aac4-21fc3f1118e2",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "离乳期奶粉的作用",
+          "question": "离乳期仍需要保证足量奶粉供应，除了补充能量外，还有什么重要作用？",
+          "options": [
+            {
+              "id": "A",
+              "text": "提供纤维素"
+            },
+            {
+              "id": "B",
+              "text": "满足水分补充需求"
+            },
+            {
+              "id": "C",
+              "text": "促进牙齿生长"
+            },
+            {
+              "id": "D",
+              "text": "增加饱腹感"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到奶粉可以满足幼猫的水分补充需求，因为幼猫学习自主喝水需要较长时间。"
+        },
+        {
+          "id": "f3e3a396-e4bf-43b6-843b-01a522969ac1",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "幼猫吃猫砂",
+          "question": "离乳期幼猫啃咬猫砂是正常的探索行为。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记说明离乳期幼猫通过嘴探索环境，啃咬猫砂是正常探索行为。"
+        },
+        {
+          "id": "6635f5a5-d080-4fe5-b1f5-c959da51a762",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "人工喂养奶嘴更换",
+          "question": "人工喂养幼猫时，奶嘴通常多久需要更换一次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "每天"
+            },
+            {
+              "id": "B",
+              "text": "2~3天"
+            },
+            {
+              "id": "C",
+              "text": "一周"
+            },
+            {
+              "id": "D",
+              "text": "两周"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到人工奶嘴通常2~3天就需要更换。"
+        },
+        {
+          "id": "6aa0c680-f0c5-40d4-9cf0-8b1dd1078eee",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "离乳期母猫管理",
+          "question": "离乳期将母猫与幼猫分开有哪些好处？",
+          "options": [
+            {
+              "id": "A",
+              "text": "让母猫得到充分休息"
+            },
+            {
+              "id": "B",
+              "text": "避免幼猫一直黏着母猫拒绝新食物"
+            },
+            {
+              "id": "C",
+              "text": "防止母猫咬伤幼猫"
+            },
+            {
+              "id": "D",
+              "text": "符合野生猫科动物的自然规律"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记提到分开可以让母猫休息、避免幼猫黏着母猫拒绝新食物，且符合自然规律。"
+        },
+        {
+          "id": "70f3a395-41c0-42ea-92d1-3acaccab4a0d",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "幼猫出生初期存活规律",
+          "question": "幼猫出生后1~4周，猫妈妈会主动放弃哪类幼猫？",
+          "options": [
+            {
+              "id": "A",
+              "text": "所有幼猫"
+            },
+            {
+              "id": "B",
+              "text": "发育不良、体重极低的弱势幼猫"
+            },
+            {
+              "id": "C",
+              "text": "体型最大的幼猫"
+            },
+            {
+              "id": "D",
+              "text": "公猫"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出猫妈妈会主动放弃发育不良、体重极低的弱势幼猫。"
+        },
+        {
+          "id": "3d85f870-9d4e-4266-b475-17ff014bf796",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "换粮腹泻应对",
+          "question": "给猫换用新种类肉的配方粮引发腹泻时，应该只吃益生菌。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出此时更需要补充消化酶，而不是只吃益生菌。"
+        },
+        {
+          "id": "5eb6c006-3a42-4da0-816d-838e18c2f793",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "食物多样化训练顺序",
+          "question": "离乳期食物多样化训练的正确顺序是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "猫奶/奶粉→泡软的奶糕粮→慕斯奶糕罐→少量煮熟鸡肉/鱼肉"
+            },
+            {
+              "id": "B",
+              "text": "猫奶/奶粉→慕斯奶糕罐→泡软的奶糕粮→少量煮熟鸡肉/鱼肉"
+            },
+            {
+              "id": "C",
+              "text": "慕斯奶糕罐→猫奶/奶粉→泡软的奶糕粮→少量煮熟鸡肉/鱼肉"
+            },
+            {
+              "id": "D",
+              "text": "泡软的奶糕粮→猫奶/奶粉→慕斯奶糕罐→少量煮熟鸡肉/鱼肉"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记给出的顺序为猫奶/奶粉→慕斯奶糕罐→泡软的奶糕粮→少量煮熟鸡肉/鱼肉。"
+        },
+        {
+          "id": "672f32dd-8ad8-47a5-aa06-5e0aca3fe623",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "幼猫长牙阶段行为",
+          "question": "幼猫长牙阶段可能出现哪些行为特点？",
+          "options": [
+            {
+              "id": "A",
+              "text": "行为混乱，不知道该吸还是咬"
+            },
+            {
+              "id": "B",
+              "text": "进食半固体食物初期用吮吸方式"
+            },
+            {
+              "id": "C",
+              "text": "随着牙齿长出逐渐转为啃咬"
+            },
+            {
+              "id": "D",
+              "text": "完全停止吃奶"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记描述长牙阶段幼猫会行为混乱，初期吮吸，逐渐转为啃咬，但并非完全停止吃奶。"
+        },
+        {
+          "id": "b754f803-9638-4d7e-9256-22a1a7c0f894",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "人工喂养幼猫社会化",
+          "question": "人工带大的幼猫社会化更好，和人类互动更亲密，行为问题发生率更低。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确指出人工带大的幼猫社会化更好，行为问题发生率更低。"
+        }
+      ]
+    },
     {
       "id": "2e7e466d-7bea-4918-8119-3be975b3b05d",
       "name": "猫咪初生期（0-5周龄）营养与养护全指南——公益猫护理课程-2026年06月25日-来自【Get 笔记】 · 06/25 17:15",
