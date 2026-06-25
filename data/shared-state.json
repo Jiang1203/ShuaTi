@@ -1,8 +1,1177 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T08:15:46.766Z",
+  "updatedAt": "2026-06-25T08:16:48.629Z",
   "questionBanks": [
+    {
+      "id": "fed5fbbc-490e-4c5e-b92e-fc7ae8617f0a",
+      "name": "农业部宠物饲料标签规范解读：合规标注要求与行业实操案例分享-2026年06月16日-来自【Get 笔记】 · 06/25 16:16",
+      "createdAt": "2026-06-25T08:16:47.372Z",
+      "questions": [
+        {
+          "id": "3394c9a3-dabd-4b1b-9405-286190dead9d",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物饲料标签规范的基础强制要求",
+          "question": "根据农业部宠物饲料标签规范，所有宠物饲料产品必须在显眼位置标注哪句话？",
+          "options": [
+            {
+              "id": "A",
+              "text": "本产品符合宠物饲料卫生规定"
+            },
+            {
+              "id": "B",
+              "text": "本产品符合宠物饲料营养标准"
+            },
+            {
+              "id": "C",
+              "text": "本产品符合宠物饲料安全规定"
+            },
+            {
+              "id": "D",
+              "text": "本产品符合宠物饲料质量规定"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "根据笔记，所有宠物饲料产品必须在显眼位置标注「本产品符合宠物饲料卫生规定」，这是强制要求。"
+        },
+        {
+          "id": "12c87c7e-3adc-476f-ac6a-6d249f5a0f79",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物饲料标签规范的基础强制要求",
+          "question": "以下哪些是宠物饲料标签必须标注的内容？",
+          "options": [
+            {
+              "id": "A",
+              "text": "产品成分分析保证值"
+            },
+            {
+              "id": "B",
+              "text": "原料组成和添加剂组成"
+            },
+            {
+              "id": "C",
+              "text": "产品宣传语"
+            },
+            {
+              "id": "D",
+              "text": "净含量"
+            },
+            {
+              "id": "E",
+              "text": "存储条件"
+            },
+            {
+              "id": "F",
+              "text": "保质期"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D",
+            "E",
+            "F"
+          ],
+          "analysis": "笔记中列出必须标注的内容包括：产品成分分析保证值、通用名称、原料组成和添加剂组成、净含量、存储条件、保质期。宣传语不是强制标注内容。"
+        },
+        {
+          "id": "2441660b-390f-4925-9602-11ea90318abb",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "宠物饲料标签规范的基础强制要求",
+          "question": "纯素宠物饲料产品可以不标注「本产品不得饲喂反刍动物」。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记指出，含有动物性成分的产品必须标注「本产品不得饲喂反刍动物」，纯素产品可免标。"
+        },
+        {
+          "id": "d0f2f485-954f-47fe-8f79-27cfa50eca87",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "产品通用名称命名规则",
+          "question": "根据规范，以下哪个产品通用名称是合规的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "宠物全价食品"
+            },
+            {
+              "id": "B",
+              "text": "宠物配合饲料"
+            },
+            {
+              "id": "C",
+              "text": "宠物全价宠物食品"
+            },
+            {
+              "id": "D",
+              "text": "宠物食品"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记中提到，通用名称可以是「宠物配合饲料」「宠物全价饲料」「全价宠物食品」或带有「全价」字样，但必须保留「全价」二字。选项C符合要求。"
+        },
+        {
+          "id": "40aa3925-1c70-4517-95ba-57e3d03db4a5",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "产品通用名称命名规则",
+          "question": "关于宠物饲料通用名称，以下哪些说法正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "规范要求必须带有「全价」字样"
+            },
+            {
+              "id": "B",
+              "text": "「宠物配合饲料」不含「全」字，可规避广告法限制"
+            },
+            {
+              "id": "C",
+              "text": "「宠物全价饲料」和「全价宠物食品」均合规"
+            },
+            {
+              "id": "D",
+              "text": "通用名称中不能出现「犬粮」字样"
+            },
+            {
+              "id": "E",
+              "text": "名称中「全价」代表营养全面均衡"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "analysis": "笔记指出：必须带「全价」字样；「宠物配合饲料」不含「全」字，可解决广告法冲突；两种名称均合规；「全价」代表营养全面均衡。选项D错误，因为可以标注「犬粮」。"
+        },
+        {
+          "id": "d43245f2-278f-4136-aa71-b058f3e76e9a",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "处方粮命名要求",
+          "question": "处方粮必须标注「请在执业兽医师指导下使用」。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确说明，处方粮必须标注「请在执业兽医师指导下使用」。"
+        },
+        {
+          "id": "af414d47-54d3-4782-80ea-1fdb317666ea",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "宠物保健品命名要求",
+          "question": "宠物保健品的规范名称可以是以下哪个？",
+          "options": [
+            {
+              "id": "A",
+              "text": "宠物营养补充剂"
+            },
+            {
+              "id": "B",
+              "text": "宠物添加剂预混合饲料"
+            },
+            {
+              "id": "C",
+              "text": "宠物功能性食品"
+            },
+            {
+              "id": "D",
+              "text": "宠物保健食品"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，宠物保健品的规范名称为「宠物添加剂预混合饲料」或「补充性宠物食品」。"
+        },
+        {
+          "id": "6eb02f13-125d-4c74-ba78-3095c636b49e",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "宠物零食命名规则",
+          "question": "关于宠物零食的命名，以下哪些说法正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "规范一级名称为「宠物零食」"
+            },
+            {
+              "id": "B",
+              "text": "可以保留面向消费者的宣传名称"
+            },
+            {
+              "id": "C",
+              "text": "宣传名称不能与规范名称同时使用"
+            },
+            {
+              "id": "D",
+              "text": "「洁齿棒」可以作为宣传名称"
+            },
+            {
+              "id": "E",
+              "text": "规范名称必须包含「零食」二字"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记指出，零食规范一级名称为「宠物零食」，同时可以保留宣传名称，如「洁齿棒」。选项C错误，可以同时使用；选项E错误，规范名称就是「宠物零食」。"
+        },
+        {
+          "id": "5e3ae782-181b-47ff-9037-1ebc08518445",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "原料使用合规要求",
+          "question": "鼠肉和乳鼠属于《宠物饲料原料目录》内的合法原料。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记明确指出，鼠肉、乳鼠目前不属于合法原料，小范围生产没人追究，做大后一定会被处罚。"
+        },
+        {
+          "id": "e05a39e6-d545-4eec-a3a3-0b256b38f814",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "原料使用合规要求",
+          "question": "如果企业想使用目录外的新原料（如蛋黄油），正确的做法是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "直接使用，因为食品级原料更安全"
+            },
+            {
+              "id": "B",
+              "text": "向农业部申请新饲料原料认证"
+            },
+            {
+              "id": "C",
+              "text": "在标签中标注为「食品级原料」即可"
+            },
+            {
+              "id": "D",
+              "text": "小范围使用，不标注在标签上"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，使用目录外新原料需要向农业部申请新饲料原料认证，走合法流程。"
+        },
+        {
+          "id": "ecf9b72d-94cf-4c69-a303-13c3fcae0bab",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "产品宣传声称规范",
+          "question": "以下哪些宣传声称是合规的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "预防牙垢聚集"
+            },
+            {
+              "id": "B",
+              "text": "治疗口腔炎症"
+            },
+            {
+              "id": "C",
+              "text": "有助于美毛亮毛"
+            },
+            {
+              "id": "D",
+              "text": "预防毛球产生"
+            },
+            {
+              "id": "E",
+              "text": "治疗皮肤病"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出，可以宣传预防非疾病性问题，如预防牙垢聚集、预防毛球产生、有助于美毛亮毛；但不能宣传治疗疾病，如治疗口腔炎症、治疗皮肤病。"
+        },
+        {
+          "id": "73e2d927-f55c-46d6-9064-d72eaf84f794",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "产品宣传声称规范",
+          "question": "所有功能声称都需要配套证明材料，如公开论文或检测数据。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确要求，所有功能声称都需要配套证明材料，公开论文、检测数据都可以。"
+        },
+        {
+          "id": "91281f81-7b06-44fd-a1c9-1cf17847bad3",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "原料标注细节要求",
+          "question": "如果产品中添加了2%的胡萝卜粉，根据规范，可以标注为含胡萝卜多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2%"
+            },
+            {
+              "id": "B",
+              "text": "4%"
+            },
+            {
+              "id": "C",
+              "text": "1%"
+            },
+            {
+              "id": "D",
+              "text": "不能标注"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，脱水处理的原料可以按水分还原后的含量标注，添加2%胡萝卜粉可以标注含4%胡萝卜。"
+        },
+        {
+          "id": "96c656b2-6067-42c7-be08-ce8312556202",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "配方命名的含量规则",
+          "question": "关于配方命名与原料含量的关系，以下哪些说法正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "原料含量≥26%可称为「XX配方」"
+            },
+            {
+              "id": "B",
+              "text": "原料含量14%-26%可称为「含XX配方」"
+            },
+            {
+              "id": "C",
+              "text": "原料含量4%-14%可标注「含XX」"
+            },
+            {
+              "id": "D",
+              "text": "原料含量<4%可标注「添加XX」"
+            },
+            {
+              "id": "E",
+              "text": "原料含量<14%不能标注任何与原料相关的名称"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记详细列出了含量规则：≥26%叫「XX配方」；14%-26%叫「含XX配方」；4%-14%叫「含XX」；<4%叫「添加XX」。选项E错误。"
+        },
+        {
+          "id": "8cc90a9f-7fdc-4aac-9e1d-27cd5a256705",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "特殊声称标注规则",
+          "question": "「无谷粮」是规范的表述，可以直接在标签上使用。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出，「无谷粮」是俗称，规范表述应为「无麸质」或「不含麸质」。"
+        },
+        {
+          "id": "c7ea6d59-cad5-4b73-8a77-5cd5e2447898",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "特殊声称标注规则",
+          "question": "「新配方」「配方升级」的标注时长不能超过多少个月？",
+          "options": [
+            {
+              "id": "A",
+              "text": "12个月"
+            },
+            {
+              "id": "B",
+              "text": "18个月"
+            },
+            {
+              "id": "C",
+              "text": "24个月"
+            },
+            {
+              "id": "D",
+              "text": "6个月"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记明确说明，标注「新配方」「配方升级」的时长不能超过18个月。"
+        },
+        {
+          "id": "aa64d437-2331-4ea6-932a-c9d74e2f2a62",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "犬粮牛磺酸补充提示",
+          "question": "关于犬粮中的牛磺酸，以下哪些说法正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "中国国标强制要求犬粮标注牛磺酸"
+            },
+            {
+              "id": "B",
+              "text": "中国国标只要求犬粮标注赖氨酸"
+            },
+            {
+              "id": "C",
+              "text": "牛磺酸缺乏可能与犬心肌扩张有关"
+            },
+            {
+              "id": "D",
+              "text": "牛磺酸价格昂贵，不建议添加"
+            },
+            {
+              "id": "E",
+              "text": "建议犬粮生产者主动补充牛磺酸"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "E"
+          ],
+          "analysis": "笔记指出：国标只要求犬粮标注赖氨酸，不强制牛磺酸；心肌扩张与牛磺酸缺乏相关；牛磺酸价格便宜，建议主动补充。选项A、D错误。"
+        },
+        {
+          "id": "d7eff629-3369-469b-92f4-386153a43486",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "鲜肉定义",
+          "question": "根据规范，以下哪种原料可以定义为「鲜肉」？",
+          "options": [
+            {
+              "id": "A",
+              "text": "经过冷藏、蒸煮处理的鸡肉"
+            },
+            {
+              "id": "B",
+              "text": "仅经过冷藏，未经过蒸煮、干燥、水解等处理的鸡肉"
+            },
+            {
+              "id": "C",
+              "text": "经过冷冻干燥处理的牛肉"
+            },
+            {
+              "id": "D",
+              "text": "含有氯化钠防腐剂的猪肉"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记定义：仅经过冷藏，未经过蒸煮、干燥、水解等处理，不含有氯化钠、防腐剂和其他饲料添加剂的原料，可定义为鲜肉。"
+        },
+        {
+          "id": "018abf38-6761-430e-b09d-fba33d4d6cb4",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "低脂低能量的量化标准",
+          "question": "以下哪些量化标准是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "犬粮脂肪≤9%可称为低脂肪"
+            },
+            {
+              "id": "B",
+              "text": "罐头脂肪≤7%可称为低脂罐头"
+            },
+            {
+              "id": "C",
+              "text": "水分小于20%的猫粮脂肪≤10%可称为低脂肪"
+            },
+            {
+              "id": "D",
+              "text": "日常犬粮消化能≤1296千焦可称为低能量"
+            },
+            {
+              "id": "E",
+              "text": "犬粮脂肪≤10%可称为低脂肪"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记中明确：犬粮脂肪≤9%为低脂肪；罐头脂肪≤7%为低脂罐头；水分<20%的猫粮脂肪≤10%为低脂肪；犬粮消化能≤1296千焦为低能量。选项E错误。"
+        },
+        {
+          "id": "7f4abae0-a82b-4fde-bca5-d3f53ef4e239",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "违规处罚标准",
+          "question": "不符合标签规范的产品，第一次违规需要召回产品。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出，第一次违规要求整改，不需要召回产品，可以通过贴标签覆盖原有内容的方式整改。"
+        }
+      ]
+    },
+    {
+      "id": "b71b9532-2475-48aa-802e-cb3c51f2f894",
+      "name": "宠物营养学：脂类分类、功能、需求与常见应用知识讲解-2026年06月15日-来自【Get 笔记】 · 06/25 16:16",
+      "createdAt": "2026-06-25T08:16:16.654Z",
+      "questions": [
+        {
+          "id": "7367e102-a5ec-446c-b3a5-bd476e579315",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "脂类分类",
+          "question": "脂类分为哪两大类？",
+          "options": [
+            {
+              "id": "A",
+              "text": "脂肪和类脂"
+            },
+            {
+              "id": "B",
+              "text": "饱和脂肪酸和不饱和脂肪酸"
+            },
+            {
+              "id": "C",
+              "text": "磷脂和固醇"
+            },
+            {
+              "id": "D",
+              "text": "甘油三酯和胆固醇"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "脂类分为脂肪（甘油三酯）和类脂两大类。"
+        },
+        {
+          "id": "909ffba6-44c9-490d-a58e-9d141e2dde1d",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "脂肪能量密度",
+          "question": "每克脂肪能提供多少能量？",
+          "options": [
+            {
+              "id": "A",
+              "text": "4000卡"
+            },
+            {
+              "id": "B",
+              "text": "7000卡"
+            },
+            {
+              "id": "C",
+              "text": "9000卡"
+            },
+            {
+              "id": "D",
+              "text": "10000卡"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "脂肪是所有营养物质中能量密度最高的，每克脂肪能提供9000卡能量。"
+        },
+        {
+          "id": "4f71def7-fa11-44dc-825d-7e5b5120a21b",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "饱和脂肪酸特性",
+          "question": "下列哪种油脂富含饱和脂肪酸？",
+          "options": [
+            {
+              "id": "A",
+              "text": "鱼油"
+            },
+            {
+              "id": "B",
+              "text": "棕榈油"
+            },
+            {
+              "id": "C",
+              "text": "大豆油"
+            },
+            {
+              "id": "D",
+              "text": "玉米油"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "棕榈油富含饱和脂肪酸，性质稳定，常用于油炸食品。"
+        },
+        {
+          "id": "05d42a5c-4a17-4df7-b7af-de36225d7215",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "必需脂肪酸",
+          "question": "犬猫的必需脂肪酸包括哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "亚油酸"
+            },
+            {
+              "id": "B",
+              "text": "阿尔法亚麻酸"
+            },
+            {
+              "id": "C",
+              "text": "花生四烯酸"
+            },
+            {
+              "id": "D",
+              "text": "EPA"
+            },
+            {
+              "id": "E",
+              "text": "DHA"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "犬猫的必需脂肪酸都包含亚油酸和阿尔法亚麻酸，猫额外需要花生四烯酸。"
+        },
+        {
+          "id": "dd4abe61-3fe8-4b03-a78f-c29381f64fea",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "胆固醇认知",
+          "question": "饮食中的胆固醇会显著影响体内胆固醇水平。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "2015年美国营养学会发布新指南，机体胆固醇主要靠自身合成，饮食摄入的胆固醇不会影响体内胆固醇水平。"
+        },
+        {
+          "id": "0f694502-e3f3-46db-a573-5899fc0d93ac",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "脂肪消化吸收",
+          "question": "脂肪消化的主要部位是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "胃"
+            },
+            {
+              "id": "B",
+              "text": "小肠上端"
+            },
+            {
+              "id": "C",
+              "text": "大肠"
+            },
+            {
+              "id": "D",
+              "text": "口腔"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "脂肪消化主要在小肠上端完成，胃的蠕动可帮助乳化。"
+        },
+        {
+          "id": "d0a85845-f366-4c87-bddc-66ec6663147a",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "鱼油抗氧化",
+          "question": "关于鱼油添加的抗氧化措施，正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "每公斤猫粮每添加1克鱼油，需额外添加10国际单位维生素E"
+            },
+            {
+              "id": "B",
+              "text": "高脂产品应使用大包装保存"
+            },
+            {
+              "id": "C",
+              "text": "鱼油容易氧化酸败，需添加抗氧化剂"
+            },
+            {
+              "id": "D",
+              "text": "维生素E可预防黄脂病"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "每公斤猫粮每添加1克鱼油，需额外添加10国际单位维生素E；高脂产品应使用小包装；鱼油易氧化，需添加抗氧化剂；维生素E可预防黄脂病。"
+        },
+        {
+          "id": "5eff5084-fca9-4652-b5cd-aebe1b5c2b84",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "卵磷脂美毛效果",
+          "question": "卵磷脂的美毛效果有充分科学依据。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "卵磷脂对皮肤恢复有帮助，可增加皮肤保水性，但美毛效果缺乏足够依据。"
+        },
+        {
+          "id": "e38954c1-94ea-4863-9daf-990bd4e9dfcc",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "脂肪摄入不足影响",
+          "question": "脂肪摄入不足可能导致以下哪种情况？",
+          "options": [
+            {
+              "id": "A",
+              "text": "肥胖"
+            },
+            {
+              "id": "B",
+              "text": "高血脂"
+            },
+            {
+              "id": "C",
+              "text": "皮炎脱毛"
+            },
+            {
+              "id": "D",
+              "text": "高血压"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "脂肪摄入不足会导致发育不良、伤口愈合率降低、皮炎脱毛、皮毛光泽下降等。"
+        },
+        {
+          "id": "c5bff529-9168-47ef-9a08-9a4f26caa878",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "欧米伽3脂肪酸作用",
+          "question": "欧米伽3脂肪酸包括哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "阿尔法亚麻酸"
+            },
+            {
+              "id": "B",
+              "text": "EPA"
+            },
+            {
+              "id": "C",
+              "text": "DHA"
+            },
+            {
+              "id": "D",
+              "text": "亚油酸"
+            },
+            {
+              "id": "E",
+              "text": "花生四烯酸"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "欧米伽3包含阿尔法亚麻酸、EPA、DHA三种。"
+        },
+        {
+          "id": "3902851e-581e-40ae-b930-6639337ed119",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "脂肪功能",
+          "question": "脂肪在动物体内最重要的能量储存形式是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "糖原"
+            },
+            {
+              "id": "B",
+              "text": "蛋白质"
+            },
+            {
+              "id": "C",
+              "text": "脂肪"
+            },
+            {
+              "id": "D",
+              "text": "维生素"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "脂肪是动物最重要的能量储存物质，如猪坚强靠分解脂肪存活。"
+        },
+        {
+          "id": "ab98da75-5c36-4571-8c35-3472f1f621fc",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "猫脂肪需求量",
+          "question": "猫的食物脂肪含量至少需要达到9%以上。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "不管成猫幼猫，食物脂肪含量至少要达到9%以上，否则会出现营养不足和适口性下降。"
+        },
+        {
+          "id": "d93cfa3d-4746-448f-93cb-7add24a026c0",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "脂肪吸收率",
+          "question": "动物脂肪的吸收率一般在多少以上？",
+          "options": [
+            {
+              "id": "A",
+              "text": "80%"
+            },
+            {
+              "id": "B",
+              "text": "85%"
+            },
+            {
+              "id": "C",
+              "text": "90%"
+            },
+            {
+              "id": "D",
+              "text": "95%"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "动物脂肪吸收率可达90%到95%以上。"
+        },
+        {
+          "id": "3fc05b6c-3997-4434-8797-9ef4be94a106",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "脂肪生理功能",
+          "question": "脂肪的生理功能包括？",
+          "options": [
+            {
+              "id": "A",
+              "text": "储存能量"
+            },
+            {
+              "id": "B",
+              "text": "隔热御寒"
+            },
+            {
+              "id": "C",
+              "text": "保护内脏"
+            },
+            {
+              "id": "D",
+              "text": "辅助吸收脂溶性维生素"
+            },
+            {
+              "id": "E",
+              "text": "提供必需脂肪酸"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "脂肪具有储存能量、隔热御寒、保护内脏、辅助吸收脂溶性维生素、提供必需脂肪酸等功能。"
+        },
+        {
+          "id": "cb00bbb0-c4c7-42b2-89fc-27777d50b44f",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "体臭原因",
+          "question": "宠物体臭主要来源于低质量蛋白质代谢产生的含氮废物。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "宠物体臭主要来源于低质量蛋白质代谢产生的含氮废物，蛋白质质量越高，体臭越轻。"
+        },
+        {
+          "id": "fbd3617e-068c-4e62-922e-51702e4db6ad",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "脂肪酸分类",
+          "question": "多不饱和脂肪酸在常温下呈什么状态？",
+          "options": [
+            {
+              "id": "A",
+              "text": "固态"
+            },
+            {
+              "id": "B",
+              "text": "液态"
+            },
+            {
+              "id": "C",
+              "text": "气态"
+            },
+            {
+              "id": "D",
+              "text": "半固态"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "多不饱和脂肪酸常温下为液态，即便冷藏也不会凝结。"
+        },
+        {
+          "id": "3f5ad02b-7c23-43da-95bd-5016f1411682",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "DHA作用",
+          "question": "DHA的作用包括？",
+          "options": [
+            {
+              "id": "A",
+              "text": "促进脑发育"
+            },
+            {
+              "id": "B",
+              "text": "调节血脂"
+            },
+            {
+              "id": "C",
+              "text": "抗炎"
+            },
+            {
+              "id": "D",
+              "text": "保护视力"
+            },
+            {
+              "id": "E",
+              "text": "抗凝血"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "DHA可促进脑发育、调节血脂、抗炎、保护视力，抗凝血是EPA的作用。"
+        },
+        {
+          "id": "d806976b-21bd-4219-b8f0-386e5d8f606d",
+          "type": "trueFalse",
+          "difficulty": "hard",
+          "knowledgePoint": "花生四烯酸来源",
+          "question": "花生四烯酸在花生中含量丰富。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "花生四烯酸虽然叫这个名字，但花生中几乎没有，主要存在于动物脂肪中。"
+        },
+        {
+          "id": "58d0c989-f117-45d2-b189-d4d50fff27e1",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "脂肪加热影响",
+          "question": "无氧环境下，脂肪加热到多少度以上才会产生明显有害分解？",
+          "options": [
+            {
+              "id": "A",
+              "text": "180℃"
+            },
+            {
+              "id": "B",
+              "text": "200℃"
+            },
+            {
+              "id": "C",
+              "text": "220℃"
+            },
+            {
+              "id": "D",
+              "text": "250℃"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "无氧环境下脂肪加热到220℃以上才会产生明显的有害分解产物。"
+        },
+        {
+          "id": "0a78f1dc-e12c-4a73-a660-c1f251eb69ad",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "犬脂肪需求量",
+          "question": "关于犬的脂肪需求量，正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "NRC标准成年犬需求量为5.5%"
+            },
+            {
+              "id": "B",
+              "text": "NRC标准幼年犬需求量为8.5%"
+            },
+            {
+              "id": "C",
+              "text": "低脂配方湿粮比膨化粮更合适"
+            },
+            {
+              "id": "D",
+              "text": "成年犬膨化粮脂肪低于8%需添加大量鸡蛋粉"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "NRC标准成年犬5.5%，幼年犬8.5%；低脂配方湿粮适口性更好；成年犬膨化粮脂肪低于8%需添加鸡蛋粉。"
+        }
+      ]
+    },
     {
       "id": "5ee9fd9b-2ad4-4a27-ab00-60a9fbe84974",
       "name": "宠物营养学：猫狗蛋白质基础知识全解析——从发现历史到摄入需求、行业乱象全梳理-2026年06月10日-来自【Get 笔记】 · 06/25 16:15",
