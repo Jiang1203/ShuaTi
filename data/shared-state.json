@@ -1,8 +1,594 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:00:43.953Z",
+  "updatedAt": "2026-06-25T09:04:12.179Z",
   "questionBanks": [
+    {
+      "id": "b8409587-d419-4d52-9630-7de72fe4b7a5",
+      "name": "幼犬离乳期喂养方法、不同体型犬钙需求与幼犬行为周期全讲解-2026年06月25日-来自【Get 笔记】 · 06/25 17:04",
+      "createdAt": "2026-06-25T09:04:10.964Z",
+      "questions": [
+        {
+          "id": "a5fb5649-391d-4158-9ed7-57c68a6302ee",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "幼犬离乳时机",
+          "question": "幼犬通常在出生后多少天左右建议断奶？",
+          "options": [
+            {
+              "id": "A",
+              "text": "30天"
+            },
+            {
+              "id": "B",
+              "text": "45天"
+            },
+            {
+              "id": "C",
+              "text": "60天"
+            },
+            {
+              "id": "D",
+              "text": "90天"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，建议在幼犬出生45天左右进行断奶。"
+        },
+        {
+          "id": "858d2ed6-1719-4ce6-a4c4-929e8db80dde",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "离乳期犬粮特点",
+          "question": "离乳期犬粮的特点不包括以下哪项？",
+          "options": [
+            {
+              "id": "A",
+              "text": "颗粒小"
+            },
+            {
+              "id": "B",
+              "text": "匹配幼犬营养需求"
+            },
+            {
+              "id": "C",
+              "text": "易浸泡"
+            },
+            {
+              "id": "D",
+              "text": "可直接喂食干粮"
+            }
+          ],
+          "answer": [
+            "D"
+          ],
+          "analysis": "离乳期犬粮需要加水打碎成肉泥喂食，不能直接喂干粮。"
+        },
+        {
+          "id": "3da3657a-c4b1-48c8-b730-d43da1e69d18",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "离乳期能量计算",
+          "question": "幼犬每日能量需求计算公式中，狗是几倍RER？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2倍"
+            },
+            {
+              "id": "B",
+              "text": "2.5倍"
+            },
+            {
+              "id": "C",
+              "text": "3倍"
+            },
+            {
+              "id": "D",
+              "text": "3.5倍"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记中明确：狗是3倍RER，猫是2.5倍RER。"
+        },
+        {
+          "id": "8a69fd50-6bf7-4868-95f5-0ef9a488f9b8",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "离乳期喂食频率",
+          "question": "断奶一周后，幼犬每天应喂食几次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2~3次"
+            },
+            {
+              "id": "B",
+              "text": "3~4次"
+            },
+            {
+              "id": "C",
+              "text": "4~5次"
+            },
+            {
+              "id": "D",
+              "text": "5~6次"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出：断奶一周后改为每天分4~5次喂食。"
+        },
+        {
+          "id": "87cca034-7fbc-4e5d-9b6a-1511ec933343",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "不同体型犬钙需求",
+          "question": "关于不同体型犬的钙需求，以下哪项正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "体型越大的犬，单位体重所需钙越多"
+            },
+            {
+              "id": "B",
+              "text": "体型越小的犬，单位体重所需钙越多"
+            },
+            {
+              "id": "C",
+              "text": "所有体型犬单位体重所需钙相同"
+            },
+            {
+              "id": "D",
+              "text": "钙需求与体型无关"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记结论：体型越小的犬，单位体重所需的钙越多；体型越大的犬，单位体重所需的钙越少。"
+        },
+        {
+          "id": "5e9aa45d-4ad5-42a6-8949-0d20f10f397d",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "大型犬生长注意事项",
+          "question": "大型犬生长过快可能导致什么问题？",
+          "options": [
+            {
+              "id": "A",
+              "text": "骨骼更坚固"
+            },
+            {
+              "id": "B",
+              "text": "关节损伤风险增加"
+            },
+            {
+              "id": "C",
+              "text": "肌肉更发达"
+            },
+            {
+              "id": "D",
+              "text": "寿命延长"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记提到：大型犬不能生长过快，过快生长会导致骨骼基础不牢固，对骨骼关节造成过大压力，容易引发关节损伤。"
+        },
+        {
+          "id": "c04b527d-7732-4acb-a37a-f90dcaa65187",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "新生儿期时间范围",
+          "question": "幼犬新生儿期是指出生后的多少天？",
+          "options": [
+            {
+              "id": "A",
+              "text": "前7天"
+            },
+            {
+              "id": "B",
+              "text": "前13天"
+            },
+            {
+              "id": "C",
+              "text": "前21天"
+            },
+            {
+              "id": "D",
+              "text": "前30天"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记明确：新生儿期是幼犬出生后的前13天。"
+        },
+        {
+          "id": "a04360ea-be09-4e9a-aadd-7f77292c7c95",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "新生儿期健康判断",
+          "question": "健康的新生幼犬睡觉时通常表现为？",
+          "options": [
+            {
+              "id": "A",
+              "text": "非常安静，呼吸规律"
+            },
+            {
+              "id": "B",
+              "text": "面部肌肉抽搐，呼吸不规律"
+            },
+            {
+              "id": "C",
+              "text": "频繁醒来哭闹"
+            },
+            {
+              "id": "D",
+              "text": "四肢僵硬不动"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出：健康幼犬睡觉时会出现面部肌肉抽搐、呼吸不规律的情况；如果睡觉非常安静，大概率是生病。"
+        },
+        {
+          "id": "60d01920-c9f6-40c0-8c3f-dd0672521609",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "新生儿期哭闹的意义",
+          "question": "新生幼犬吃饱后肚子鼓起仍然持续哭闹，最可能表示什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "它还想吃更多"
+            },
+            {
+              "id": "B",
+              "text": "它需要排便"
+            },
+            {
+              "id": "C",
+              "text": "身体存在不适"
+            },
+            {
+              "id": "D",
+              "text": "它想玩耍"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记说明：如果幼犬吃饱肚子已经鼓起仍然持续叫，说明身体存在不适，哭闹是幼犬表达不适的唯一方式。"
+        },
+        {
+          "id": "40b3eac0-009c-440f-8bf7-21ace9804cc8",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "过渡期时间范围",
+          "question": "幼犬过渡期从什么时候开始？",
+          "options": [
+            {
+              "id": "A",
+              "text": "出生开始"
+            },
+            {
+              "id": "B",
+              "text": "睁眼开始"
+            },
+            {
+              "id": "C",
+              "text": "断奶开始"
+            },
+            {
+              "id": "D",
+              "text": "出生后第三周开始"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记：过渡期从幼犬睁眼开始，持续到出生后第三周。"
+        },
+        {
+          "id": "8c7be9ee-afda-45c8-8eb4-269870410e83",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "过渡期行为特点",
+          "question": "在过渡期，幼犬之间互相挤压竞争地位，能压在其他幼犬身上的个体未来会怎样？",
+          "options": [
+            {
+              "id": "A",
+              "text": "在同窝中处于劣势"
+            },
+            {
+              "id": "B",
+              "text": "在同窝中占据优势"
+            },
+            {
+              "id": "C",
+              "text": "更容易被母犬抛弃"
+            },
+            {
+              "id": "D",
+              "text": "生长速度更快"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记：能压在其他幼犬身上的个体未来会在同窝中占据优势。"
+        },
+        {
+          "id": "840fafbc-3a1b-42b2-b03b-384ddb09b97e",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "社会化期时间范围",
+          "question": "幼犬社会化期持续到出生后多少周左右？",
+          "options": [
+            {
+              "id": "A",
+              "text": "6周"
+            },
+            {
+              "id": "B",
+              "text": "8周"
+            },
+            {
+              "id": "C",
+              "text": "12周"
+            },
+            {
+              "id": "D",
+              "text": "16周"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记：社会化期从出生后第三周开始，持续到出生后12周左右。"
+        },
+        {
+          "id": "d4cd5cdc-feda-4dd6-bff8-9679b7222e1e",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "过早分离的影响",
+          "question": "如果在社会化期过早将幼犬与母犬分开，可能导致什么后果？",
+          "options": [
+            {
+              "id": "A",
+              "text": "幼犬更独立"
+            },
+            {
+              "id": "B",
+              "text": "幼犬社会化能力减弱"
+            },
+            {
+              "id": "C",
+              "text": "幼犬生长更快"
+            },
+            {
+              "id": "D",
+              "text": "幼犬更亲近人类"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记：过早分离会导致幼犬长大后缺乏和同类打交道的能力，互动能力和社会化能力都会减弱。"
+        },
+        {
+          "id": "77548e5a-3b95-4462-b746-45178c882ece",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "新生幼犬排泄护理",
+          "question": "刚出生的幼犬如何排尿？",
+          "options": [
+            {
+              "id": "A",
+              "text": "自主排尿"
+            },
+            {
+              "id": "B",
+              "text": "需要母犬舔舐阴部刺激"
+            },
+            {
+              "id": "C",
+              "text": "需要人工按摩腹部"
+            },
+            {
+              "id": "D",
+              "text": "需要喂水后自然排尿"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记：刚出生的幼犬无法自主排尿，需要母犬舔舐阴部刺激才能正常排泄。"
+        },
+        {
+          "id": "17ccec9b-64d6-46d5-bfcd-8993691e243d",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "定点排便训练",
+          "question": "幼犬天生不愿意弄脏自己的居住区域，这个天性可用于？",
+          "options": [
+            {
+              "id": "A",
+              "text": "训练定点大小便"
+            },
+            {
+              "id": "B",
+              "text": "训练进食习惯"
+            },
+            {
+              "id": "C",
+              "text": "训练社交行为"
+            },
+            {
+              "id": "D",
+              "text": "训练睡眠习惯"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "笔记：可以利用幼犬不愿意弄脏居住区域的天性来训练定点大小便。"
+        },
+        {
+          "id": "bd518b88-caf2-40d4-8285-ac44b742f3da",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "离乳期食物选择",
+          "question": "以下哪些食物适合离乳期幼犬直接或处理后喂食？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "离乳期犬粮加水打碎"
+            },
+            {
+              "id": "B",
+              "text": "普通犬湿粮直接喂食"
+            },
+            {
+              "id": "C",
+              "text": "奶糕罐直接喂食"
+            },
+            {
+              "id": "D",
+              "text": "猫主食罐直接喂食"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "离乳期犬粮需加水打碎；普通犬湿粮因含大颗粒需打碎调稀；奶糕罐和猫主食罐质地稀软可直接喂食。"
+        },
+        {
+          "id": "87ccb15e-1495-41d9-8530-b089b289199a",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "离乳期营养指标",
+          "question": "离乳期幼犬食物的营养指标中，以下哪些是必须达到的最低值？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "蛋白质≥22.5%"
+            },
+            {
+              "id": "B",
+              "text": "脂肪≥8.5%"
+            },
+            {
+              "id": "C",
+              "text": "钙≥1.0%"
+            },
+            {
+              "id": "D",
+              "text": "磷≥0.8%"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "笔记明确：蛋白质最低需要达到22.5%，脂肪最低需要达到8.5%，未提及钙磷具体数值。"
+        },
+        {
+          "id": "e7047cfe-f977-46fa-834d-6f59669ad004",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "钙需求规律推导",
+          "question": "关于不同体型犬钙需求规律的推导，以下说法正确的有？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "体型越小的犬单位体重能量需求越高"
+            },
+            {
+              "id": "B",
+              "text": "体型越大的犬单位体重进食量越少"
+            },
+            {
+              "id": "C",
+              "text": "钙需求与能量需求无关"
+            },
+            {
+              "id": "D",
+              "text": "小型犬从食物中获得的钙总量相对更多"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记：体型越小单位体重能量需求越高，进食量占体重比例更高，因此从食物中获得的钙总量相对更多；大型犬则相反。"
+        },
+        {
+          "id": "2ee7770f-7ad3-4611-9e32-a9a415f37ea4",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "膨化粮钙磷来源",
+          "question": "关于膨化粮中钙磷的说法，正确的有？（多选）",
+          "options": [
+            {
+              "id": "A",
+              "text": "肉粉、肉骨粉本身钙磷含量高"
+            },
+            {
+              "id": "B",
+              "text": "多数配方需要额外补充钙磷"
+            },
+            {
+              "id": "C",
+              "text": "预混料一般不含钙磷"
+            },
+            {
+              "id": "D",
+              "text": "有些配方需要降低钙磷含量"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记：肉粉、肉骨粉钙磷含量高，多数配方不需要额外补充，甚至需要降低；预混料一般也不额外添加钙磷。"
+        },
+        {
+          "id": "7d2ad3a8-85e2-41c5-9809-b0651686ad6f",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "额外补钙风险",
+          "question": "喂食合格的全价幼犬粮时，通常不需要额外补钙。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记：合格的全价幼犬粮钙含量完全可以满足幼犬需求，不需要额外补钙，过度补钙反而有害。"
+        }
+      ]
+    },
     {
       "id": "18fd2d0f-e150-49b9-85fe-c974fed0b2c6",
       "name": "宠物营养高级班：犬初生哺乳期营养护理与喂养指南-2026年06月25日-来自【Get 笔记】 · 06/25 17:00",
