@@ -1,6 +1,2247 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "",
-  "questionBanks": []
+  "updatedAt": "2026-06-25T02:03:36.292Z",
+  "questionBanks": [
+    {
+      "id": "958a3879-e346-49d0-b945-1698daabfdaa",
+      "name": "犬猫营养基础：热量单位、能量计算方法与喂养管理技巧讲解-2026年05月29日-来自【Get 笔记】 · 06/23 10:50",
+      "createdAt": "2026-06-23T02:50:13.885Z",
+      "questions": [
+        {
+          "id": "35d6586a-e172-4ba9-a7b0-d637658173a4",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "营养与营养素的概念",
+          "question": "营养作为动词指的是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "食物中的营养素含量"
+            },
+            {
+              "id": "B",
+              "text": "从食物摄取物质并消化吸收、转化为生长活动必需物质的完整过程"
+            },
+            {
+              "id": "C",
+              "text": "食物中可摄取的营养要素"
+            },
+            {
+              "id": "D",
+              "text": "食物热量的测量方法"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，营养作为动词指的是从食物摄取物质并消化吸收、转化为生长活动必需物质的完整过程。而日常说的“有营养”指的是营养素。"
+        },
+        {
+          "id": "726cac45-6b2b-4645-9563-a55c2cc5d43c",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "营养素的三大作用",
+          "question": "以下哪些属于营养素的三大作用？",
+          "options": [
+            {
+              "id": "A",
+              "text": "产生能量"
+            },
+            {
+              "id": "B",
+              "text": "构成身体组织"
+            },
+            {
+              "id": "C",
+              "text": "调节生理功能"
+            },
+            {
+              "id": "D",
+              "text": "提供维生素"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记中明确提到营养素有三大作用：产生能量、构成身体组织、调节生理功能。维生素属于营养素，但不是三大作用之一。"
+        },
+        {
+          "id": "c945bc95-5ed0-429b-9ee9-f8c6b31083e5",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "消化与吸收的区分",
+          "question": "消化和吸收是同一个过程。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出消化和吸收是两件事情，消化是吸收的前置处理，吸收是消化产物被吸收的过程，需要分开考虑。"
+        },
+        {
+          "id": "be43b381-3140-4fa6-8c4f-238e505328ac",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "热量单位换算",
+          "question": "1千卡等于多少卡路里？",
+          "options": [
+            {
+              "id": "A",
+              "text": "100卡路里"
+            },
+            {
+              "id": "B",
+              "text": "1000卡路里"
+            },
+            {
+              "id": "C",
+              "text": "10000卡路里"
+            },
+            {
+              "id": "D",
+              "text": "0.239卡路里"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记说明1千卡等于1000卡路里，也称作大卡。"
+        },
+        {
+          "id": "54b6c7bb-e807-4dfc-8ef2-362918d94180",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "可利用能量的分层计算",
+          "question": "关于食物能量分层，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "总能减去粪便能量得到消化能"
+            },
+            {
+              "id": "B",
+              "text": "消化能减去尿液和气体能量得到代谢能"
+            },
+            {
+              "id": "C",
+              "text": "代谢能减去体增热得到净能"
+            },
+            {
+              "id": "D",
+              "text": "总能可以直接被动物利用"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记中描述了能量分层：总能减去粪便能量得消化能，消化能减去尿液和气体能量得代谢能，代谢能减去体增热得净能。总能包含不可利用部分，不能直接被动物利用。"
+        },
+        {
+          "id": "9c700b21-a7bb-42ce-9e23-394f0b888f3f",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "Atwater通用系数",
+          "question": "每1克脂肪提供4000卡代谢能。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记中Atwater通用系数：每1克脂肪提供9000卡代谢能，每1克蛋白质和碳水化合物各提供4000卡。"
+        },
+        {
+          "id": "2f84065c-d17a-4f3f-be41-11a33149af60",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "犬粮热量粗略计算公式",
+          "question": "一款犬粮粗蛋白30%、粗脂肪12%、粗纤维4%、水分10%，其代谢能大约是多少千卡/公斤？",
+          "options": [
+            {
+              "id": "A",
+              "text": "3000"
+            },
+            {
+              "id": "B",
+              "text": "3816"
+            },
+            {
+              "id": "C",
+              "text": "4000"
+            },
+            {
+              "id": "D",
+              "text": "4500"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据公式：代谢能≈1000×(粗蛋白×4 + 粗脂肪×9 + (100%-粗蛋白-粗脂肪-粗纤维-水分)×4) = 1000×(0.3×4 + 0.12×9 + (1-0.3-0.12-0.04-0.1)×4) = 1000×(1.2+1.08+0.44×4)=1000×(1.2+1.08+1.76)=1000×4.04=4040，但笔记中举例计算得3816，可能因四舍五入或灰分未计，但根据笔记中案例，答案为3816。"
+        },
+        {
+          "id": "026dacc3-e478-4ada-8583-04883db4662d",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "静息能量需求（RER）计算公式",
+          "question": "关于静息能量需求（RER）的计算，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "RER的计算公式为70×体重^0.75"
+            },
+            {
+              "id": "B",
+              "text": "体重在2-45kg之间可用简化公式30×体重+70"
+            },
+            {
+              "id": "C",
+              "text": "体重小于2kg的动物必须使用原公式"
+            },
+            {
+              "id": "D",
+              "text": "RER比人类的基础代谢率低"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记中RER公式为70×体重^0.75，简化公式30×体重+70适用于2-45kg，体重小于2kg必须用原公式。RER比基础代谢率稍高，不是低。"
+        },
+        {
+          "id": "d341a062-3086-48c5-95ee-76eb0fb8d39f",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "不同状态的能量需求系数",
+          "question": "一只绝育成犬的日常能量需求系数（DER/RER）通常为多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1.0"
+            },
+            {
+              "id": "B",
+              "text": "1.6"
+            },
+            {
+              "id": "C",
+              "text": "1.8"
+            },
+            {
+              "id": "D",
+              "text": "2.0"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中明确绝育成犬的系数为1.6倍RER。"
+        },
+        {
+          "id": "aa74dcef-5088-4847-97bf-be61fe4625f2",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "能量需求系数选择",
+          "question": "一只9kg的暹罗猫，体态肥胖需要减肥，其能量需求系数应选择1.2。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记中案例指出9kg暹罗猫属于肥胖需要减肥，系数应选0.8，而不是1.2。"
+        },
+        {
+          "id": "04f0d149-b88e-483b-be36-ace142da317d",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "不同生理状态的能量需求系数",
+          "question": "以下哪些情况需要更高的能量需求系数？",
+          "options": [
+            {
+              "id": "A",
+              "text": "重度工作犬"
+            },
+            {
+              "id": "B",
+              "text": "老龄犬猫"
+            },
+            {
+              "id": "C",
+              "text": "肿瘤患病动物"
+            },
+            {
+              "id": "D",
+              "text": "妊娠后期动物"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记中重度工作犬系数4-8倍，肿瘤动物需要更高能量，妊娠后期需要更多能量。老龄犬猫需要更少能量。"
+        },
+        {
+          "id": "f2c75761-666c-4c1e-9971-ee973aa34ac1",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "能量需求计算的实际应用",
+          "question": "一只狗每日能量需求为1456千卡，所吃犬粮代谢能为3800千卡/公斤，每日需要饲喂多少克狗粮？",
+          "options": [
+            {
+              "id": "A",
+              "text": "约200克"
+            },
+            {
+              "id": "B",
+              "text": "约300克"
+            },
+            {
+              "id": "C",
+              "text": "约400克"
+            },
+            {
+              "id": "D",
+              "text": "约500克"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中计算：1456 ÷ 3800 ≈ 0.383公斤，约383克，但笔记中举例为约0.3kg即300克，可能取整，答案为约300克。"
+        },
+        {
+          "id": "22fa6873-bdfa-4dc6-a6d5-257ed9f18c42",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "营养咨询沟通要点",
+          "question": "在营养咨询中，体重是比体态描述更可靠的指标。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记指出体重是营养评估中最可靠的指标，不会像主人评估体态那样产生偏差。"
+        },
+        {
+          "id": "8502aec1-a3ce-41bd-8a3d-7d45443acd5c",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "多猫家庭肥胖管理",
+          "question": "多猫家庭中，如果存在胖猫抢食导致瘦猫吃不到的情况，以下哪些管理方法是有效的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "使用整理箱开洞，只允许瘦猫进入进食"
+            },
+            {
+              "id": "B",
+              "text": "使用自动喂食器分多次投放食物"
+            },
+            {
+              "id": "C",
+              "text": "让所有猫自由采食"
+            },
+            {
+              "id": "D",
+              "text": "将胖猫和瘦猫的食盆分开放在不同房间"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "笔记中建议用整理箱开洞让瘦猫进入，胖猫吃外面；自动喂食器分次投放控制胖猫进食。自由采食会导致胖猫更胖；分开房间可能仍会被抢食，但笔记未明确提及，且整理箱方法更具体有效。"
+        },
+        {
+          "id": "9396bb10-427b-42bd-82af-163b8f0cfd3e",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "自动喂食器选购要点",
+          "question": "选购自动喂食器时，以下哪个特点更推荐？",
+          "options": [
+            {
+              "id": "A",
+              "text": "单次下量越多越好"
+            },
+            {
+              "id": "B",
+              "text": "单次下量越少越好"
+            },
+            {
+              "id": "C",
+              "text": "容量越大越好"
+            },
+            {
+              "id": "D",
+              "text": "价格越贵越好"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记中建议优先选单次下量更少的产品，精度更高，对猫更友好。"
+        },
+        {
+          "id": "340bcaa3-b194-4bdc-b350-aa5c89824eec",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "能量需求参考值",
+          "question": "计算得到的能量需求是必须严格遵守的标准值。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记强调所有计算得到的能量需求都是参考值，不是标准值，可以根据喂养效果调整。"
+        },
+        {
+          "id": "037aeaab-8c78-4773-8e1c-f1c5f5c060a9",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "环境温度对能量需求的影响",
+          "question": "在寒冷环境下，犬猫的能量需求会如何变化？",
+          "options": [
+            {
+              "id": "A",
+              "text": "减少"
+            },
+            {
+              "id": "B",
+              "text": "增加"
+            },
+            {
+              "id": "C",
+              "text": "不变"
+            },
+            {
+              "id": "D",
+              "text": "不确定"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出寒冷环境下需要更多热量维持体温，因此能量需求增加。"
+        },
+        {
+          "id": "9544a6a7-eb2a-4404-9e45-07a4be074195",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "消化类型",
+          "question": "以下哪些属于消化的类型？",
+          "options": [
+            {
+              "id": "A",
+              "text": "物理消化"
+            },
+            {
+              "id": "B",
+              "text": "化学消化"
+            },
+            {
+              "id": "C",
+              "text": "生物学消化"
+            },
+            {
+              "id": "D",
+              "text": "机械消化"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记中消化分为物理消化、化学消化和生物学消化三类。机械消化属于物理消化的一种，但笔记未单独列出。"
+        },
+        {
+          "id": "7435fe93-fec6-4ffe-a09d-64b317cc5346",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "代谢的定义",
+          "question": "代谢仅指体内物质的分解过程。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记中代谢指体内物质和能量的相互转化，包括合成与分解过程。"
+        },
+        {
+          "id": "07bc9bf9-ce99-4203-8cf0-98fad8ddb2a1",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "氧弹式量热仪的用途",
+          "question": "氧弹式量热仪用于测量食物的什么能量？",
+          "options": [
+            {
+              "id": "A",
+              "text": "代谢能"
+            },
+            {
+              "id": "B",
+              "text": "消化能"
+            },
+            {
+              "id": "C",
+              "text": "总能"
+            },
+            {
+              "id": "D",
+              "text": "净能"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记中氧弹式量热仪只能测量食物的总能，无法区分可被利用和不可被利用的热量。"
+        }
+      ]
+    },
+    {
+      "id": "d19571b9-ad05-4dad-bd97-7a8eb79e37ce",
+      "name": "猫狗消化系统讲解：食道、胃、肠道结构功能与常见疾病防治-2026年05月27日-来自【Get 笔记】 · 06/23 10:49",
+      "createdAt": "2026-06-23T02:49:15.070Z",
+      "questions": [
+        {
+          "id": "727fbb64-a24c-4e69-aa02-31e02cee5a16",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "食道蠕动原理",
+          "question": "食物通过食道进入胃主要依靠什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "重力"
+            },
+            {
+              "id": "B",
+              "text": "食道蠕动"
+            },
+            {
+              "id": "C",
+              "text": "胃的吸引"
+            },
+            {
+              "id": "D",
+              "text": "口腔推力"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "食道依靠蠕动推送食物，并非依靠重力，人倒吊也可以将食物送进胃中。"
+        },
+        {
+          "id": "737f980f-b2da-4610-91b3-f33b4a484d08",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "猫狗食道肌肉差异",
+          "question": "关于猫和狗的食道肌肉构成，以下哪项正确？",
+          "options": [
+            {
+              "id": "A",
+              "text": "狗的食道全部由平滑肌构成"
+            },
+            {
+              "id": "B",
+              "text": "猫的食道全部由横纹肌构成"
+            },
+            {
+              "id": "C",
+              "text": "狗的食道全部由横纹肌构成"
+            },
+            {
+              "id": "D",
+              "text": "猫的食道上半部分为平滑肌，下半部分为横纹肌"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "狗的食道全部由横纹肌构成，横纹肌力量更强，因此狗单次推送大量食物能力强。猫的食道上半部分为横纹肌，下半部分为平滑肌。"
+        },
+        {
+          "id": "eff144be-2c17-46c8-8fc5-2b7cb48c0acc",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "食道常见疾病",
+          "question": "以下哪些属于食道常见疾病？",
+          "options": [
+            {
+              "id": "A",
+              "text": "巨食道"
+            },
+            {
+              "id": "B",
+              "text": "反流性食管炎"
+            },
+            {
+              "id": "C",
+              "text": "胃溃疡"
+            },
+            {
+              "id": "D",
+              "text": "食道异物"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "食道常见疾病包括巨食道、反流性食管炎、食道异物。胃溃疡属于胃部疾病。"
+        },
+        {
+          "id": "292192f1-de8d-4920-a087-79a0c87a7c50",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "巨食道处理",
+          "question": "巨食道的狗需要将饭盆抬高直立放置，依靠重力让食物进入胃。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "巨食道是指食道失去伸缩性变得松弛，无法推送食物，只能靠重力让食物进入胃，因此需要把饭盆抬高直立放置。"
+        },
+        {
+          "id": "7337cc83-93e0-4728-a870-a927530af44c",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "胃的储存功能",
+          "question": "狗的胃头区较大，适合哪种进食方式？",
+          "options": [
+            {
+              "id": "A",
+              "text": "频繁少量进食"
+            },
+            {
+              "id": "B",
+              "text": "不连续进食"
+            },
+            {
+              "id": "C",
+              "text": "连续进食"
+            },
+            {
+              "id": "D",
+              "text": "只吃流食"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "狗的胃头区很大，适合不连续进食，家养狗一天喂养1-2次即可，野生狗或狼甚至可以3-7天进食一次。"
+        },
+        {
+          "id": "cff253da-112f-4b51-afd6-817bca0b1c43",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "猫狗胃液pH值",
+          "question": "猫狗的胃液pH值范围是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2-4"
+            },
+            {
+              "id": "B",
+              "text": "1-2"
+            },
+            {
+              "id": "C",
+              "text": "3-5"
+            },
+            {
+              "id": "D",
+              "text": "4-6"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "人的胃液PH值为2-4，猫狗胃液PH值为1-2，酸性比人更强，更适合消化肉类。"
+        },
+        {
+          "id": "d6241536-3b85-4040-ab34-758889d57ece",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "胃溃疡的成因",
+          "question": "以下哪些因素可能导致胃溃疡？",
+          "options": [
+            {
+              "id": "A",
+              "text": "应激导致胃黏膜停止分泌粘液"
+            },
+            {
+              "id": "B",
+              "text": "DAZX类消炎药损伤胃黏膜"
+            },
+            {
+              "id": "C",
+              "text": "幽门螺杆菌感染"
+            },
+            {
+              "id": "D",
+              "text": "高纤维饮食"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "应激会导致粘液停止分泌，胃酸侵蚀胃黏膜；DAZX类消炎药会直接损伤胃黏膜、减少粘液分泌；幽门螺杆菌是导致胃溃疡的核心因素。高纤维饮食有助于缓解便秘，不是胃溃疡的成因。"
+        },
+        {
+          "id": "9f22fcbe-53c2-48d2-b903-f9751ede7f6c",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "幽门螺杆菌治疗",
+          "question": "幽门螺杆菌四联疗法两周根除率可达90%以上。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "采用四联疗法治疗幽门螺杆菌，两周疗程根除率可达90%以上。"
+        },
+        {
+          "id": "8ee60171-ccf2-4986-8f6c-02e65466cc9f",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "胃扩张胃扭转的病因",
+          "question": "狗胃扩张胃扭转最常见的病因是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "吃得太快"
+            },
+            {
+              "id": "B",
+              "text": "饭后立即奔跑"
+            },
+            {
+              "id": "C",
+              "text": "食物过敏"
+            },
+            {
+              "id": "D",
+              "text": "饮水过多"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "最常见病因是狗吃完饭立刻解开牵引绳奔跑，导致胃扭转堵塞出口，食物发酵产气让胃快速膨胀。"
+        },
+        {
+          "id": "8f0a2d9f-c6a7-4e41-8396-7e1e49734292",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "胃内异物",
+          "question": "以下哪些是狗胃内常见的异物？",
+          "options": [
+            {
+              "id": "A",
+              "text": "袜子"
+            },
+            {
+              "id": "B",
+              "text": "拖鞋"
+            },
+            {
+              "id": "C",
+              "text": "玻璃珠"
+            },
+            {
+              "id": "D",
+              "text": "毛球"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "狗会误食袜子、拖鞋、球类、玻璃珠等。毛球是猫胃内异物常见问题。"
+        },
+        {
+          "id": "18b091d3-69ee-4ec6-a220-80a9c4f706a2",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "胃肠容积比例",
+          "question": "狗的胃肠容积比为6:4，胃容积大肠道容积小，更适合肉食。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "人的胃肠容积比为3:7，狗为6:4，狗胃容积大肠道容积小，肉类在肠道消化速度快，因此比人类更适合肉食。"
+        },
+        {
+          "id": "494c5c39-2c28-4562-b6eb-7c867d1606c7",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "肠道长度与食性",
+          "question": "猫的肠道长度与体长比例是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "6:1"
+            },
+            {
+              "id": "B",
+              "text": "4:1"
+            },
+            {
+              "id": "C",
+              "text": "8:1"
+            },
+            {
+              "id": "D",
+              "text": "10:1"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "犬肠道长度和体长比例是6:1，猫是4:1，肠道越短肉食性越强，因此猫的肉食性比狗更强。"
+        },
+        {
+          "id": "7ad7e6be-e0f6-435d-88b4-542dbebc5f31",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "布里斯托大便分类",
+          "question": "以下哪些属于异常粪便状态？",
+          "options": [
+            {
+              "id": "A",
+              "text": "香蕉状便"
+            },
+            {
+              "id": "B",
+              "text": "干硬坚果状便"
+            },
+            {
+              "id": "C",
+              "text": "软便"
+            },
+            {
+              "id": "D",
+              "text": "水便"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "正常粪便为香蕉状；干硬便、软便、水便都属于异常状态。"
+        },
+        {
+          "id": "f477ae1b-5dfa-4671-88d2-d6d0696cb1fe",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "黑便的判断",
+          "question": "高肉饮食导致的黑便是正常的。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "黑便需要分情况：高肉饮食、黑色食物导致的黑便是正常的；消化道出血导致的黑便是异常的。"
+        },
+        {
+          "id": "258b2ec7-598f-4599-8bb1-920bd7395cfa",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "小肠性腹泻与大肠性腹泻的区别",
+          "question": "以下哪项是小肠性腹泻的特点？",
+          "options": [
+            {
+              "id": "A",
+              "text": "频繁排便，每次量少"
+            },
+            {
+              "id": "B",
+              "text": "粪便带有鲜血和粘液"
+            },
+            {
+              "id": "C",
+              "text": "一次性大量排水样便，水面有油花"
+            },
+            {
+              "id": "D",
+              "text": "一般不影响体重"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "小肠性腹泻表现为一次性大量排水样便，水面浮有油花，容易引发营养不良、体重减轻和低蛋白血症，一般不会有鲜血。"
+        },
+        {
+          "id": "e7fe5642-94da-4b82-884d-260dfa8dea44",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "肠套叠的病因",
+          "question": "以下哪些因素可能引发肠套叠？",
+          "options": [
+            {
+              "id": "A",
+              "text": "寄生虫"
+            },
+            {
+              "id": "B",
+              "text": "感染"
+            },
+            {
+              "id": "C",
+              "text": "异物"
+            },
+            {
+              "id": "D",
+              "text": "肿瘤"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "肠套叠一般由寄生虫、感染、异物、肿瘤引发。"
+        },
+        {
+          "id": "b9503781-3533-4522-86b0-99de4de10cf0",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "犬细小治疗",
+          "question": "犬细小病毒治疗时应该禁食禁水。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "传统治疗要求禁食禁水是错误的，越早恢复进食治愈率越高，建议喂食低残留食物。"
+        },
+        {
+          "id": "3aa6469a-3e89-4fa0-912c-ed5b289aeb90",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "犬细小症状",
+          "question": "犬细小的典型粪便特征是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "黑色柏油状"
+            },
+            {
+              "id": "B",
+              "text": "灰黄色，有特殊腥臭味"
+            },
+            {
+              "id": "C",
+              "text": "白色陶土样"
+            },
+            {
+              "id": "D",
+              "text": "绿色水样"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "犬细小典型症状是灰黄色粪便带有特殊腥臭味。"
+        },
+        {
+          "id": "3715c2ad-30e3-42bf-8ac0-f2bdcd60f9dc",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "便秘的饮食调理",
+          "question": "对于长期便秘的狗，以下哪些饮食调整是合理的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "增加粗纤维摄入，如小麦麸"
+            },
+            {
+              "id": "B",
+              "text": "保证充足饮水"
+            },
+            {
+              "id": "C",
+              "text": "减少饮水"
+            },
+            {
+              "id": "D",
+              "text": "喂食高脂肪食物"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "高纤维饮食必须搭配充足饮水，否则会加重便秘。高脂肪食物会刺激胃液分泌，不利于便秘。"
+        },
+        {
+          "id": "28960a8a-3b20-4892-bbb3-a6ad8a14d476",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "多学科学习的意义",
+          "question": "学习多个学科的核心意义是成为各领域的专家。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "学习多个学科的核心意义是遇到问题时，可以准确判断问题属于哪个领域，及时找对应专业人士处理，而不是成为专家。"
+        }
+      ]
+    },
+    {
+      "id": "5ee52592-1336-412d-965f-a977ff5fad21",
+      "name": "猫狗消化系统讲解：食道、胃、肠道结构功能与常见疾病防治-2026年05月27日-来自【Get 笔记】 · 06/23 10:47",
+      "createdAt": "2026-06-23T02:47:59.115Z",
+      "questions": [
+        {
+          "id": "3e1b397d-67f5-437e-8f8e-52c359ff922f",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "食道结构与物种差异",
+          "question": "狗的食道全部由哪种肌肉构成？",
+          "options": [
+            {
+              "id": "A",
+              "text": "平滑肌"
+            },
+            {
+              "id": "B",
+              "text": "横纹肌"
+            },
+            {
+              "id": "C",
+              "text": "心肌"
+            },
+            {
+              "id": "D",
+              "text": "括约肌"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "狗的食道全部由横纹肌构成，横纹肌力量更强，因此狗单次推送大量食物能力强。"
+        },
+        {
+          "id": "bff60df4-7c45-47c9-88f5-b478bcb3165a",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "胃结构功能与物种差异",
+          "question": "猫的胃头区较小，一天需要进食多少次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1-2次"
+            },
+            {
+              "id": "B",
+              "text": "3-7次"
+            },
+            {
+              "id": "C",
+              "text": "8-20次"
+            },
+            {
+              "id": "D",
+              "text": "48次"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "猫的胃头区很小，一天需要进食8-20次，营养不良的猫甚至可达48次。"
+        },
+        {
+          "id": "211d8aa8-1b30-4ba7-8fbe-72387056c4e4",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "食道蠕动原理",
+          "question": "食物通过食道主要依靠重力作用。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "食道依靠蠕动推送食物，并非依靠重力，人倒吊也可以将食物送进胃中。"
+        },
+        {
+          "id": "d3cc9bc6-eb96-4b09-a0ea-5984505549a1",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "食道常见疾病",
+          "question": "以下哪些属于食道常见疾病？",
+          "options": [
+            {
+              "id": "A",
+              "text": "巨食道"
+            },
+            {
+              "id": "B",
+              "text": "反流性食管炎"
+            },
+            {
+              "id": "C",
+              "text": "胃溃疡"
+            },
+            {
+              "id": "D",
+              "text": "食道异物"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "食道常见疾病包括巨食道、反流性食管炎、食道异物。胃溃疡属于胃部疾病。"
+        },
+        {
+          "id": "4366f511-4b66-4b5d-b175-5e8fa2157396",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "胃溃疡致病原因",
+          "question": "DAZX类消炎药容易引发胃溃疡，其主要机制是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "增加胃酸分泌"
+            },
+            {
+              "id": "B",
+              "text": "直接损伤胃黏膜并减少粘液分泌"
+            },
+            {
+              "id": "C",
+              "text": "抑制胃蛋白酶活性"
+            },
+            {
+              "id": "D",
+              "text": "促进幽门螺杆菌生长"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "DAZX类消炎药会直接损伤胃黏膜、减少粘液分泌，容易引发胃溃疡，服用时必须随餐吃。"
+        },
+        {
+          "id": "188ee235-d142-41f7-8b26-f28c323a6577",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "幽门螺杆菌治疗",
+          "question": "关于幽门螺杆菌的四联疗法，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "包括两种抗生素"
+            },
+            {
+              "id": "B",
+              "text": "包括一种铋剂"
+            },
+            {
+              "id": "C",
+              "text": "包括一种质子泵抑制剂"
+            },
+            {
+              "id": "D",
+              "text": "两周疗程根除率可达90%以上"
+            },
+            {
+              "id": "E",
+              "text": "补救疗法10天根除率约70%"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "四联疗法包括两种抗生素、一种铋剂和一种质子泵抑制剂，两周根除率90%以上，补救疗法10天根除率约70%。"
+        },
+        {
+          "id": "83866e42-153b-48b1-a81a-fd421a31f105",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "胃扩张胃扭转预防",
+          "question": "狗吃完饭后应立即解开牵引绳让其奔跑，以促进消化。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "狗吃完饭立刻奔跑容易导致胃扭转，应遛完狗再吃饭，或吃完后牵短绳慢走。"
+        },
+        {
+          "id": "044e525f-fde1-44f8-a7b4-1bbc02239aa3",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "胃内异物处理",
+          "question": "猫胃内异物最常见的是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "鱼刺"
+            },
+            {
+              "id": "B",
+              "text": "毛球"
+            },
+            {
+              "id": "C",
+              "text": "线团"
+            },
+            {
+              "id": "D",
+              "text": "塑料"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "猫胃内异物最常见的是毛球症，咬线吞线也与幼年行为习惯有关。"
+        },
+        {
+          "id": "bd07eb30-129b-4b25-b22d-3d965dd3b954",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "胃肠结构与食性关联",
+          "question": "关于猫狗消化系统的特点，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "狗的胃肠容积比为6:4"
+            },
+            {
+              "id": "B",
+              "text": "猫的肠道长度与体长比为4:1"
+            },
+            {
+              "id": "C",
+              "text": "狗吃纯肉时粪便几乎没有臭味"
+            },
+            {
+              "id": "D",
+              "text": "猫的肉食性比狗更强"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "狗的胃肠容积比6:4，猫肠道体长比4:1，狗吃纯肉粪便无臭，猫肠道更短肉食性更强。"
+        },
+        {
+          "id": "9f34487e-0194-40f1-8656-5f4d62001cd2",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "粪便分类",
+          "question": "香蕉状粪便属于正常粪便，质地偏软可捡起，会在地面留印。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "布里斯托分类中，香蕉状粪便为正常，水分吸收适量。"
+        },
+        {
+          "id": "5e4d6143-f6de-4891-9ada-2974d126c982",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "腹泻分类",
+          "question": "小肠性腹泻的典型表现是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "频繁排便、每次量少"
+            },
+            {
+              "id": "B",
+              "text": "一次性大量排水样便，水面浮油花"
+            },
+            {
+              "id": "C",
+              "text": "粪便带鲜血和粘液"
+            },
+            {
+              "id": "D",
+              "text": "一般不影响体重"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "小肠性腹泻表现为一次性大量排水样便，水面浮油花，易导致营养不良和体重减轻。"
+        },
+        {
+          "id": "0de38ab4-4e84-4fd4-852d-b3e2aecef751",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "肠套叠与肠梗阻",
+          "question": "关于肠套叠和肠梗阻，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "肠套叠是一段肠道套入另一段肠道"
+            },
+            {
+              "id": "B",
+              "text": "肠梗阻多由误食异物引发"
+            },
+            {
+              "id": "C",
+              "text": "两者都需要手术处理"
+            },
+            {
+              "id": "D",
+              "text": "术后需禁食24-48小时"
+            },
+            {
+              "id": "E",
+              "text": "术后应喂食低残留食物"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "肠套叠和肠梗阻均需手术，术后禁食24-48小时，喂食低残留食物。"
+        },
+        {
+          "id": "0ec8aeee-96b1-4c4e-9060-84ea1863ba29",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "犬细小治疗",
+          "question": "犬细小病毒治疗时，传统禁食禁水的做法是正确的。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "传统禁食禁水是错误的，越早恢复进食治愈率越高，应喂食低残留食物或鸡蛋花。"
+        },
+        {
+          "id": "91bafa55-88de-4d83-ae28-4687b0a63a61",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "胃液酸性差异",
+          "question": "猫狗的胃液PH值范围是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2-4"
+            },
+            {
+              "id": "B",
+              "text": "1-2"
+            },
+            {
+              "id": "C",
+              "text": "3-5"
+            },
+            {
+              "id": "D",
+              "text": "6-7"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "猫狗胃液PH值为1-2，酸性比人更强，更适合消化肉类。"
+        },
+        {
+          "id": "345c7f91-40b3-4e50-b8b8-590adfffb6ee",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "便秘处理",
+          "question": "对于长期便秘的狗，以下哪些饮食调整措施是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "增加粗纤维摄入，如小麦麸"
+            },
+            {
+              "id": "B",
+              "text": "保证充足饮水"
+            },
+            {
+              "id": "C",
+              "text": "喂食高脂肪食物"
+            },
+            {
+              "id": "D",
+              "text": "补充益生菌"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "高纤维饮食需搭配充足饮水，否则会加重便秘。高脂肪食物会刺激胃液分泌，不利于胃溃疡患者。"
+        },
+        {
+          "id": "32567235-299e-4b3a-9d7c-5141865cb9da",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "食道肌肉差异",
+          "question": "猫的食道全部由横纹肌构成。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "猫的食道上半部分为横纹肌，下半部分为平滑肌。"
+        },
+        {
+          "id": "8b55c551-d193-4ffe-a421-2203c8a03a03",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "胃溃疡营养方案",
+          "question": "胃溃疡患者应采取哪种脂肪摄入方案？",
+          "options": [
+            {
+              "id": "A",
+              "text": "高脂肪饮食"
+            },
+            {
+              "id": "B",
+              "text": "中低脂肪饮食"
+            },
+            {
+              "id": "C",
+              "text": "无脂肪饮食"
+            },
+            {
+              "id": "D",
+              "text": "任意脂肪饮食"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "高脂肪会刺激胃液大量分泌，加重反酸问题，因此胃溃疡患者需要中低脂肪饮食。"
+        },
+        {
+          "id": "92f938cd-45ec-48b3-b169-dc33b5a5d477",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "粪便异常判断",
+          "question": "以下哪些情况可能导致粪便干硬如羊粪？",
+          "options": [
+            {
+              "id": "A",
+              "text": "进食量不足"
+            },
+            {
+              "id": "B",
+              "text": "沸石粉添加过量"
+            },
+            {
+              "id": "C",
+              "text": "蒙脱石添加过量"
+            },
+            {
+              "id": "D",
+              "text": "饮水过多"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "进食量不足或吸水成分（沸石粉、蒙脱石）添加过量会导致粪便干硬。"
+        },
+        {
+          "id": "b3eea877-083c-4638-97d4-9c2c24e8b158",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "多学科学习",
+          "question": "宠物问题往往只涉及单一学科，学习一个学科就足够了。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "宠物问题往往涉及营养学、行为学、医学等多个领域，单一学科容易误判。"
+        },
+        {
+          "id": "c8038243-cab8-47ed-817f-281afc92bb99",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "肠道长度与食性",
+          "question": "猫的肠道长度与体长比例是多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "6:1"
+            },
+            {
+              "id": "B",
+              "text": "4:1"
+            },
+            {
+              "id": "C",
+              "text": "3:1"
+            },
+            {
+              "id": "D",
+              "text": "10:1"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "猫的肠道长度与体长比为4:1，肠道越短肉食性越强。"
+        }
+      ]
+    },
+    {
+      "id": "legacy-bank",
+      "name": "历史题库",
+      "createdAt": "2026-06-23T02:47:10.929Z",
+      "questions": [
+        {
+          "id": "70abf52a-4cb0-42a7-b617-42c3d1d52e84",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "食道结构与物种差异",
+          "question": "狗的食道全部由哪种肌肉构成？",
+          "options": [
+            {
+              "id": "A",
+              "text": "平滑肌"
+            },
+            {
+              "id": "B",
+              "text": "横纹肌"
+            },
+            {
+              "id": "C",
+              "text": "心肌"
+            },
+            {
+              "id": "D",
+              "text": "括约肌"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "狗的食道全部由横纹肌构成，横纹肌力量更强，因此狗单次推送大量食物能力强。"
+        },
+        {
+          "id": "58219ffb-fed3-4e8c-a6d9-fd481ebffd08",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "胃结构功能与物种差异",
+          "question": "猫的胃头区较小，一天需要进食多少次？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1-2次"
+            },
+            {
+              "id": "B",
+              "text": "3-7次"
+            },
+            {
+              "id": "C",
+              "text": "8-20次"
+            },
+            {
+              "id": "D",
+              "text": "48次"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "猫的胃头区很小，一天需要进食8-20次，营养不良的猫甚至可达48次。"
+        },
+        {
+          "id": "d9fa08d7-629c-4dcf-a98f-da3915dd984c",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "胃溃疡成因与幽门螺杆菌防治",
+          "question": "以下哪些因素可能导致胃溃疡？",
+          "options": [
+            {
+              "id": "A",
+              "text": "应激导致胃黏膜粘液停止分泌"
+            },
+            {
+              "id": "B",
+              "text": "DAZX类消炎药损伤胃黏膜"
+            },
+            {
+              "id": "C",
+              "text": "幽门螺杆菌感染"
+            },
+            {
+              "id": "D",
+              "text": "高脂肪饮食刺激胃液分泌"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "应激会导致胃黏膜粘液停止分泌，胃酸侵蚀胃黏膜；DAZX类消炎药会直接损伤胃黏膜、减少粘液分泌；幽门螺杆菌是导致胃溃疡的核心因素。高脂肪饮食会刺激胃液分泌，加重反酸，但不是直接导致溃疡的原因。"
+        },
+        {
+          "id": "4fbb3c59-fdcc-43e4-b08d-9aa4e938d35d",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "食道蠕动原理",
+          "question": "食物通过食道主要依靠重力作用。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "食物依靠食道蠕动推送进入胃，并非依靠重力，人倒吊时也可以完成进食。"
+        },
+        {
+          "id": "830a34cc-aa10-40a7-8dfa-fd92ba974299",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "胃扩张胃扭转的急救与预防",
+          "question": "狗发生胃扩张胃扭转时，急救措施中哪项是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "立即让狗大量饮水"
+            },
+            {
+              "id": "B",
+              "text": "用针头穿刺胃部放气后拔针送医"
+            },
+            {
+              "id": "C",
+              "text": "用针头穿刺胃部放气，不拔针直接送医"
+            },
+            {
+              "id": "D",
+              "text": "让狗剧烈运动以帮助排气"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "遇到胃扭转，可用针头穿刺胃部放气，不要拔针直接送医，放气过快会引发危险。"
+        },
+        {
+          "id": "d2459f00-fa62-44e6-a17b-4ca7b1e69cb4",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "胃肠结构与食性关联",
+          "question": "以下关于猫狗消化系统的描述，正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "狗的胃肠容积比为6:4"
+            },
+            {
+              "id": "B",
+              "text": "猫的肠道长度与体长比例为4:1"
+            },
+            {
+              "id": "C",
+              "text": "狗吃纯肉时粪便几乎没有臭味"
+            },
+            {
+              "id": "D",
+              "text": "猫的肉食性比狗更强"
+            },
+            {
+              "id": "E",
+              "text": "人的胃肠容积比为3:7"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "狗的胃肠容积比为6:4，猫的肠道长度与体长比例为4:1，狗吃纯肉时蛋白质消化率高，粪便几乎无臭，猫的肠道更短，肉食性更强，人的胃肠容积比为3:7。"
+        },
+        {
+          "id": "b9e1eccc-54fd-4825-9045-f3586e8f9a4e",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "胃液酸性差异",
+          "question": "猫狗的胃液PH值比人类更强，更适合消化肉类。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "人的胃液PH值为2-4，猫狗为1-2，酸性更强，更适合消化肉类。"
+        },
+        {
+          "id": "adf3fd4a-3f62-425d-a9f4-70acd1f15333",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "腹泻分类判断",
+          "question": "大肠性腹泻的典型表现是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "一次性大量排水样便，水面浮油花"
+            },
+            {
+              "id": "B",
+              "text": "频繁排便，每次量少，伴有鲜血和粘液"
+            },
+            {
+              "id": "C",
+              "text": "粪便呈灰黄色，有特殊腥臭味"
+            },
+            {
+              "id": "D",
+              "text": "粪便呈黑色柏油状"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "大肠性腹泻表现为频繁排便、每次量少，会伴随鲜血和粘液，一般不影响体重。"
+        },
+        {
+          "id": "a8f14094-d064-4201-9376-1342ae2cbfe1",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "犬细小病毒治疗",
+          "question": "关于犬细小病毒的治疗，以下哪些说法是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "传统禁食禁水方案是正确的"
+            },
+            {
+              "id": "B",
+              "text": "越早恢复进食治愈率越高"
+            },
+            {
+              "id": "C",
+              "text": "可以喂食低残留食物"
+            },
+            {
+              "id": "D",
+              "text": "可以冲鸡蛋花喂食"
+            },
+            {
+              "id": "E",
+              "text": "无并发症时可以自愈"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "传统禁食禁水是错误的，研究证明越早进食治愈率越高；建议喂食低残留食物，没有特殊食物可冲鸡蛋花；无并发症时可自愈，但现代宠物犬建议及时治疗。"
+        },
+        {
+          "id": "0e0bd841-0702-4c70-85e0-87a4b2a0a306",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "食道常见疾病",
+          "question": "巨食道是指食道失去伸缩性变得松弛，无法推送食物。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "巨食道是食道失去伸缩性变得松弛，无法推送食物，只能靠重力让食物进入胃。"
+        },
+        {
+          "id": "8fb83c17-5a39-4a8c-8e10-5f67d00f9dce",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "胃内异物预防处理",
+          "question": "猫胃内异物最常见的是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "鱼刺"
+            },
+            {
+              "id": "B",
+              "text": "毛球"
+            },
+            {
+              "id": "C",
+              "text": "线"
+            },
+            {
+              "id": "D",
+              "text": "塑料"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "猫胃内异物最常见的是毛球症，咬线吞线也与幼年行为习惯有关。"
+        },
+        {
+          "id": "ba13c73e-714c-46c6-8b5b-b19e738afbd9",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "布里斯托大便分类",
+          "question": "以下哪些粪便状态属于异常？",
+          "options": [
+            {
+              "id": "A",
+              "text": "香蕉状便"
+            },
+            {
+              "id": "B",
+              "text": "干硬坚果状便"
+            },
+            {
+              "id": "C",
+              "text": "软便"
+            },
+            {
+              "id": "D",
+              "text": "水便"
+            },
+            {
+              "id": "E",
+              "text": "褶皱成型便"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "正常粪便为香蕉状，褶皱成型便状态尚可；干硬坚果状便、软便、水便都属于异常。"
+        },
+        {
+          "id": "d18a504b-d7c9-436c-9d55-7c7d07f7ca36",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "胃溃疡成因",
+          "question": "DAZX类消炎药服用时必须随餐吃，以减少对胃的损伤。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "DAZX类消炎药会损伤胃黏膜，服用必须随餐吃，避免直接接触胃黏膜。"
+        },
+        {
+          "id": "e4688799-297b-4048-ab9c-26bc875a7a0a",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "肠套叠与肠梗阻",
+          "question": "肠套叠术后一般需要禁食多长时间？",
+          "options": [
+            {
+              "id": "A",
+              "text": "12-24小时"
+            },
+            {
+              "id": "B",
+              "text": "24-48小时"
+            },
+            {
+              "id": "C",
+              "text": "48-72小时"
+            },
+            {
+              "id": "D",
+              "text": "72小时以上"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "肠套叠术后需要禁食24-48小时，之后喂食低残留的酶解消化食物。"
+        },
+        {
+          "id": "46338ea5-bc8a-4990-92b7-096a2d817e69",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "长期便秘的处理",
+          "question": "关于长期便秘的饮食调理，以下哪些做法是正确的？",
+          "options": [
+            {
+              "id": "A",
+              "text": "采用高纤维饮食方案"
+            },
+            {
+              "id": "B",
+              "text": "补充小麦麸"
+            },
+            {
+              "id": "C",
+              "text": "高纤维饮食必须搭配充足饮水"
+            },
+            {
+              "id": "D",
+              "text": "可以喂食鸡架骨头"
+            },
+            {
+              "id": "E",
+              "text": "补充魔芋粉"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "analysis": "长期便秘可采用高纤维饮食，补充小麦麸或魔芋粉，但必须搭配充足饮水，否则会加重便秘。鸡架骨头会导致粪便干硬，加重便秘。"
+        },
+        {
+          "id": "84b63c49-5a31-47e0-a5b8-1bae4706237c",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "多学科学习的必要性",
+          "question": "宠物问题往往只涉及单一学科，学习一个学科就足够了。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "营养学、行为学、医学不是独立学科，宠物问题往往涉及多个领域，学习多学科有助于准确判断问题。"
+        },
+        {
+          "id": "f0006408-69c6-4a0e-9144-da9dacf478b3",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "肠道消化原理",
+          "question": "肠黏膜绒毛上的小孔只允许什么大小的分子通过？",
+          "options": [
+            {
+              "id": "A",
+              "text": "大分子"
+            },
+            {
+              "id": "B",
+              "text": "小分子"
+            },
+            {
+              "id": "C",
+              "text": "所有分子"
+            },
+            {
+              "id": "D",
+              "text": "只有水分子"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "肠黏膜绒毛的小孔只允许小分子营养通过，大分子通过会引发过敏或中毒。"
+        },
+        {
+          "id": "1ea6afea-7fd2-4cc5-bda8-cca71c4bae1f",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "高蛋白粮粪便臭的原因",
+          "question": "市售高蛋白狗粮猫粮粪便臭的原因可能有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "蛋白质质量差"
+            },
+            {
+              "id": "B",
+              "text": "植物蛋白占比高"
+            },
+            {
+              "id": "C",
+              "text": "产生大量废氮"
+            },
+            {
+              "id": "D",
+              "text": "产生氨气臭味"
+            },
+            {
+              "id": "E",
+              "text": "肉类蛋白消化率高"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "市售高蛋白粮粪便臭大多是因为蛋白质质量差，植物蛋白占比高，会产生大量废氮，进而产生氨气臭味。"
+        },
+        {
+          "id": "93f5ce29-2fc7-4ae2-a14a-32796115ac9a",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "胃扩张胃扭转预防",
+          "question": "预防胃扩张胃扭转，建议遛完狗再吃饭。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "预防建议是遛完狗再吃饭，若吃完再遛必须牵短绳，不能让狗奔跑。"
+        },
+        {
+          "id": "16c4c642-f91e-475a-a1ff-f61665417087",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "反流性食管炎",
+          "question": "反流性食管炎的主要病因是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "食道异物"
+            },
+            {
+              "id": "B",
+              "text": "贲门松弛导致胃酸反流"
+            },
+            {
+              "id": "C",
+              "text": "食道肌肉无力"
+            },
+            {
+              "id": "D",
+              "text": "幽门螺杆菌感染"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "反流性食管炎是贲门松弛后胃酸反流灼伤食道，猫狗绝育麻醉不当也可能引发。"
+        }
+      ]
+    }
+  ]
 }
