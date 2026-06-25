@@ -1,8 +1,569 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T08:59:10.821Z",
+  "updatedAt": "2026-06-25T09:00:43.953Z",
   "questionBanks": [
+    {
+      "id": "18fd2d0f-e150-49b9-85fe-c974fed0b2c6",
+      "name": "宠物营养高级班：犬初生哺乳期营养护理与喂养指南-2026年06月25日-来自【Get 笔记】 · 06/25 17:00",
+      "createdAt": "2026-06-25T09:00:41.797Z",
+      "questions": [
+        {
+          "id": "9a0dc786-c638-45a9-a2a4-8a06f65f5991",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "犬的寿命与生命阶段划分",
+          "question": "目前犬的平均寿命约为多少岁？",
+          "options": [
+            {
+              "id": "A",
+              "text": "2~3岁"
+            },
+            {
+              "id": "B",
+              "text": "14~16岁"
+            },
+            {
+              "id": "C",
+              "text": "20~24岁"
+            },
+            {
+              "id": "D",
+              "text": "7~10岁"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "根据笔记，现在犬的平均寿命为14~16岁，远高于无商业宠物食品时代的2~3年。"
+        },
+        {
+          "id": "f370f183-5c42-4a29-87db-3c04ea51fd30",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "初生幼犬产后基础护理",
+          "question": "以下哪些是初生幼犬产后基础护理的正确操作？",
+          "options": [
+            {
+              "id": "A",
+              "text": "若母犬母性差，需人工撕开胎衣、剪断脐带"
+            },
+            {
+              "id": "B",
+              "text": "用干毛巾擦干幼犬后，用高温大风吹风机吹干"
+            },
+            {
+              "id": "C",
+              "text": "彻底清理幼犬口腔和鼻腔的粘液"
+            },
+            {
+              "id": "D",
+              "text": "保持脐带干燥以促进自然脱落"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出，母性差的母犬需要人工辅助撕开胎衣、剪断脐带；需彻底清理口鼻粘液；脐带需保持干燥才能自然脱落。吹风机应使用小风低温，而非高温大风，故B错误。"
+        },
+        {
+          "id": "379b6d6c-149f-4649-bd03-fbbad4275def",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "新生幼犬假死急救方法",
+          "question": "新生幼犬假死时，心脏停止跳动，但仍有呼吸。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记明确，假死表现为心脏仍在跳动，但没有呼吸、不动弹。"
+        },
+        {
+          "id": "b77a44b2-8768-4ee7-aee6-e1420954afe1",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "初乳的作用与喂养要求",
+          "question": "初乳中免疫球蛋白能被新生幼犬直接吸收的原因是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "免疫球蛋白分子小"
+            },
+            {
+              "id": "B",
+              "text": "幼犬消化系统不完善，可透过消化道吸收"
+            },
+            {
+              "id": "C",
+              "text": "初乳中不含消化酶"
+            },
+            {
+              "id": "D",
+              "text": "幼犬胃酸分泌旺盛"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出，幼犬消化系统非常不完善，免疫球蛋白可以通过消化道被吸收，从而获得母源抗体。"
+        },
+        {
+          "id": "d8f41ae4-fbed-4f91-9292-9a1a52550a78",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "新生幼犬3H综合征",
+          "question": "以下关于3H综合征的描述，正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "3H综合征指低体温、低血糖、脱水"
+            },
+            {
+              "id": "B",
+              "text": "新生幼犬肝糖原和肌糖原储备充足"
+            },
+            {
+              "id": "C",
+              "text": "新生幼犬体内含水率约82%，高于成年犬"
+            },
+            {
+              "id": "D",
+              "text": "低体温会导致母犬放弃哺喂幼犬"
+            },
+            {
+              "id": "E",
+              "text": "三种问题相互独立，不会同时发生"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出3H综合征指低体温、低血糖、脱水；新生幼犬几乎无肝糖原和肌糖原储备，故B错误；体内含水率82%高于成年犬70%；低体温时母犬会放弃哺喂；三者会相互影响，通常同时发生，故E错误。"
+        },
+        {
+          "id": "569a3a8a-e353-44c2-b96f-b95b3db539cb",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "不同奶源的营养对比与选择",
+          "question": "羊奶的营养成分与犬猫奶非常接近，可以完全替代专用奶粉。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记对比显示，羊奶蛋白质、脂肪远低于犬猫奶，乳糖远高于犬猫奶，且几乎不含牛磺酸，不能完全替代专用奶粉。"
+        },
+        {
+          "id": "95c69570-c143-4978-b5ca-af9785e6005b",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "人工补饲方案",
+          "question": "出生10~20天的幼犬，人工补饲时固体与乳品的推荐比例是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "1:4"
+            },
+            {
+              "id": "B",
+              "text": "1:3"
+            },
+            {
+              "id": "C",
+              "text": "1:2"
+            },
+            {
+              "id": "D",
+              "text": "1:1"
+            }
+          ],
+          "answer": [
+            "A"
+          ],
+          "analysis": "笔记指出，10~20天时，离乳期犬粮打粉加蛋黄与乳制品按1:4比例混合。"
+        },
+        {
+          "id": "7fa1358f-5f32-4d44-a97b-60f468cd333a",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "宠物奶粉冲调技巧",
+          "question": "关于宠物奶粉冲调，以下说法正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "不容易溶于水的奶粉添加剂更少"
+            },
+            {
+              "id": "B",
+              "text": "冲调水温推荐使用开水以杀菌"
+            },
+            {
+              "id": "C",
+              "text": "推荐使用带双刀刃的小型搅拌杯"
+            },
+            {
+              "id": "D",
+              "text": "冲调时应先加水再加粉"
+            },
+            {
+              "id": "E",
+              "text": "可以使用自来水直接冲调"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出，不易溶的奶粉添加剂少（无助溶剂）；水温40~50℃，开水会破坏维生素，故B错误；推荐搅拌杯；先加水再加粉；水温无法杀菌，不建议用自来水，故E错误。"
+        },
+        {
+          "id": "342eb4c9-f5c0-416d-ad6f-3e979c8b369e",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "人工哺乳注意事项",
+          "question": "人工哺乳幼犬时，应模仿人类婴儿仰卧姿势喂奶。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记强调，必须让幼犬趴着喝奶，仰喂容易导致呛奶引发吸入性肺炎。"
+        },
+        {
+          "id": "98131278-7ceb-4de6-abe7-e5f3be014563",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "新生幼犬环境保温方案",
+          "question": "出生前两周的幼犬，环境温度应维持在多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "20~23℃"
+            },
+            {
+              "id": "B",
+              "text": "23~26℃"
+            },
+            {
+              "id": "C",
+              "text": "25~29℃"
+            },
+            {
+              "id": "D",
+              "text": "30~35℃"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记明确，出生前两周需要25℃~29℃。"
+        },
+        {
+          "id": "5d934a99-910c-4d91-92c8-6c3967451480",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "初乳的作用与喂养要求",
+          "question": "以下关于初乳的说法，正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "初乳呈淡黄色、粘稠拉丝，有腥味"
+            },
+            {
+              "id": "B",
+              "text": "初乳乳糖含量高"
+            },
+            {
+              "id": "C",
+              "text": "初乳含有大量免疫球蛋白"
+            },
+            {
+              "id": "D",
+              "text": "未吃到初乳的幼犬应在15日龄左右接种小犬二联疫苗"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记描述初乳淡黄色、粘稠拉丝、有腥味；乳糖含量低，故B错误；含大量免疫球蛋白；未吃到初乳的幼犬需在15日龄左右接种小犬二联。"
+        },
+        {
+          "id": "463d9115-50de-44d0-9a58-96a4f8e03578",
+          "type": "trueFalse",
+          "difficulty": "hard",
+          "knowledgePoint": "不同奶源的营养对比与选择",
+          "question": "牛奶和羊奶的含水率约为87%，而犬猫奶的含水率约为77%~79%。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记中数据：狗奶含水率77.3%，猫奶79%，牛奶和羊奶均为87%。"
+        },
+        {
+          "id": "25d3638f-c35c-406b-935d-bda206cb1ca2",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "犬的寿命与生命阶段划分",
+          "question": "犬的体型与寿命的关系是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "体型越大，寿命越长"
+            },
+            {
+              "id": "B",
+              "text": "体型越小，寿命越短"
+            },
+            {
+              "id": "C",
+              "text": "体型越大，寿命越短"
+            },
+            {
+              "id": "D",
+              "text": "体型与寿命无关"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，体型越大的狗，生命期越短；体型越小，生命期越长。"
+        },
+        {
+          "id": "80609e35-b5ef-44d4-8fa1-bf44162a3db8",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "人工补饲方案",
+          "question": "关于微量元素补充，以下说法正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "可以从工厂直接购买预混料，成本较低"
+            },
+            {
+              "id": "B",
+              "text": "紧急情况可购买21金维他或善存打碎添加"
+            },
+            {
+              "id": "C",
+              "text": "补充微量元素无需计算用量，可随意添加"
+            },
+            {
+              "id": "D",
+              "text": "网购宠物营养粉也是一种渠道"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记提到预混料成本低；紧急可用21金维他或善存；需计算用量，不能超标，故C错误；网购营养粉可行。"
+        },
+        {
+          "id": "bd16752a-e4c5-4442-8d2a-304862f5f187",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "新生幼犬假死急救方法",
+          "question": "假死急救操作5分钟后，若幼犬仍未发出呼吸叫声，则大概率无法救活。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确，操作5分钟后未听到恢复呼吸的叫声，很大概率无法救活。"
+        },
+        {
+          "id": "9ae1066c-d5fe-4563-827f-b454674b641d",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "人工哺乳注意事项",
+          "question": "关于自动加温喂奶器，以下说法正确的是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "持续加温可以抑制细菌繁殖"
+            },
+            {
+              "id": "B",
+              "text": "持续加温会降低奶变质风险"
+            },
+            {
+              "id": "C",
+              "text": "持续加温会加快细菌繁殖，需经常换奶"
+            },
+            {
+              "id": "D",
+              "text": "自动加温喂奶器无需更换奶"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出，持续加温会大幅提升细菌繁殖速度，增加奶变质风险，需要经常更换新鲜奶。"
+        },
+        {
+          "id": "aff835cf-843a-4608-b5a2-0fad410e7740",
+          "type": "multiple",
+          "difficulty": "easy",
+          "knowledgePoint": "初生幼犬产后基础护理",
+          "question": "母性好的母犬产后会进行哪些行为？",
+          "options": [
+            {
+              "id": "A",
+              "text": "撕开胎衣并吃掉"
+            },
+            {
+              "id": "B",
+              "text": "咬断脐带"
+            },
+            {
+              "id": "C",
+              "text": "舔干幼犬"
+            },
+            {
+              "id": "D",
+              "text": "立即给幼犬喂水"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记描述母性好的母犬会撕开吃掉胎衣、咬断脐带、舔干幼犬。未提及喂水。"
+        },
+        {
+          "id": "c408baee-75ed-41fe-99a0-9403a9fc77c8",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "新生幼犬环境保温方案",
+          "question": "使用空调升温时，需要搭配加湿器以维持湿度。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记指出，空调会导致空气干燥，需要搭配小型香薰加湿器维持湿度。"
+        },
+        {
+          "id": "dc8d7fea-8351-41be-a477-2ce6936ea668",
+          "type": "single",
+          "difficulty": "hard",
+          "knowledgePoint": "不同奶源的营养对比与选择",
+          "question": "在干物质基础上，犬猫奶的粗脂肪含量约为多少？",
+          "options": [
+            {
+              "id": "A",
+              "text": "约30%"
+            },
+            {
+              "id": "B",
+              "text": "约40%以上"
+            },
+            {
+              "id": "C",
+              "text": "约20%"
+            },
+            {
+              "id": "D",
+              "text": "约50%"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记显示，干物质基础上犬猫奶粗脂肪超过40%。"
+        },
+        {
+          "id": "4dbbc104-29b9-49e0-a1c9-4245d268fdb3",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "人工哺乳注意事项",
+          "question": "关于断奶，以下说法正确的有？",
+          "options": [
+            {
+              "id": "A",
+              "text": "推荐45天左右断奶"
+            },
+            {
+              "id": "B",
+              "text": "最早28天可以断奶"
+            },
+            {
+              "id": "C",
+              "text": "过早分离容易引发行为问题"
+            },
+            {
+              "id": "D",
+              "text": "断奶只能采用强制母子分离方式"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "analysis": "笔记推荐45天左右断奶，最早28天可断奶；过早分离易引发行为问题；断奶可采用强制分离或分批带走，故D错误。"
+        }
+      ]
+    },
     {
       "id": "99e1a3b9-730b-4fe7-b43e-5fed43d6bf72",
       "name": "国产猫粮狗粮卫生安全指标解析：从有毒成分到工厂品控的行业现状-2026年06月25日-来自【Get 笔记】 · 06/25 16:59",
