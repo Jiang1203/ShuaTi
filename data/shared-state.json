@@ -1,8 +1,563 @@
 {
   "schemaVersion": 1,
   "appVersion": "2026.06.24-sync",
-  "updatedAt": "2026-06-25T09:16:44.131Z",
+  "updatedAt": "2026-06-25T09:18:13.832Z",
   "questionBanks": [
+    {
+      "id": "e324b947-ab6a-4e59-9d62-6584709d7010",
+      "name": "4月龄到1岁幼龄猫喂养指南：营养需求、食物多样化训练与常见误区解析-2026年06月25日-来自【Get 笔记】 · 06/25 17:18",
+      "createdAt": "2026-06-25T09:18:12.333Z",
+      "questions": [
+        {
+          "id": "0fd1f40e-0a8e-43e6-9f40-b634ea37a23a",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "幼猫幼龄期定义",
+          "question": "行业通常将幼猫的幼龄期定义为哪个年龄段？",
+          "options": [
+            {
+              "id": "A",
+              "text": "出生到2个月"
+            },
+            {
+              "id": "B",
+              "text": "2个月到4个月"
+            },
+            {
+              "id": "C",
+              "text": "4个月到1岁"
+            },
+            {
+              "id": "D",
+              "text": "1岁到2岁"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "根据笔记，行业通常将幼猫的幼龄期定义为4个月到1岁之间。"
+        },
+        {
+          "id": "5d2be82f-f649-4ab3-9ad2-9bb42bd9c4e0",
+          "type": "multiple",
+          "difficulty": "medium",
+          "knowledgePoint": "尴尬期特征",
+          "question": "以下关于幼猫尴尬期的描述，正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "尴尬期通常出现在4~6个月"
+            },
+            {
+              "id": "B",
+              "text": "尴尬期幼猫体型比2~4个月时更胖"
+            },
+            {
+              "id": "C",
+              "text": "尴尬期幼猫呈现丑萌状态"
+            },
+            {
+              "id": "D",
+              "text": "2~3个月是幼猫最软萌的阶段"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出4~6个月幼猫进入尴尬期，体型看起来更瘦，呈现丑萌状态，而2~3个月最软萌。B选项错误，尴尬期体型更瘦而非更胖。"
+        },
+        {
+          "id": "89fd0ef6-0f4f-4fef-bb39-d7775b3cd9d4",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "幼猫能量消耗",
+          "question": "4月龄之后的幼猫进食量通常比成年家猫更大。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记明确提到4月龄后幼猫进食量通常比成年大猫还多。"
+        },
+        {
+          "id": "3d05e2d8-a64e-4531-a6a8-7a1b10756649",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "脂肪摄入控制",
+          "question": "离乳期幼猫奶粉的脂肪干物质比通常在什么范围？",
+          "options": [
+            {
+              "id": "A",
+              "text": "20%~30%"
+            },
+            {
+              "id": "B",
+              "text": "35%~50%"
+            },
+            {
+              "id": "C",
+              "text": "50%~65%"
+            },
+            {
+              "id": "D",
+              "text": "10%~20%"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出离乳期奶粉的脂肪干物质比在35%~50%之间。"
+        },
+        {
+          "id": "f9e68568-d2b8-4978-b6c7-5d88cdc82cc1",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "肥胖的危害",
+          "question": "关于幼年期脂肪细胞与成年肥胖的关系，以下说法正确的有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "成年后脂肪细胞总数量会减少"
+            },
+            {
+              "id": "B",
+              "text": "幼年期脂肪细胞数量过多会导致成年后肥胖不可避免"
+            },
+            {
+              "id": "C",
+              "text": "肥胖本身会让猫长期处于低炎症的亚健康状态"
+            },
+            {
+              "id": "D",
+              "text": "肥胖本身就是一种疾病"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "D"
+          ],
+          "analysis": "笔记指出成年后脂肪细胞总数量不变，幼年期积累过多会导致成年肥胖不可避免；肥胖让猫处于低炎症状态，且肥胖本身被定义为一种疾病。A选项错误，数量不变。"
+        },
+        {
+          "id": "f57d26fc-0bbb-4c1d-bc56-16469aee7e99",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "高碳水饮食的影响",
+          "question": "高碳水饮食对幼猫最常见的消化问题是什么？",
+          "options": [
+            {
+              "id": "A",
+              "text": "便秘"
+            },
+            {
+              "id": "B",
+              "text": "软便和腹泻"
+            },
+            {
+              "id": "C",
+              "text": "呕吐"
+            },
+            {
+              "id": "D",
+              "text": "食欲不振"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记明确说高淀粉的高碳水食物会导致软便和腹泻。"
+        },
+        {
+          "id": "bf118f65-4422-46bc-b048-1da1359fb1f1",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "排便量与健康",
+          "question": "吃高碳水低营养猫粮的幼猫一天排便2~3次，说明它消化吸收良好。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出吃高碳水猫粮的幼猫排便多是因为未吸收的食物被排出，不代表健康；吃低碳水猫粮的幼猫一天仅排便1次。"
+        },
+        {
+          "id": "80e2bb5a-9248-4b71-9e2a-e96dd2bb3774",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "食物多样化训练",
+          "question": "幼年期食物多样化训练可以扩展到哪些食物类型？",
+          "options": [
+            {
+              "id": "A",
+              "text": "干粮"
+            },
+            {
+              "id": "B",
+              "text": "湿粮"
+            },
+            {
+              "id": "C",
+              "text": "零食罐"
+            },
+            {
+              "id": "D",
+              "text": "主食罐"
+            },
+            {
+              "id": "E",
+              "text": "营养品和保健品"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "analysis": "笔记提到食物多样化训练可扩展到干粮、湿粮、零食罐、主食罐、营养品、保健品等多种类型。"
+        },
+        {
+          "id": "c8491dab-84c7-49d7-ab8a-33a9a55a9b4d",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "换粮原则",
+          "question": "关于幼猫换粮，以下做法正确的是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "每天更换不同猫粮以增加接受度"
+            },
+            {
+              "id": "B",
+              "text": "频繁换粮对肠胃没有影响"
+            },
+            {
+              "id": "C",
+              "text": "需要逐步调整，给肠胃留足适应期"
+            },
+            {
+              "id": "D",
+              "text": "换粮时直接全部替换新粮"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记强调不能每天更换不同猫粮，需要给肠胃留足适应期，逐步调整。"
+        },
+        {
+          "id": "57166f79-449c-4073-89b6-9670c22f01aa",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "口味继承性",
+          "question": "幼猫的口味100%继承猫妈妈，后天无法调整。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记指出幼猫80%以上口味继承猫妈妈，但后天训练可以调整口味，基因仅占一部分。"
+        },
+        {
+          "id": "5dc22b95-a7e9-4681-9fa4-fd2110798de1",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "抗拒新食物的应对",
+          "question": "当幼猫抗拒新食物时，正确的做法有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "立即放弃，换回原有食物"
+            },
+            {
+              "id": "B",
+              "text": "多尝试1~2次，给猫适应过程"
+            },
+            {
+              "id": "C",
+              "text": "用针管强行灌喂"
+            },
+            {
+              "id": "D",
+              "text": "避免将新食物与不愉快体验关联"
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "analysis": "笔记建议不要因头几次抗拒就放弃，需要多尝试；同时避免用针管等不愉快方式，否则猫会持续抗拒。A和C都是错误做法。"
+        },
+        {
+          "id": "6fb5973c-fcdd-4d71-a918-6face899821f",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "全年龄段猫粮误区",
+          "question": "关于全年龄段猫粮，以下说法正确的是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "全年龄段猫粮适合所有年龄段的猫"
+            },
+            {
+              "id": "B",
+              "text": "全年龄段猫粮的营养标准需满足幼猫的最高需求"
+            },
+            {
+              "id": "C",
+              "text": "包装标注全年龄段就代表营养全面"
+            },
+            {
+              "id": "D",
+              "text": "幼猫吃全年龄段猫粮一定发育良好"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出全年龄段猫粮需满足幼猫的高营养标准，但很多产品无法达标；不能仅看包装宣传，需学习营养知识判断。A、C、D均错误。"
+        },
+        {
+          "id": "bc22816d-de66-4dcd-9e03-e515bfed36bc",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "全年龄段猫粮案例",
+          "question": "一只2个多月幼猫吃标注全年龄段的进口猫粮，3个半月时体重达到2kg，说明该猫粮适合幼猫。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记中案例显示，吃全年龄段进口猫粮的幼猫3个半月时体重未达2kg，被判断发育不良。题干说体重达标，与案例不符。"
+        },
+        {
+          "id": "c0cbdcf3-17f7-44ba-9cec-44590af937b5",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "新奇效应与拒新反应",
+          "question": "长期只吃一种食物的猫对新食物的反应通常是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "勇于尝试"
+            },
+            {
+              "id": "B",
+              "text": "强烈抗拒"
+            },
+            {
+              "id": "C",
+              "text": "无所谓"
+            },
+            {
+              "id": "D",
+              "text": "只吃贵的"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记指出长期只吃一种食物的猫会对新食物产生强烈抗拒，哪怕价格再高也会拒绝。"
+        },
+        {
+          "id": "c457b47b-8032-468b-8709-bc15f10f843b",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "情绪对进食的影响",
+          "question": "以下哪些情况会导致猫拒绝新食物甚至拒绝进食？",
+          "options": [
+            {
+              "id": "A",
+              "text": "进入新环境"
+            },
+            {
+              "id": "B",
+              "text": "外出途中"
+            },
+            {
+              "id": "C",
+              "text": "猫妈妈在身边"
+            },
+            {
+              "id": "D",
+              "text": "承受压力时"
+            }
+          ],
+          "answer": [
+            "A",
+            "B",
+            "D"
+          ],
+          "analysis": "笔记提到猫在压力环境如新环境、外出途中会拒绝新食物甚至进食；猫妈妈在身边不是压力源。"
+        },
+        {
+          "id": "becd03ac-93b8-4b76-adf4-65814fa5101b",
+          "type": "trueFalse",
+          "difficulty": "easy",
+          "knowledgePoint": "猫砂多样化",
+          "question": "猫砂需要像食物一样做多样化训练。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "false"
+          ],
+          "analysis": "笔记明确说猫砂不需要做多样化训练，有条件尽量提供含矿砂的猫砂。"
+        },
+        {
+          "id": "35002af8-159e-4d96-a484-bca5420d9248",
+          "type": "single",
+          "difficulty": "medium",
+          "knowledgePoint": "主人行为对换粮的影响",
+          "question": "很多主人换粮失败的主要原因是？",
+          "options": [
+            {
+              "id": "A",
+              "text": "猫太挑食"
+            },
+            {
+              "id": "B",
+              "text": "猫粮品质差"
+            },
+            {
+              "id": "C",
+              "text": "主人无法接受猫24小时不进食，过早换回原有食物"
+            },
+            {
+              "id": "D",
+              "text": "猫生病了"
+            }
+          ],
+          "answer": [
+            "C"
+          ],
+          "analysis": "笔记指出多数主人无法接受猫24小时不进食，稍微挨饿就换回原有食物，导致猫永远无法接受新食物。"
+        },
+        {
+          "id": "46e3cda1-df47-413d-b47f-610ba0f431a4",
+          "type": "multiple",
+          "difficulty": "hard",
+          "knowledgePoint": "保健品接受度训练",
+          "question": "在幼年期提前训练保健品接受度的好处有哪些？",
+          "options": [
+            {
+              "id": "A",
+              "text": "成年后需要时猫会主动进食"
+            },
+            {
+              "id": "B",
+              "text": "避免强迫喂药时鸡飞狗跳"
+            },
+            {
+              "id": "C",
+              "text": "让主人陷入被动"
+            },
+            {
+              "id": "D",
+              "text": "让猫对保健品产生依赖"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "analysis": "笔记指出提前训练后，成年需要时猫会主动进食，不会出现强迫喂药的情况，避免主人被动。C和D不是好处。"
+        },
+        {
+          "id": "42a03807-ab01-49b6-86d8-c5eb1f7ca3de",
+          "type": "trueFalse",
+          "difficulty": "medium",
+          "knowledgePoint": "成年猫食物调整技巧",
+          "question": "让成年猫观察其他猫进食新食物，可以增加其接受度。",
+          "options": [
+            {
+              "id": "true",
+              "text": "正确"
+            },
+            {
+              "id": "false",
+              "text": "错误"
+            }
+          ],
+          "answer": [
+            "true"
+          ],
+          "analysis": "笔记提到让猫观察其他接受该食物的猫进食，猫会模仿学习，成功率比硬喂高。"
+        },
+        {
+          "id": "03febc56-12e2-42a1-b8d4-647c05660aa8",
+          "type": "single",
+          "difficulty": "easy",
+          "knowledgePoint": "猫厌食的核心原因",
+          "question": "猫的厌食绝大多数来自什么问题？",
+          "options": [
+            {
+              "id": "A",
+              "text": "食物本身问题"
+            },
+            {
+              "id": "B",
+              "text": "情绪问题"
+            },
+            {
+              "id": "C",
+              "text": "消化系统疾病"
+            },
+            {
+              "id": "D",
+              "text": "牙齿问题"
+            }
+          ],
+          "answer": [
+            "B"
+          ],
+          "analysis": "笔记明确说猫的厌食绝大多数来自情绪问题，和食物本身关系不大。"
+        }
+      ]
+    },
     {
       "id": "9a537431-59b7-44cd-a00c-938a8081ebea",
       "name": "幼猫离乳期全指南：阶段划分、喂养管理、行为问题与注意事项-2026年06月25日-来自【Get 笔记】 · 06/25 17:16",
